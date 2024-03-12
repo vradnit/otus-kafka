@@ -206,4 +206,5 @@ hellohello3
 ```console
 hw1/images/kafdrop.png
 ````
-
+  **Kafdrop Topic Messages**\
+![Kafdrop_Topic_Messages](https://github.com/vradnit/otus-kafka/blob/hw1/hw1/images/kafdrop.png "Kafdrop Topic Messages")

@@ -3,7 +3,7 @@ version: "3.5"
 x-common-variables: &common-variables
   KAFKA_INTER_BROKER_LISTENER_NAME: BROKER
   KAFKA_CONTROLLER_LISTENER_NAMES: CONTROLLER
-  KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: CONTROLLER:SASL_PLAINTEXT,BROKER:SASL_PLAINTEXT,EXTERNAL:SASL_PLAINTEXT
+  KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: CONTROLLER:SASL_SSL,BROKER:SASL_SSL,EXTERNAL:SASL_SSL
   KAFKA_GROUP_INITIAL_REBALANCE_DELAY_MS: 0
   KAFKA_PROCESS_ROLES: 'controller,broker'
   CLUSTER_ID: 'YDUtH4RNTJSLYDHLP489Yg'
@@ -21,6 +21,14 @@ x-common-variables: &common-variables
   KAFKA_OPTS: "-Djava.security.auth.login.config=/etc/kafka/jaas.conf"
   KAFKA_LOG4J_LOGGERS: "kafka.authorizer.logger=DEBUG"
   KAFKA_LOG4J_ROOT_LOGLEVEL: INFO
+  KAFKA_SECURITY_PROTOCOL: SSL
+  KAFKA_SSL_CLIENT_AUTH: requested
+  KAFKA_SSL_KEYSTORE_LOCATION: /etc/kafka/kafka.broker.keystore.jks
+  KAFKA_SSL_KEYSTORE_PASSWORD: "changeit"
+  KAFKA_SSL_KEY_PASSWORD: "changeit"
+  KAFKA_SSL_TRUSTSTORE_LOCATION: /etc/kafka/kafka.broker.truststore.jks
+  KAFKA_SSL_TRUSTSTORE_PASSWORD: "changeit"
+  KAFKA_SSL_ENDPOINT_IDENTIFICATION_ALGORITHM: ''
 
 services:
   kafdrop:
@@ -39,6 +47,8 @@ services:
       - kafka3
     volumes:
       - ./client.admin.properties:/client.admin.properties
+      - ./ssl/kafdrop.keystore.jks:/kafka.keystore.jks
+      - ./ssl/kafdrop.truststore.jks:/kafka.truststore.jks
 
   kafka-ui:
     image: provectuslabs/kafka-ui:v0.7.1
@@ -53,9 +63,17 @@ services:
     environment:
       KAFKA_CLUSTERS_0_NAME: home
       KAFKA_CLUSTERS_0_BOOTSTRAPSERVERS: kafka1:9092,kafka2:9092,kafka3:9092
-      KAFKA_CLUSTERS_0_PROPERTIES_SECURITY_PROTOCOL: SASL_PLAINTEXT
+      KAFKA_CLUSTERS_0_PROPERTIES_SECURITY_PROTOCOL: SASL_SSL
       KAFKA_CLUSTERS_0_PROPERTIES_SASL_MECHANISM: PLAIN
       KAFKA_CLUSTERS_0_PROPERTIES_SASL_JAAS_CONFIG: 'org.apache.kafka.common.security.plain.PlainLoginModule required username="admin" password="adminPa%3";'
+      KAFKA_CLUSTERS_0_PROPERTIES_SSL_KEYSTORE_LOCATION: /kafka.keystore.jks
+      KAFKA_CLUSTERS_0_PROPERTIES_SSL_KEYSTORE_PASSWORD: "changeit"
+      KAFKA_CLUSTERS_0_SSL_TRUSTSTORELOCATION: /kafka.truststore.jks
+      KAFKA_CLUSTERS_0_SSL_TRUSTSTOREPASSWORD: "changeit"
+      KAFKA_CLUSTERS_0_PROPERTIES_SSL_ENDPOINT_IDENTIFICATION_ALGORITHM: ''
+    volumes:
+      - ./ssl/kafka-ui.keystore.jks:/kafka.keystore.jks
+      - ./ssl/kafka-ui.truststore.jks:/kafka.truststore.jks
 
   kafka1:
     image: confluentinc/cp-kafka:7.5.3
@@ -71,6 +89,8 @@ services:
     volumes:
       - kafka1-data:/var/lib/kafka/data
       - ./kafka.jaas.conf:/etc/kafka/jaas.conf
+      - ./ssl/kafka1.keystore.jks:/etc/kafka/kafka.broker.keystore.jks
+      - ./ssl/kafka1.truststore.jks:/etc/kafka/kafka.broker.truststore.jks
 
   kafka2:
     image: confluentinc/cp-kafka:7.5.3
@@ -86,6 +106,8 @@ services:
     volumes:
       - kafka2-data:/var/lib/kafka/data
       - ./kafka.jaas.conf:/etc/kafka/jaas.conf
+      - ./ssl/kafka2.keystore.jks:/etc/kafka/kafka.broker.keystore.jks
+      - ./ssl/kafka2.truststore.jks:/etc/kafka/kafka.broker.truststore.jks
 
   kafka3:
     image: confluentinc/cp-kafka:7.5.3
@@ -101,6 +123,8 @@ services:
     volumes:
       - kafka3-data:/var/lib/kafka/data
       - ./kafka.jaas.conf:/etc/kafka/jaas.conf
+      - ./ssl/kafka3.keystore.jks:/etc/kafka/kafka.broker.keystore.jks
+      - ./ssl/kafka3.truststore.jks:/etc/kafka/kafka.broker.truststore.jks
 volumes:
   kafka1-data:
   kafka2-data:

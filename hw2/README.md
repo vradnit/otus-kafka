@@ -59,7 +59,8 @@ d0d1f254290c   confluentinc/cp-kafka:7.5.3      "/etc/confluent/dock…"   39 se
 ```
   Проверяем доступность кластера:
 ```console
-# docker exec kafka1 kafka-metadata-quorum --bootstrap-server 192.168.0.61:39091 describe --status
+# docker run --rm --network=plain_default confluentinc/cp-kafka:7.5.3 kafka-metadata-quorum --bootstrap-server 192.168.0.61:39091 describe --status
+
 ClusterId:              YDUtH4RNTJSLYDHLP489Yg
 LeaderId:               3
 LeaderEpoch:            5
@@ -69,6 +70,14 @@ MaxFollowerLagTimeMs:   66
 CurrentVoters:          [1,2,3]
 CurrentObservers:       []
 ```
+  Примечание:
+  Опция '--network=plain_default' необходима, чтобы "наш dokcer клиент" мог общаться с кафкой по "внутренним доменным именам",
+  иначе получаем "Exception":
+```console
+[2024-04-06 19:58:35,327] WARN [AdminClient clientId=adminclient-1] Error connecting to node kafka1:39091 (id: 1 rack: null) (org.apache.kafka.clients.NetworkClient)
+java.net.UnknownHostException: kafka1
+```
+
 
 ### 2. Настройка аутентификацию SASL/PLAIN + авторизация
   ( для варианта "sasl_plain" будем использовать поддиректорию "plain" )
@@ -178,10 +187,6 @@ KafkaServer {
      volumes:
        - kafka1-data:/var/lib/kafka/data
 +      - ./kafka.jaas.conf:/etc/kafka/jaas.conf
-+      - ./client.admin.properties:/client.admin.properties
-+      - ./client.userA.properties:/client.userA.properties
-+      - ./client.userB.properties:/client.userB.properties
-+      - ./client.userC.properties:/client.userC.properties
  
    kafka2:
      image: confluentinc/cp-kafka:7.5.3
@@ -230,7 +235,8 @@ e5c26e7b4fe4   confluentinc/cp-kafka:7.5.3      "/etc/confluent/dock…"   14 se
 
 #### 3.1 Проверяем доступность кластера суперпользователю "admin", а также недоступность "метаинформации" для остальных пользователей:
 ```console
-# docker exec kafka1 kafka-metadata-quorum --command-config /client.admin.properties --bootstrap-server 192.168.0.61:39092 describe --status
+# docker run --rm --network=sasl_plain_default -v ./client.admin.properties:/client.properties confluentinc/cp-kafka:7.5.3 kafka-metadata-quorum --command-config /client.properties --bootstrap-server 192.168.0.61:39091 describe --status
+
 ClusterId:              YDUtH4RNTJSLYDHLP489Yg
 LeaderId:               1
 LeaderEpoch:            2
@@ -240,7 +246,9 @@ MaxFollowerLagTimeMs:   0
 CurrentVoters:          [1,2,3]
 CurrentObservers:       []
 
-# docker exec kafka1 kafka-metadata-quorum --command-config /client.userA.properties --bootstrap-server 192.168.0.61:39092 describe --status
+
+# docker run --rm --network=sasl_plain_default -v ./client.userA.properties:/client.properties confluentinc/cp-kafka:7.5.3 kafka-metadata-quorum --command-config /client.properties --bootstrap-server 192.168.0.61:39091 describe --status
+
 org.apache.kafka.common.errors.ClusterAuthorizationException: Cluster authorization failed.
 java.util.concurrent.ExecutionException: org.apache.kafka.common.errors.ClusterAuthorizationException: Cluster authorization failed.
 	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:395)
@@ -255,23 +263,23 @@ Caused by: org.apache.kafka.common.errors.ClusterAuthorizationException: Cluster
 
 #### 3.2 Создаем топик
 ```console
-# docker exec kafka1 kafka-topics --command-config /client.admin.properties --bootstrap-server 192.168.0.61:39092 --create --replication-factor 3 --partitions 5 --topic home
+# docker run --rm --network=sasl_plain_default -v ./client.admin.properties:/client.properties confluentinc/cp-kafka:7.5.3 kafka-topics --command-config /client.properties --bootstrap-server 192.168.0.61:39092 --create --replication-factor 3 --partitions 5 --topic home
 Created topic home.
 
-# docker exec kafka1 kafka-topics --command-config /client.admin.properties --bootstrap-server 192.168.0.61:39092 --list
+# # docker run --rm --network=sasl_plain_default -v ./client.admin.properties:/client.properties confluentinc/cp-kafka:7.5.3 kafka-topics --command-config /client.properties --bootstrap-server 192.168.0.61:39092 --list
 home
 ```
 
 #### 3.3 Выдаем права "write" для userA, права "read" для userC
 ```console
-# docker exec kafka1 kafka-acls --command-config /client.admin.properties --bootstrap-server 192.168.0.61:39092 --add --allow-principal User:userA --operation WRITE --topic home
+# docker run --rm --network=sasl_plain_default -v ./client.admin.properties:/client.properties confluentinc/cp-kafka:7.5.3 kafka-acls --command-config /client.properties --bootstrap-server 192.168.0.61:39092 --add --allow-principal User:userA --operation WRITE --topic home
 Adding ACLs for resource `ResourcePattern(resourceType=TOPIC, name=home, patternType=LITERAL)`: 
  	(principal=User:userA, host=*, operation=WRITE, permissionType=ALLOW) 
 
 Current ACLs for resource `ResourcePattern(resourceType=TOPIC, name=home, patternType=LITERAL)`: 
  	(principal=User:userA, host=*, operation=WRITE, permissionType=ALLOW) 
 
-# docker exec kafka1 kafka-acls --command-config /client.admin.properties --bootstrap-server 192.168.0.61:39092 --add --allow-principal User:userB --operation READ --topic home --group "homhom"
+# docker run --rm --network=sasl_plain_default -v ./client.admin.properties:/client.properties confluentinc/cp-kafka:7.5.3 kafka-acls --command-config /client.properties --bootstrap-server 192.168.0.61:39092 --add --allow-principal User:userB --operation READ --topic home --group "homhom"
 Adding ACLs for resource `ResourcePattern(resourceType=TOPIC, name=home, patternType=LITERAL)`: 
  	(principal=User:userB, host=*, operation=READ, permissionType=ALLOW) 
 
@@ -291,22 +299,22 @@ Current ACLs for resource `ResourcePattern(resourceType=GROUP, name=homhom, patt
 
 #### 4.1 Получение списка топикоп:
 ```console
-# docker exec kafka1 kafka-topics --command-config /client.userA.properties --bootstrap-server 192.168.0.61:39092 --list
+# docker run --rm --network=sasl_plain_default -v ./client.userA.properties:/client.properties confluentinc/cp-kafka:7.5.3 kafka-topics --command-config /client.properties --bootstrap-server 192.168.0.61:39092 --list
 home
  
-# docker exec kafka1 kafka-topics --command-config /client.userB.properties --bootstrap-server 192.168.0.61:39092 --list
+# docker run --rm --network=sasl_plain_default -v ./client.userB.properties:/client.properties confluentinc/cp-kafka:7.5.3 kafka-topics --command-config /client.properties --bootstrap-server 192.168.0.61:39092 --list
 home
  
-# docker exec kafka1 kafka-topics --command-config /client.userC.properties --bootstrap-server 192.168.0.61:39092 --list
+# docker run --rm --network=sasl_plain_default -v ./client.userC.properties:/client.properties confluentinc/cp-kafka:7.5.3 kafka-topics --command-config /client.properties --bootstrap-server 192.168.0.61:39092 --list
 
-``` 
+```
 Итог: пользователи userA и userB получили список топиков, а userC нет.
 
 
 #### 4.2 Запись сообщений в топик:
   Пользователь userA:
 ```console
-# docker exec -it kafka1 kafka-console-producer --producer.config /client.userA.properties --bootstrap-server 192.168.0.61:39092 --topic=home
+# docker run -it --rm --network=sasl_plain_default -v ./client.userA.properties:/client.properties confluentinc/cp-kafka:7.5.3 kafka-console-producer --producer.config /client.properties --bootstrap-server 192.168.0.61:39091 --topic=home
 >m1
 >m2
 >m3
@@ -315,11 +323,11 @@ home
 ```
   Пользователь userB:
 ```console
-# docker exec -it kafka1 kafka-console-producer --producer.config /client.userB.properties --bootstrap-server 192.168.0.61:39092 --topic=home
+# docker run -it --rm --network=sasl_plain_default -v ./client.userB.properties:/client.properties confluentinc/cp-kafka:7.5.3 kafka-console-producer --producer.config /client.properties --bootstrap-server 192.168.0.61:39091 --topic=home
 >b1
-[2024-04-06 09:47:42,031] ERROR [Producer clientId=console-producer] Aborting producer batches due to fatal error (org.apache.kafka.clients.producer.internals.Sender)
+[2024-04-06 20:23:20,117] ERROR [Producer clientId=console-producer] Aborting producer batches due to fatal error (org.apache.kafka.clients.producer.internals.Sender)
 org.apache.kafka.common.errors.ClusterAuthorizationException: Cluster authorization failed.
-[2024-04-06 09:47:42,034] ERROR Error when sending message to topic home with key: null, value: 2 bytes with error: (org.apache.kafka.clients.producer.internals.ErrorLoggingCallback)
+[2024-04-06 20:23:20,119] ERROR Error when sending message to topic home with key: null, value: 2 bytes with error: (org.apache.kafka.clients.producer.internals.ErrorLoggingCallback)
 org.apache.kafka.common.errors.ClusterAuthorizationException: Cluster authorization failed.
 org.apache.kafka.common.KafkaException: Cannot execute transactional method because we are in an error state
 	at org.apache.kafka.clients.producer.internals.TransactionManager.maybeFailWithError(TransactionManager.java:1010)
@@ -334,11 +342,11 @@ Caused by: org.apache.kafka.common.errors.ClusterAuthorizationException: Cluster
 ```
   Пользователь userC:
 ```console
-# docker exec -it kafka1 kafka-console-producer --producer.config /client.userC.properties --bootstrap-server 192.168.0.61:39092 --topic=home
+# docker run -it --rm --network=sasl_plain_default -v ./client.userC.properties:/client.properties confluentinc/cp-kafka:7.5.3 kafka-console-producer --producer.config /client.properties --bootstrap-server 192.168.0.61:39091 --topic=home
 >c1
-[2024-04-06 09:48:02,899] WARN [Producer clientId=console-producer] Error while fetching metadata with correlation id 4 : {home=TOPIC_AUTHORIZATION_FAILED} (org.apache.kafka.clients.NetworkClient)
-[2024-04-06 09:48:02,906] ERROR [Producer clientId=console-producer] Topic authorization failed for topics [home] (org.apache.kafka.clients.Metadata)
-[2024-04-06 09:48:02,909] ERROR Error when sending message to topic home with key: null, value: 2 bytes with error: (org.apache.kafka.clients.producer.internals.ErrorLoggingCallback)
+[2024-04-06 20:23:36,996] WARN [Producer clientId=console-producer] Error while fetching metadata with correlation id 4 : {home=TOPIC_AUTHORIZATION_FAILED} (org.apache.kafka.clients.NetworkClient)
+[2024-04-06 20:23:37,003] ERROR [Producer clientId=console-producer] Topic authorization failed for topics [home] (org.apache.kafka.clients.Metadata)
+[2024-04-06 20:23:37,006] ERROR Error when sending message to topic home with key: null, value: 2 bytes with error: (org.apache.kafka.clients.producer.internals.ErrorLoggingCallback)
 org.apache.kafka.common.errors.TopicAuthorizationException: Not authorized to access topics: [home]
 ```
   
@@ -348,26 +356,27 @@ org.apache.kafka.common.errors.TopicAuthorizationException: Not authorized to ac
 #### 4.2 Чтение сообщений из топика:
   Пользователь userA:
 ```console
-# docker exec kafka1 kafka-console-consumer --consumer.config /client.userA.properties --bootstrap-server 192.168.0.61:39092 --topic=home --group "homhom" --from-beginning
-[2024-04-05 21:00:53,315] ERROR Error processing message, terminating consumer process:  (kafka.tools.ConsoleConsumer$)
+# docker run -it --rm --network=sasl_plain_default -v ./client.userA.properties:/client.properties confluentinc/cp-kafka:7.5.3 kafka-console-consumer --consumer.config /client.properties --bootstrap-server 192.168.0.61:39092 --topic=home --group "homhom" --from-beginning
+[2024-04-06 20:32:27,434] ERROR Error processing message, terminating consumer process:  (kafka.tools.ConsoleConsumer$)
 org.apache.kafka.common.errors.GroupAuthorizationException: Not authorized to access group: homhom
 Processed a total of 0 messages
 ```
-  Пользователь userB:
-```console
-# docker exec kafka1 kafka-console-consumer --consumer.config /client.userB.properties --bootstrap-server 192.168.0.61:39092 --topic=home --group "homhom" --from-beginning
+  Пользователь userB: 
+```console 
+[root@test2 sasl_plain]# docker run -it --rm --network=sasl_plain_default -v ./client.userB.properties:/client.properties confluentinc/cp-kafka:7.5.3 kafka-console-consumer --consumer.config /client.properties --bootstrap-server 192.168.0.61:39092 --topic=home --group "homhom" --from-beginning
 m1
 m2
 m3
 m4
 m5
+^CProcessed a total of 5 messages
 ```
   Пользователь userC:
-```console
-# docker exec kafka1 kafka-console-consumer --consumer.config /client.userC.properties --bootstrap-server 192.168.0.61:39092 --topic=home --group "homhom" --from-beginning
-[2024-04-05 21:00:35,622] WARN [Consumer clientId=console-consumer, groupId=homhom] Error while fetching metadata with correlation id 2 : {home=TOPIC_AUTHORIZATION_FAILED} (org.apache.kafka.clients.NetworkClient)
-[2024-04-05 21:00:35,624] ERROR [Consumer clientId=console-consumer, groupId=homhom] Topic authorization failed for topics [home] (org.apache.kafka.clients.Metadata)
-[2024-04-05 21:00:35,625] ERROR Error processing message, terminating consumer process:  (kafka.tools.ConsoleConsumer$)
+```console 
+# docker run -it --rm --network=sasl_plain_default -v ./client.userC.properties:/client.properties confluentinc/cp-kafka:7.5.3 kafka-console-consumer --consumer.config /client.properties --bootstrap-server 192.168.0.61:39092 --topic=home --group "homhom" --from-beginning
+[2024-04-06 20:32:57,399] WARN [Consumer clientId=console-consumer, groupId=homhom] Error while fetching metadata with correlation id 2 : {home=TOPIC_AUTHORIZATION_FAILED} (org.apache.kafka.clients.NetworkClient)
+[2024-04-06 20:32:57,400] ERROR [Consumer clientId=console-consumer, groupId=homhom] Topic authorization failed for topics [home] (org.apache.kafka.clients.Metadata)
+[2024-04-06 20:32:57,401] ERROR Error processing message, terminating consumer process:  (kafka.tools.ConsoleConsumer$)
 org.apache.kafka.common.errors.TopicAuthorizationException: Not authorized to access topics: [home]
 Processed a total of 0 messages
 ```

@@ -387,7 +387,10 @@ org.apache.kafka.common.errors.TopicAuthorizationException: Not authorized to ac
 Processed a total of 0 messages
 ```
 
-#### Итог: пользователи userA и userC не имеют прав чтения из топика, а пользователь userB успешно прочиталь сообщения.
+#### Итог:
+  SASL_PLAIN успешно настроена. 
+  Пользователи userA и userC не имеют прав чтения из топика, а пользователь userB успешно прочиталь сообщения.
+
 
 
 ### 5. Настройка SSL

@@ -149,7 +149,6 @@ mvn compile assembly:single
 Уточнение: вывод о полученных сообщениях появится, только после запуска продюсера.
 ```console
 # make consumer
-[root@test2 java]# make consumer
 java -cp target/java-1.0-SNAPSHOT-jar-with-dependencies.jar ru.otus.transaction.Consumer
 2024-04-28 23:48:43,290 [main] INFO  Consumer - Start: consumer
 2024-04-28 23:49:40,253 [main] INFO  Consumer - [topic: topic1, partition: 0, offset: 0 key: 0] good-02e14d7e-1081-4502-a22f-51853e0ca689

@@ -60,3 +60,4 @@ libraryDependencies ++= Seq(
 )
 libraryDependencies += "dev.zio" %% "zio-kafka"         % "2.3.1"
 libraryDependencies += "dev.zio" %% "zio-kafka-testkit" % "2.3.1" % Test
+

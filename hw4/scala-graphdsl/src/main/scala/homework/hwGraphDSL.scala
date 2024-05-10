@@ -6,7 +6,7 @@ import akka.stream.{ActorMaterializer, ClosedShape}
 import akka.stream.scaladsl.{Broadcast, Flow, GraphDSL, RunnableGraph, Sink, Source, ZipWith}
 
 
-object homework {
+object hwGraphDSL {
   implicit val system: ActorSystem = ActorSystem("fusion")
   implicit val materializer: ActorMaterializer = ActorMaterializer()
   val graph = GraphDSL.create() { implicit builder: GraphDSL.Builder[NotUsed] =>

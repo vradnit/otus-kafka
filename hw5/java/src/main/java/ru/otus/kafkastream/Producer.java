@@ -31,7 +31,7 @@ public class Producer {
         ProducerRecord<String, String> record = Utils.generateMessage(topic);
         producer.send(record);
         logger.info("Send to: {topic:[{}], key:[{}], value:[{}]}", record.topic(), record.key(), record.value());
-        Thread.sleep(100);
+        Thread.sleep(500);
       }
       catch (Exception e) {
         System.out.println("EXCEPTION: " + e.getMessage());

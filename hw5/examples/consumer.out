@@ -1,0 +1,749 @@
+2024-06-02 23:29:44,878 [main] INFO  Consumer - Start: consumer
+2024-06-02 23:30:11,489 [main] INFO  Consumer - [topic: out, partition: 0, offset: 0 key: Bayasabhad@<2024-06-02T20:25:00Z,2024-06-02T20:30:00Z>] 1
+2024-06-02 23:30:11,489 [main] INFO  Consumer - [topic: out, partition: 0, offset: 1 key: King's Landing@<2024-06-02T20:25:00Z,2024-06-02T20:30:00Z>] 1
+2024-06-02 23:30:11,489 [main] INFO  Consumer - [topic: out, partition: 0, offset: 2 key: Lorath@<2024-06-02T20:25:00Z,2024-06-02T20:30:00Z>] 1
+2024-06-02 23:30:11,489 [main] INFO  Consumer - [topic: out, partition: 0, offset: 3 key: Tyria@<2024-06-02T20:25:00Z,2024-06-02T20:30:00Z>] 1
+2024-06-02 23:30:11,489 [main] INFO  Consumer - [topic: out, partition: 0, offset: 4 key: Sar Meel@<2024-06-02T20:25:00Z,2024-06-02T20:30:00Z>] 1
+2024-06-02 23:30:11,489 [main] INFO  Consumer - [topic: out, partition: 0, offset: 5 key: Vaes Dothrak@<2024-06-02T20:25:00Z,2024-06-02T20:30:00Z>] 1
+2024-06-02 23:30:11,489 [main] INFO  Consumer - [topic: out, partition: 0, offset: 6 key: Braavos@<2024-06-02T20:25:00Z,2024-06-02T20:30:00Z>] 2
+2024-06-02 23:30:11,489 [main] INFO  Consumer - [topic: out, partition: 0, offset: 7 key: Tyrosh@<2024-06-02T20:25:00Z,2024-06-02T20:30:00Z>] 2
+2024-06-02 23:30:11,489 [main] INFO  Consumer - [topic: out, partition: 0, offset: 8 key: Asshai@<2024-06-02T20:25:00Z,2024-06-02T20:30:00Z>] 2
+2024-06-02 23:30:11,489 [main] INFO  Consumer - [topic: out, partition: 0, offset: 9 key: Ar Noy@<2024-06-02T20:25:00Z,2024-06-02T20:30:00Z>] 2
+2024-06-02 23:30:11,489 [main] INFO  Consumer - [topic: out, partition: 0, offset: 10 key: Samyrian@<2024-06-02T20:25:00Z,2024-06-02T20:30:00Z>] 2
+2024-06-02 23:30:11,489 [main] INFO  Consumer - [topic: out, partition: 0, offset: 11 key: Bhorash@<2024-06-02T20:25:00Z,2024-06-02T20:30:00Z>] 1
+2024-06-02 23:30:11,489 [main] INFO  Consumer - [topic: out, partition: 0, offset: 12 key: Sunspear@<2024-06-02T20:25:00Z,2024-06-02T20:30:00Z>] 1
+2024-06-02 23:30:11,489 [main] INFO  Consumer - [topic: out, partition: 0, offset: 13 key: Myr@<2024-06-02T20:25:00Z,2024-06-02T20:30:00Z>] 3
+2024-06-02 23:30:11,489 [main] INFO  Consumer - [topic: out, partition: 0, offset: 14 key: Yunkai@<2024-06-02T20:25:00Z,2024-06-02T20:30:00Z>] 2
+2024-06-02 23:30:11,489 [main] INFO  Consumer - [topic: out, partition: 0, offset: 15 key: Chroyane@<2024-06-02T20:25:00Z,2024-06-02T20:30:00Z>] 2
+2024-06-02 23:30:11,489 [main] INFO  Consumer - [topic: out, partition: 0, offset: 16 key: Gulltown@<2024-06-02T20:25:00Z,2024-06-02T20:30:00Z>] 2
+2024-06-02 23:30:11,489 [main] INFO  Consumer - [topic: out, partition: 0, offset: 17 key: Tolos@<2024-06-02T20:25:00Z,2024-06-02T20:30:00Z>] 2
+2024-06-02 23:30:11,489 [main] INFO  Consumer - [topic: out, partition: 0, offset: 18 key: Old Ghis@<2024-06-02T20:25:00Z,2024-06-02T20:30:00Z>] 2
+2024-06-02 23:30:11,489 [main] INFO  Consumer - [topic: out, partition: 0, offset: 19 key: New Ghis@<2024-06-02T20:25:00Z,2024-06-02T20:30:00Z>] 2
+2024-06-02 23:30:11,489 [main] INFO  Consumer - [topic: out, partition: 0, offset: 20 key: Oros@<2024-06-02T20:25:00Z,2024-06-02T20:30:00Z>] 1
+2024-06-02 23:30:11,489 [main] INFO  Consumer - [topic: out, partition: 0, offset: 21 key: Pentos@<2024-06-02T20:25:00Z,2024-06-02T20:30:00Z>] 2
+2024-06-02 23:30:11,489 [main] INFO  Consumer - [topic: out, partition: 0, offset: 22 key: Meereen@<2024-06-02T20:25:00Z,2024-06-02T20:30:00Z>] 4
+2024-06-02 23:30:11,489 [main] INFO  Consumer - [topic: out, partition: 0, offset: 23 key: Oldtown@<2024-06-02T20:25:00Z,2024-06-02T20:30:00Z>] 3
+2024-06-02 23:30:11,489 [main] INFO  Consumer - [topic: out, partition: 0, offset: 24 key: Qarth@<2024-06-02T20:25:00Z,2024-06-02T20:30:00Z>] 3
+2024-06-02 23:30:11,489 [main] INFO  Consumer - [topic: out, partition: 0, offset: 25 key: Norvos@<2024-06-02T20:25:00Z,2024-06-02T20:30:00Z>] 3
+2024-06-02 23:30:11,490 [main] INFO  Consumer - [topic: out, partition: 0, offset: 26 key: Lannisport@<2024-06-02T20:25:00Z,2024-06-02T20:30:00Z>] 2
+2024-06-02 23:30:11,490 [main] INFO  Consumer - [topic: out, partition: 0, offset: 27 key: Astapor@<2024-06-02T20:25:00Z,2024-06-02T20:30:00Z>] 4
+2024-06-02 23:30:11,490 [main] INFO  Consumer - [topic: out, partition: 0, offset: 28 key: Volantis@<2024-06-02T20:25:00Z,2024-06-02T20:30:00Z>] 1
+2024-06-02 23:30:11,490 [main] INFO  Consumer - [topic: out, partition: 0, offset: 29 key: Qarth@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 1
+2024-06-02 23:30:11,490 [main] INFO  Consumer - [topic: out, partition: 0, offset: 30 key: King's Landing@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 1
+2024-06-02 23:30:11,490 [main] INFO  Consumer - [topic: out, partition: 0, offset: 31 key: White Harbor@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 1
+2024-06-02 23:30:11,490 [main] INFO  Consumer - [topic: out, partition: 0, offset: 32 key: Tyrosh@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 1
+2024-06-02 23:30:11,490 [main] INFO  Consumer - [topic: out, partition: 0, offset: 33 key: Lannisport@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 1
+2024-06-02 23:30:11,490 [main] INFO  Consumer - [topic: out, partition: 0, offset: 34 key: Old Valyria@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 1
+2024-06-02 23:30:11,490 [main] INFO  Consumer - [topic: out, partition: 0, offset: 35 key: Lorath@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 1
+2024-06-02 23:30:11,490 [main] INFO  Consumer - [topic: out, partition: 0, offset: 36 key: Oldtown@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 1
+2024-06-02 23:30:11,490 [main] INFO  Consumer - [topic: out, partition: 0, offset: 37 key: Astapor@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 2
+2024-06-02 23:30:11,490 [main] INFO  Consumer - [topic: out, partition: 0, offset: 38 key: Qohor@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 1
+2024-06-02 23:30:11,490 [main] INFO  Consumer - [topic: out, partition: 0, offset: 39 key: Myr@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 1
+2024-06-02 23:30:11,490 [main] INFO  Consumer - [topic: out, partition: 0, offset: 40 key: Samyrian@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 3
+2024-06-02 23:30:11,490 [main] INFO  Consumer - [topic: out, partition: 0, offset: 41 key: Asshai@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 1
+2024-06-02 23:30:11,490 [main] INFO  Consumer - [topic: out, partition: 0, offset: 42 key: Mantarys@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 2
+2024-06-02 23:30:11,490 [main] INFO  Consumer - [topic: out, partition: 0, offset: 43 key: Pentos@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 1
+2024-06-02 23:30:11,490 [main] INFO  Consumer - [topic: out, partition: 0, offset: 44 key: Gulltown@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 2
+2024-06-02 23:30:11,490 [main] INFO  Consumer - [topic: out, partition: 0, offset: 45 key: New Ghis@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 1
+2024-06-02 23:30:41,599 [main] INFO  Consumer - [topic: out, partition: 0, offset: 46 key: Tyrosh@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 2
+2024-06-02 23:30:41,600 [main] INFO  Consumer - [topic: out, partition: 0, offset: 47 key: Vaes Dothrak@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 1
+2024-06-02 23:30:41,600 [main] INFO  Consumer - [topic: out, partition: 0, offset: 48 key: Bayasabhad@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 1
+2024-06-02 23:30:41,600 [main] INFO  Consumer - [topic: out, partition: 0, offset: 49 key: Ny Sar@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 2
+2024-06-02 23:30:41,600 [main] INFO  Consumer - [topic: out, partition: 0, offset: 50 key: Qohor@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 2
+2024-06-02 23:30:41,600 [main] INFO  Consumer - [topic: out, partition: 0, offset: 51 key: Lys@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 1
+2024-06-02 23:30:41,600 [main] INFO  Consumer - [topic: out, partition: 0, offset: 52 key: Elyria@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 2
+2024-06-02 23:30:41,600 [main] INFO  Consumer - [topic: out, partition: 0, offset: 53 key: Volantis@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 1
+2024-06-02 23:30:41,600 [main] INFO  Consumer - [topic: out, partition: 0, offset: 54 key: Samyrian@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 5
+2024-06-02 23:30:41,600 [main] INFO  Consumer - [topic: out, partition: 0, offset: 55 key: Sunspear@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 2
+2024-06-02 23:30:41,600 [main] INFO  Consumer - [topic: out, partition: 0, offset: 56 key: Sar Meel@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 2
+2024-06-02 23:30:41,600 [main] INFO  Consumer - [topic: out, partition: 0, offset: 57 key: Yunkai@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 2
+2024-06-02 23:30:41,600 [main] INFO  Consumer - [topic: out, partition: 0, offset: 58 key: Norvos@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 1
+2024-06-02 23:30:41,600 [main] INFO  Consumer - [topic: out, partition: 0, offset: 59 key: Astapor@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 3
+2024-06-02 23:30:41,600 [main] INFO  Consumer - [topic: out, partition: 0, offset: 60 key: New Ghis@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 4
+2024-06-02 23:30:41,601 [main] INFO  Consumer - [topic: out, partition: 0, offset: 61 key: White Harbor@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 3
+2024-06-02 23:30:41,601 [main] INFO  Consumer - [topic: out, partition: 0, offset: 62 key: Tyria@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 4
+2024-06-02 23:30:41,601 [main] INFO  Consumer - [topic: out, partition: 0, offset: 63 key: Old Valyria@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 3
+2024-06-02 23:30:41,601 [main] INFO  Consumer - [topic: out, partition: 0, offset: 64 key: Old Ghis@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 2
+2024-06-02 23:30:41,601 [main] INFO  Consumer - [topic: out, partition: 0, offset: 65 key: Braavos@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 1
+2024-06-02 23:30:41,601 [main] INFO  Consumer - [topic: out, partition: 0, offset: 66 key: Gulltown@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 4
+2024-06-02 23:30:41,601 [main] INFO  Consumer - [topic: out, partition: 0, offset: 67 key: Oldtown@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 3
+2024-06-02 23:30:41,601 [main] INFO  Consumer - [topic: out, partition: 0, offset: 68 key: Qarth@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 3
+2024-06-02 23:30:41,601 [main] INFO  Consumer - [topic: out, partition: 0, offset: 69 key: Pentos@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 2
+2024-06-02 23:30:41,601 [main] INFO  Consumer - [topic: out, partition: 0, offset: 70 key: Chroyane@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 3
+2024-06-02 23:30:41,601 [main] INFO  Consumer - [topic: out, partition: 0, offset: 71 key: Mantarys@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 4
+2024-06-02 23:30:41,601 [main] INFO  Consumer - [topic: out, partition: 0, offset: 72 key: King's Landing@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 3
+2024-06-02 23:30:41,602 [main] INFO  Consumer - [topic: out, partition: 0, offset: 73 key: Asshai@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 3
+2024-06-02 23:30:41,602 [main] INFO  Consumer - [topic: out, partition: 0, offset: 74 key: Bhorash@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 6
+2024-06-02 23:30:41,602 [main] INFO  Consumer - [topic: out, partition: 0, offset: 75 key: Lannisport@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 3
+2024-06-02 23:30:41,602 [main] INFO  Consumer - [topic: out, partition: 0, offset: 76 key: Tolos@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 1
+2024-06-02 23:30:41,602 [main] INFO  Consumer - [topic: out, partition: 0, offset: 77 key: Ar Noy@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 1
+2024-06-02 23:31:11,638 [main] INFO  Consumer - [topic: out, partition: 0, offset: 78 key: Meereen@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 1
+2024-06-02 23:31:11,639 [main] INFO  Consumer - [topic: out, partition: 0, offset: 79 key: Chroyane@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 5
+2024-06-02 23:31:11,639 [main] INFO  Consumer - [topic: out, partition: 0, offset: 80 key: Samyrian@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 6
+2024-06-02 23:31:11,639 [main] INFO  Consumer - [topic: out, partition: 0, offset: 81 key: Ar Noy@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 2
+2024-06-02 23:31:11,639 [main] INFO  Consumer - [topic: out, partition: 0, offset: 82 key: Myr@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 2
+2024-06-02 23:31:11,639 [main] INFO  Consumer - [topic: out, partition: 0, offset: 83 key: Tolos@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 2
+2024-06-02 23:31:11,639 [main] INFO  Consumer - [topic: out, partition: 0, offset: 84 key: Mantarys@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 6
+2024-06-02 23:31:11,639 [main] INFO  Consumer - [topic: out, partition: 0, offset: 85 key: Bayasabhad@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 2
+2024-06-02 23:31:11,639 [main] INFO  Consumer - [topic: out, partition: 0, offset: 86 key: Oros@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 1
+2024-06-02 23:31:11,639 [main] INFO  Consumer - [topic: out, partition: 0, offset: 87 key: Pentos@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 4
+2024-06-02 23:31:11,639 [main] INFO  Consumer - [topic: out, partition: 0, offset: 88 key: Bhorash@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 7
+2024-06-02 23:31:11,639 [main] INFO  Consumer - [topic: out, partition: 0, offset: 89 key: Qohor@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 4
+2024-06-02 23:31:11,639 [main] INFO  Consumer - [topic: out, partition: 0, offset: 90 key: Sunspear@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 3
+2024-06-02 23:31:11,640 [main] INFO  Consumer - [topic: out, partition: 0, offset: 91 key: Tyrosh@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 4
+2024-06-02 23:31:11,640 [main] INFO  Consumer - [topic: out, partition: 0, offset: 92 key: New Ghis@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 5
+2024-06-02 23:31:11,640 [main] INFO  Consumer - [topic: out, partition: 0, offset: 93 key: Volantis@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 2
+2024-06-02 23:31:11,640 [main] INFO  Consumer - [topic: out, partition: 0, offset: 94 key: Asshai@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 6
+2024-06-02 23:31:11,640 [main] INFO  Consumer - [topic: out, partition: 0, offset: 95 key: Old Ghis@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 6
+2024-06-02 23:31:11,640 [main] INFO  Consumer - [topic: out, partition: 0, offset: 96 key: Qarth@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 5
+2024-06-02 23:31:11,640 [main] INFO  Consumer - [topic: out, partition: 0, offset: 97 key: Oldtown@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 4
+2024-06-02 23:31:11,640 [main] INFO  Consumer - [topic: out, partition: 0, offset: 98 key: King's Landing@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 4
+2024-06-02 23:31:11,640 [main] INFO  Consumer - [topic: out, partition: 0, offset: 99 key: Yunkai@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 3
+2024-06-02 23:31:11,640 [main] INFO  Consumer - [topic: out, partition: 0, offset: 100 key: Norvos@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 3
+2024-06-02 23:31:11,640 [main] INFO  Consumer - [topic: out, partition: 0, offset: 101 key: Braavos@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 3
+2024-06-02 23:31:11,641 [main] INFO  Consumer - [topic: out, partition: 0, offset: 102 key: Sar Meel@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 5
+2024-06-02 23:31:11,641 [main] INFO  Consumer - [topic: out, partition: 0, offset: 103 key: Gulltown@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 7
+2024-06-02 23:31:11,641 [main] INFO  Consumer - [topic: out, partition: 0, offset: 104 key: Ny Sar@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 5
+2024-06-02 23:31:11,641 [main] INFO  Consumer - [topic: out, partition: 0, offset: 105 key: Old Valyria@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 7
+2024-06-02 23:31:11,641 [main] INFO  Consumer - [topic: out, partition: 0, offset: 106 key: Elyria@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 5
+2024-06-02 23:31:11,641 [main] INFO  Consumer - [topic: out, partition: 0, offset: 107 key: Vaes Dothrak@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 2
+2024-06-02 23:31:11,641 [main] INFO  Consumer - [topic: out, partition: 0, offset: 108 key: Lorath@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 2
+2024-06-02 23:31:11,641 [main] INFO  Consumer - [topic: out, partition: 0, offset: 109 key: Astapor@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 7
+2024-06-02 23:31:41,724 [main] INFO  Consumer - [topic: out, partition: 0, offset: 110 key: Braavos@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 4
+2024-06-02 23:31:41,725 [main] INFO  Consumer - [topic: out, partition: 0, offset: 111 key: Samyrian@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 9
+2024-06-02 23:31:41,725 [main] INFO  Consumer - [topic: out, partition: 0, offset: 112 key: Meereen@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 5
+2024-06-02 23:31:41,725 [main] INFO  Consumer - [topic: out, partition: 0, offset: 113 key: Yunkai@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 4
+2024-06-02 23:31:41,725 [main] INFO  Consumer - [topic: out, partition: 0, offset: 114 key: Chroyane@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 7
+2024-06-02 23:31:41,725 [main] INFO  Consumer - [topic: out, partition: 0, offset: 115 key: Elyria@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 7
+2024-06-02 23:31:41,725 [main] INFO  Consumer - [topic: out, partition: 0, offset: 116 key: Sunspear@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 4
+2024-06-02 23:31:41,725 [main] INFO  Consumer - [topic: out, partition: 0, offset: 117 key: Qarth@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 7
+2024-06-02 23:31:41,725 [main] INFO  Consumer - [topic: out, partition: 0, offset: 118 key: Tyria@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 7
+2024-06-02 23:31:41,725 [main] INFO  Consumer - [topic: out, partition: 0, offset: 119 key: Norvos@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 4
+2024-06-02 23:31:41,725 [main] INFO  Consumer - [topic: out, partition: 0, offset: 120 key: Mantarys@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 10
+2024-06-02 23:31:41,725 [main] INFO  Consumer - [topic: out, partition: 0, offset: 121 key: Vaes Dothrak@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 4
+2024-06-02 23:31:41,725 [main] INFO  Consumer - [topic: out, partition: 0, offset: 122 key: Oldtown@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 7
+2024-06-02 23:31:41,725 [main] INFO  Consumer - [topic: out, partition: 0, offset: 123 key: Astapor@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 8
+2024-06-02 23:31:41,725 [main] INFO  Consumer - [topic: out, partition: 0, offset: 124 key: King's Landing@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 6
+2024-06-02 23:31:41,725 [main] INFO  Consumer - [topic: out, partition: 0, offset: 125 key: Lorath@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 5
+2024-06-02 23:31:41,725 [main] INFO  Consumer - [topic: out, partition: 0, offset: 126 key: Ny Sar@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 7
+2024-06-02 23:31:41,726 [main] INFO  Consumer - [topic: out, partition: 0, offset: 127 key: Volantis@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 5
+2024-06-02 23:31:41,726 [main] INFO  Consumer - [topic: out, partition: 0, offset: 128 key: Asshai@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 7
+2024-06-02 23:31:41,726 [main] INFO  Consumer - [topic: out, partition: 0, offset: 129 key: Tyrosh@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 8
+2024-06-02 23:31:41,726 [main] INFO  Consumer - [topic: out, partition: 0, offset: 130 key: Oros@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 4
+2024-06-02 23:31:41,726 [main] INFO  Consumer - [topic: out, partition: 0, offset: 131 key: White Harbor@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 4
+2024-06-02 23:31:41,726 [main] INFO  Consumer - [topic: out, partition: 0, offset: 132 key: Gulltown@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 8
+2024-06-02 23:31:41,726 [main] INFO  Consumer - [topic: out, partition: 0, offset: 133 key: Old Ghis@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 7
+2024-06-02 23:31:41,726 [main] INFO  Consumer - [topic: out, partition: 0, offset: 134 key: New Ghis@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 9
+2024-06-02 23:31:41,726 [main] INFO  Consumer - [topic: out, partition: 0, offset: 135 key: Pentos@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 6
+2024-06-02 23:31:41,726 [main] INFO  Consumer - [topic: out, partition: 0, offset: 136 key: Tolos@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 4
+2024-06-02 23:32:11,800 [main] INFO  Consumer - [topic: out, partition: 0, offset: 137 key: Volantis@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 6
+2024-06-02 23:32:11,801 [main] INFO  Consumer - [topic: out, partition: 0, offset: 138 key: Astapor@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 10
+2024-06-02 23:32:11,801 [main] INFO  Consumer - [topic: out, partition: 0, offset: 139 key: White Harbor@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 6
+2024-06-02 23:32:11,801 [main] INFO  Consumer - [topic: out, partition: 0, offset: 140 key: Bayasabhad@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 3
+2024-06-02 23:32:11,801 [main] INFO  Consumer - [topic: out, partition: 0, offset: 141 key: Ar Noy@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 3
+2024-06-02 23:32:11,801 [main] INFO  Consumer - [topic: out, partition: 0, offset: 142 key: Yunkai@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 6
+2024-06-02 23:32:11,801 [main] INFO  Consumer - [topic: out, partition: 0, offset: 143 key: Asshai@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 8
+2024-06-02 23:32:11,801 [main] INFO  Consumer - [topic: out, partition: 0, offset: 144 key: Chroyane@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 8
+2024-06-02 23:32:11,801 [main] INFO  Consumer - [topic: out, partition: 0, offset: 145 key: Ny Sar@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 9
+2024-06-02 23:32:11,801 [main] INFO  Consumer - [topic: out, partition: 0, offset: 146 key: Oldtown@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 8
+2024-06-02 23:32:11,802 [main] INFO  Consumer - [topic: out, partition: 0, offset: 147 key: Lys@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 3
+2024-06-02 23:32:11,802 [main] INFO  Consumer - [topic: out, partition: 0, offset: 148 key: Myr@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 4
+2024-06-02 23:32:11,802 [main] INFO  Consumer - [topic: out, partition: 0, offset: 149 key: Elyria@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 10
+2024-06-02 23:32:11,802 [main] INFO  Consumer - [topic: out, partition: 0, offset: 150 key: Sunspear@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 6
+2024-06-02 23:32:11,802 [main] INFO  Consumer - [topic: out, partition: 0, offset: 151 key: Bhorash@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 8
+2024-06-02 23:32:11,802 [main] INFO  Consumer - [topic: out, partition: 0, offset: 152 key: Qohor@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 8
+2024-06-02 23:32:11,802 [main] INFO  Consumer - [topic: out, partition: 0, offset: 153 key: Mantarys@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 11
+2024-06-02 23:32:11,802 [main] INFO  Consumer - [topic: out, partition: 0, offset: 154 key: Vaes Dothrak@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 8
+2024-06-02 23:32:11,802 [main] INFO  Consumer - [topic: out, partition: 0, offset: 155 key: Lannisport@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 5
+2024-06-02 23:32:11,802 [main] INFO  Consumer - [topic: out, partition: 0, offset: 156 key: Tyrosh@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 10
+2024-06-02 23:32:11,803 [main] INFO  Consumer - [topic: out, partition: 0, offset: 157 key: Braavos@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 5
+2024-06-02 23:32:11,803 [main] INFO  Consumer - [topic: out, partition: 0, offset: 158 key: Samyrian@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 10
+2024-06-02 23:32:11,803 [main] INFO  Consumer - [topic: out, partition: 0, offset: 159 key: New Ghis@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 10
+2024-06-02 23:32:11,803 [main] INFO  Consumer - [topic: out, partition: 0, offset: 160 key: Tyria@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 8
+2024-06-02 23:32:11,803 [main] INFO  Consumer - [topic: out, partition: 0, offset: 161 key: Lorath@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 7
+2024-06-02 23:32:11,803 [main] INFO  Consumer - [topic: out, partition: 0, offset: 162 key: Oros@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 6
+2024-06-02 23:32:11,803 [main] INFO  Consumer - [topic: out, partition: 0, offset: 163 key: Sar Meel@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 9
+2024-06-02 23:32:11,803 [main] INFO  Consumer - [topic: out, partition: 0, offset: 164 key: King's Landing@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 10
+2024-06-02 23:32:11,803 [main] INFO  Consumer - [topic: out, partition: 0, offset: 165 key: Norvos@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 6
+2024-06-02 23:32:11,803 [main] INFO  Consumer - [topic: out, partition: 0, offset: 166 key: Old Valyria@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 8
+2024-06-02 23:32:11,804 [main] INFO  Consumer - [topic: out, partition: 0, offset: 167 key: Meereen@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 9
+2024-06-02 23:32:41,855 [main] INFO  Consumer - [topic: out, partition: 0, offset: 168 key: Oros@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 7
+2024-06-02 23:32:41,855 [main] INFO  Consumer - [topic: out, partition: 0, offset: 169 key: Pentos@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 7
+2024-06-02 23:32:41,855 [main] INFO  Consumer - [topic: out, partition: 0, offset: 170 key: Sar Meel@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 10
+2024-06-02 23:32:41,855 [main] INFO  Consumer - [topic: out, partition: 0, offset: 171 key: New Ghis@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 11
+2024-06-02 23:32:41,855 [main] INFO  Consumer - [topic: out, partition: 0, offset: 172 key: Tolos@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 5
+2024-06-02 23:32:41,855 [main] INFO  Consumer - [topic: out, partition: 0, offset: 173 key: Bhorash@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 9
+2024-06-02 23:32:41,855 [main] INFO  Consumer - [topic: out, partition: 0, offset: 174 key: Volantis@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 8
+2024-06-02 23:32:41,855 [main] INFO  Consumer - [topic: out, partition: 0, offset: 175 key: Gulltown@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 9
+2024-06-02 23:32:41,855 [main] INFO  Consumer - [topic: out, partition: 0, offset: 176 key: Bayasabhad@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 4
+2024-06-02 23:32:41,855 [main] INFO  Consumer - [topic: out, partition: 0, offset: 177 key: Sunspear@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 7
+2024-06-02 23:32:41,855 [main] INFO  Consumer - [topic: out, partition: 0, offset: 178 key: Yunkai@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 8
+2024-06-02 23:32:41,855 [main] INFO  Consumer - [topic: out, partition: 0, offset: 179 key: Tyrosh@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 12
+2024-06-02 23:32:41,855 [main] INFO  Consumer - [topic: out, partition: 0, offset: 180 key: Ar Noy@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 4
+2024-06-02 23:32:41,855 [main] INFO  Consumer - [topic: out, partition: 0, offset: 181 key: Lorath@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 10
+2024-06-02 23:32:41,855 [main] INFO  Consumer - [topic: out, partition: 0, offset: 182 key: Elyria@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 12
+2024-06-02 23:32:41,856 [main] INFO  Consumer - [topic: out, partition: 0, offset: 183 key: Qarth@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 8
+2024-06-02 23:32:41,856 [main] INFO  Consumer - [topic: out, partition: 0, offset: 184 key: Old Ghis@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 10
+2024-06-02 23:32:41,856 [main] INFO  Consumer - [topic: out, partition: 0, offset: 185 key: Chroyane@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 13
+2024-06-02 23:32:41,856 [main] INFO  Consumer - [topic: out, partition: 0, offset: 186 key: Ny Sar@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 11
+2024-06-02 23:32:41,856 [main] INFO  Consumer - [topic: out, partition: 0, offset: 187 key: Mantarys@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 12
+2024-06-02 23:32:41,856 [main] INFO  Consumer - [topic: out, partition: 0, offset: 188 key: Tyria@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 10
+2024-06-02 23:32:41,856 [main] INFO  Consumer - [topic: out, partition: 0, offset: 189 key: Qohor@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 11
+2024-06-02 23:32:41,856 [main] INFO  Consumer - [topic: out, partition: 0, offset: 190 key: Lys@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 6
+2024-06-02 23:32:41,856 [main] INFO  Consumer - [topic: out, partition: 0, offset: 191 key: Samyrian@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 12
+2024-06-02 23:32:41,856 [main] INFO  Consumer - [topic: out, partition: 0, offset: 192 key: Myr@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 9
+2024-06-02 23:32:41,856 [main] INFO  Consumer - [topic: out, partition: 0, offset: 193 key: Astapor@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 13
+2024-06-02 23:32:41,856 [main] INFO  Consumer - [topic: out, partition: 0, offset: 194 key: Old Valyria@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 9
+2024-06-02 23:32:41,856 [main] INFO  Consumer - [topic: out, partition: 0, offset: 195 key: Vaes Dothrak@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 10
+2024-06-02 23:32:41,856 [main] INFO  Consumer - [topic: out, partition: 0, offset: 196 key: Meereen@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 12
+2024-06-02 23:32:41,856 [main] INFO  Consumer - [topic: out, partition: 0, offset: 197 key: Lannisport@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 7
+2024-06-02 23:33:11,969 [main] INFO  Consumer - [topic: out, partition: 0, offset: 198 key: Oldtown@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 9
+2024-06-02 23:33:11,969 [main] INFO  Consumer - [topic: out, partition: 0, offset: 199 key: Old Ghis@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 11
+2024-06-02 23:33:11,969 [main] INFO  Consumer - [topic: out, partition: 0, offset: 200 key: Pentos@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 9
+2024-06-02 23:33:11,969 [main] INFO  Consumer - [topic: out, partition: 0, offset: 201 key: New Ghis@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 12
+2024-06-02 23:33:11,970 [main] INFO  Consumer - [topic: out, partition: 0, offset: 202 key: Lannisport@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 8
+2024-06-02 23:33:11,970 [main] INFO  Consumer - [topic: out, partition: 0, offset: 203 key: Chroyane@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 14
+2024-06-02 23:33:11,970 [main] INFO  Consumer - [topic: out, partition: 0, offset: 204 key: Qohor@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 15
+2024-06-02 23:33:11,970 [main] INFO  Consumer - [topic: out, partition: 0, offset: 205 key: Lorath@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 11
+2024-06-02 23:33:11,970 [main] INFO  Consumer - [topic: out, partition: 0, offset: 206 key: Qarth@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 9
+2024-06-02 23:33:11,970 [main] INFO  Consumer - [topic: out, partition: 0, offset: 207 key: Oros@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 9
+2024-06-02 23:33:11,970 [main] INFO  Consumer - [topic: out, partition: 0, offset: 208 key: Bayasabhad@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 5
+2024-06-02 23:33:11,970 [main] INFO  Consumer - [topic: out, partition: 0, offset: 209 key: Yunkai@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 10
+2024-06-02 23:33:11,970 [main] INFO  Consumer - [topic: out, partition: 0, offset: 210 key: Bhorash@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 15
+2024-06-02 23:33:11,970 [main] INFO  Consumer - [topic: out, partition: 0, offset: 211 key: Old Valyria@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 11
+2024-06-02 23:33:11,970 [main] INFO  Consumer - [topic: out, partition: 0, offset: 212 key: White Harbor@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 8
+2024-06-02 23:33:11,970 [main] INFO  Consumer - [topic: out, partition: 0, offset: 213 key: Ar Noy@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 5
+2024-06-02 23:33:11,970 [main] INFO  Consumer - [topic: out, partition: 0, offset: 214 key: Asshai@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 11
+2024-06-02 23:33:11,970 [main] INFO  Consumer - [topic: out, partition: 0, offset: 215 key: Mantarys@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 15
+2024-06-02 23:33:11,970 [main] INFO  Consumer - [topic: out, partition: 0, offset: 216 key: Gulltown@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 11
+2024-06-02 23:33:11,971 [main] INFO  Consumer - [topic: out, partition: 0, offset: 217 key: Volantis@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 9
+2024-06-02 23:33:11,971 [main] INFO  Consumer - [topic: out, partition: 0, offset: 218 key: Lys@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 7
+2024-06-02 23:33:11,971 [main] INFO  Consumer - [topic: out, partition: 0, offset: 219 key: Tyrosh@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 13
+2024-06-02 23:33:11,971 [main] INFO  Consumer - [topic: out, partition: 0, offset: 220 key: Tolos@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 8
+2024-06-02 23:33:11,971 [main] INFO  Consumer - [topic: out, partition: 0, offset: 221 key: Vaes Dothrak@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 13
+2024-06-02 23:33:11,971 [main] INFO  Consumer - [topic: out, partition: 0, offset: 222 key: Elyria@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 15
+2024-06-02 23:33:11,971 [main] INFO  Consumer - [topic: out, partition: 0, offset: 223 key: Tyria@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 13
+2024-06-02 23:33:11,971 [main] INFO  Consumer - [topic: out, partition: 0, offset: 224 key: Sar Meel@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 12
+2024-06-02 23:33:11,971 [main] INFO  Consumer - [topic: out, partition: 0, offset: 225 key: Ny Sar@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 13
+2024-06-02 23:33:11,971 [main] INFO  Consumer - [topic: out, partition: 0, offset: 226 key: Samyrian@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 16
+2024-06-02 23:33:42,017 [main] INFO  Consumer - [topic: out, partition: 0, offset: 227 key: Ny Sar@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 14
+2024-06-02 23:33:42,017 [main] INFO  Consumer - [topic: out, partition: 0, offset: 228 key: Tolos@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 9
+2024-06-02 23:33:42,017 [main] INFO  Consumer - [topic: out, partition: 0, offset: 229 key: Ar Noy@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 6
+2024-06-02 23:33:42,017 [main] INFO  Consumer - [topic: out, partition: 0, offset: 230 key: Samyrian@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 18
+2024-06-02 23:33:42,018 [main] INFO  Consumer - [topic: out, partition: 0, offset: 231 key: Bayasabhad@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 6
+2024-06-02 23:33:42,018 [main] INFO  Consumer - [topic: out, partition: 0, offset: 232 key: Bhorash@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 16
+2024-06-02 23:33:42,018 [main] INFO  Consumer - [topic: out, partition: 0, offset: 233 key: Lorath@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 12
+2024-06-02 23:33:42,018 [main] INFO  Consumer - [topic: out, partition: 0, offset: 234 key: Qarth@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 11
+2024-06-02 23:33:42,018 [main] INFO  Consumer - [topic: out, partition: 0, offset: 235 key: Asshai@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 12
+2024-06-02 23:33:42,018 [main] INFO  Consumer - [topic: out, partition: 0, offset: 236 key: Sar Meel@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 14
+2024-06-02 23:33:42,018 [main] INFO  Consumer - [topic: out, partition: 0, offset: 237 key: Chroyane@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 15
+2024-06-02 23:33:42,018 [main] INFO  Consumer - [topic: out, partition: 0, offset: 238 key: Pentos@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 10
+2024-06-02 23:33:42,019 [main] INFO  Consumer - [topic: out, partition: 0, offset: 239 key: Lannisport@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 9
+2024-06-02 23:33:42,019 [main] INFO  Consumer - [topic: out, partition: 0, offset: 240 key: Oros@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 12
+2024-06-02 23:33:42,019 [main] INFO  Consumer - [topic: out, partition: 0, offset: 241 key: Gulltown@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 15
+2024-06-02 23:33:42,019 [main] INFO  Consumer - [topic: out, partition: 0, offset: 242 key: Braavos@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 8
+2024-06-02 23:33:42,019 [main] INFO  Consumer - [topic: out, partition: 0, offset: 243 key: Myr@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 12
+2024-06-02 23:33:42,019 [main] INFO  Consumer - [topic: out, partition: 0, offset: 244 key: Tyria@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 14
+2024-06-02 23:33:42,019 [main] INFO  Consumer - [topic: out, partition: 0, offset: 245 key: Qohor@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 18
+2024-06-02 23:33:42,019 [main] INFO  Consumer - [topic: out, partition: 0, offset: 246 key: Vaes Dothrak@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 15
+2024-06-02 23:33:42,020 [main] INFO  Consumer - [topic: out, partition: 0, offset: 247 key: Old Ghis@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 13
+2024-06-02 23:33:42,020 [main] INFO  Consumer - [topic: out, partition: 0, offset: 248 key: Volantis@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 12
+2024-06-02 23:33:42,020 [main] INFO  Consumer - [topic: out, partition: 0, offset: 249 key: Elyria@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 17
+2024-06-02 23:33:42,020 [main] INFO  Consumer - [topic: out, partition: 0, offset: 250 key: Tyrosh@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 17
+2024-06-02 23:33:42,020 [main] INFO  Consumer - [topic: out, partition: 0, offset: 251 key: Lys@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 11
+2024-06-02 23:33:42,020 [main] INFO  Consumer - [topic: out, partition: 0, offset: 252 key: Yunkai@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 12
+2024-06-02 23:33:42,020 [main] INFO  Consumer - [topic: out, partition: 0, offset: 253 key: White Harbor@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 11
+2024-06-02 23:33:42,020 [main] INFO  Consumer - [topic: out, partition: 0, offset: 254 key: Sunspear@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 11
+2024-06-02 23:34:12,139 [main] INFO  Consumer - [topic: out, partition: 0, offset: 255 key: New Ghis@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 13
+2024-06-02 23:34:12,139 [main] INFO  Consumer - [topic: out, partition: 0, offset: 256 key: King's Landing@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 11
+2024-06-02 23:34:12,139 [main] INFO  Consumer - [topic: out, partition: 0, offset: 257 key: Lannisport@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 10
+2024-06-02 23:34:12,139 [main] INFO  Consumer - [topic: out, partition: 0, offset: 258 key: Yunkai@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 13
+2024-06-02 23:34:12,139 [main] INFO  Consumer - [topic: out, partition: 0, offset: 259 key: Sar Meel@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 15
+2024-06-02 23:34:12,139 [main] INFO  Consumer - [topic: out, partition: 0, offset: 260 key: Old Ghis@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 15
+2024-06-02 23:34:12,139 [main] INFO  Consumer - [topic: out, partition: 0, offset: 261 key: Braavos@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 12
+2024-06-02 23:34:12,139 [main] INFO  Consumer - [topic: out, partition: 0, offset: 262 key: Qohor@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 21
+2024-06-02 23:34:12,139 [main] INFO  Consumer - [topic: out, partition: 0, offset: 263 key: Mantarys@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 17
+2024-06-02 23:34:12,140 [main] INFO  Consumer - [topic: out, partition: 0, offset: 264 key: Ar Noy@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 7
+2024-06-02 23:34:12,140 [main] INFO  Consumer - [topic: out, partition: 0, offset: 265 key: Asshai@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 15
+2024-06-02 23:34:12,140 [main] INFO  Consumer - [topic: out, partition: 0, offset: 266 key: Lys@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 12
+2024-06-02 23:34:12,140 [main] INFO  Consumer - [topic: out, partition: 0, offset: 267 key: White Harbor@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 15
+2024-06-02 23:34:12,140 [main] INFO  Consumer - [topic: out, partition: 0, offset: 268 key: Bayasabhad@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 7
+2024-06-02 23:34:12,140 [main] INFO  Consumer - [topic: out, partition: 0, offset: 269 key: Chroyane@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 18
+2024-06-02 23:34:12,140 [main] INFO  Consumer - [topic: out, partition: 0, offset: 270 key: Vaes Dothrak@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 18
+2024-06-02 23:34:12,140 [main] INFO  Consumer - [topic: out, partition: 0, offset: 271 key: Bhorash@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 18
+2024-06-02 23:34:12,140 [main] INFO  Consumer - [topic: out, partition: 0, offset: 272 key: Lorath@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 14
+2024-06-02 23:34:12,140 [main] INFO  Consumer - [topic: out, partition: 0, offset: 273 key: Tolos@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 11
+2024-06-02 23:34:12,140 [main] INFO  Consumer - [topic: out, partition: 0, offset: 274 key: Qarth@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 12
+2024-06-02 23:34:12,140 [main] INFO  Consumer - [topic: out, partition: 0, offset: 275 key: Tyria@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 15
+2024-06-02 23:34:12,140 [main] INFO  Consumer - [topic: out, partition: 0, offset: 276 key: Old Valyria@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 12
+2024-06-02 23:34:12,140 [main] INFO  Consumer - [topic: out, partition: 0, offset: 277 key: Ny Sar@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 18
+2024-06-02 23:34:12,140 [main] INFO  Consumer - [topic: out, partition: 0, offset: 278 key: Norvos@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 7
+2024-06-02 23:34:12,141 [main] INFO  Consumer - [topic: out, partition: 0, offset: 279 key: Samyrian@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 20
+2024-06-02 23:34:12,141 [main] INFO  Consumer - [topic: out, partition: 0, offset: 280 key: Myr@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 13
+2024-06-02 23:34:12,141 [main] INFO  Consumer - [topic: out, partition: 0, offset: 281 key: Oros@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 15
+2024-06-02 23:34:12,141 [main] INFO  Consumer - [topic: out, partition: 0, offset: 282 key: Astapor@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 15
+2024-06-02 23:34:12,141 [main] INFO  Consumer - [topic: out, partition: 0, offset: 283 key: Sunspear@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 12
+2024-06-02 23:34:12,141 [main] INFO  Consumer - [topic: out, partition: 0, offset: 284 key: Meereen@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 16
+2024-06-02 23:34:42,170 [main] INFO  Consumer - [topic: out, partition: 0, offset: 285 key: Tolos@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 12
+2024-06-02 23:34:42,171 [main] INFO  Consumer - [topic: out, partition: 0, offset: 286 key: Tyrosh@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 18
+2024-06-02 23:34:42,171 [main] INFO  Consumer - [topic: out, partition: 0, offset: 287 key: Chroyane@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 19
+2024-06-02 23:34:42,172 [main] INFO  Consumer - [topic: out, partition: 0, offset: 288 key: Lorath@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 17
+2024-06-02 23:34:42,172 [main] INFO  Consumer - [topic: out, partition: 0, offset: 289 key: Gulltown@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 16
+2024-06-02 23:34:42,172 [main] INFO  Consumer - [topic: out, partition: 0, offset: 290 key: Asshai@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 18
+2024-06-02 23:34:42,172 [main] INFO  Consumer - [topic: out, partition: 0, offset: 291 key: Samyrian@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 22
+2024-06-02 23:34:42,172 [main] INFO  Consumer - [topic: out, partition: 0, offset: 292 key: Norvos@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 8
+2024-06-02 23:34:42,173 [main] INFO  Consumer - [topic: out, partition: 0, offset: 293 key: Lannisport@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 12
+2024-06-02 23:34:42,173 [main] INFO  Consumer - [topic: out, partition: 0, offset: 294 key: Ny Sar@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 20
+2024-06-02 23:34:42,173 [main] INFO  Consumer - [topic: out, partition: 0, offset: 295 key: Qohor@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 23
+2024-06-02 23:34:42,173 [main] INFO  Consumer - [topic: out, partition: 0, offset: 296 key: New Ghis@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 16
+2024-06-02 23:34:42,173 [main] INFO  Consumer - [topic: out, partition: 0, offset: 297 key: Mantarys@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 19
+2024-06-02 23:34:42,173 [main] INFO  Consumer - [topic: out, partition: 0, offset: 298 key: Bhorash@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 19
+2024-06-02 23:34:42,173 [main] INFO  Consumer - [topic: out, partition: 0, offset: 299 key: Oldtown@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 10
+2024-06-02 23:34:42,174 [main] INFO  Consumer - [topic: out, partition: 0, offset: 300 key: Bayasabhad@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 8
+2024-06-02 23:34:42,174 [main] INFO  Consumer - [topic: out, partition: 0, offset: 301 key: White Harbor@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 17
+2024-06-02 23:34:42,174 [main] INFO  Consumer - [topic: out, partition: 0, offset: 302 key: Old Valyria@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 16
+2024-06-02 23:34:42,174 [main] INFO  Consumer - [topic: out, partition: 0, offset: 303 key: Meereen@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 17
+2024-06-02 23:34:42,174 [main] INFO  Consumer - [topic: out, partition: 0, offset: 304 key: Oros@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 17
+2024-06-02 23:34:42,174 [main] INFO  Consumer - [topic: out, partition: 0, offset: 305 key: Braavos@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 17
+2024-06-02 23:34:42,174 [main] INFO  Consumer - [topic: out, partition: 0, offset: 306 key: Lys@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 14
+2024-06-02 23:34:42,174 [main] INFO  Consumer - [topic: out, partition: 0, offset: 307 key: Old Ghis@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 17
+2024-06-02 23:34:42,175 [main] INFO  Consumer - [topic: out, partition: 0, offset: 308 key: Vaes Dothrak@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 20
+2024-06-02 23:34:42,175 [main] INFO  Consumer - [topic: out, partition: 0, offset: 309 key: King's Landing@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 15
+2024-06-02 23:34:42,175 [main] INFO  Consumer - [topic: out, partition: 0, offset: 310 key: Pentos@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 13
+2024-06-02 23:34:42,175 [main] INFO  Consumer - [topic: out, partition: 0, offset: 311 key: Myr@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 15
+2024-06-02 23:34:42,175 [main] INFO  Consumer - [topic: out, partition: 0, offset: 312 key: Astapor@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 18
+2024-06-02 23:35:12,260 [main] INFO  Consumer - [topic: out, partition: 0, offset: 313 key: Vaes Dothrak@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 21
+2024-06-02 23:35:12,260 [main] INFO  Consumer - [topic: out, partition: 0, offset: 314 key: Astapor@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 19
+2024-06-02 23:35:12,260 [main] INFO  Consumer - [topic: out, partition: 0, offset: 315 key: Tolos@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 13
+2024-06-02 23:35:12,260 [main] INFO  Consumer - [topic: out, partition: 0, offset: 316 key: Sunspear@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 13
+2024-06-02 23:35:12,260 [main] INFO  Consumer - [topic: out, partition: 0, offset: 317 key: Bhorash@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 20
+2024-06-02 23:35:12,260 [main] INFO  Consumer - [topic: out, partition: 0, offset: 318 key: Volantis@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 14
+2024-06-02 23:35:12,260 [main] INFO  Consumer - [topic: out, partition: 0, offset: 319 key: Myr@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 16
+2024-06-02 23:35:12,260 [main] INFO  Consumer - [topic: out, partition: 0, offset: 320 key: Qarth@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 14
+2024-06-02 23:35:12,260 [main] INFO  Consumer - [topic: out, partition: 0, offset: 321 key: Asshai@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 19
+2024-06-02 23:35:12,261 [main] INFO  Consumer - [topic: out, partition: 0, offset: 322 key: Bayasabhad@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 10
+2024-06-02 23:35:12,261 [main] INFO  Consumer - [topic: out, partition: 0, offset: 323 key: Lannisport@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 14
+2024-06-02 23:35:12,261 [main] INFO  Consumer - [topic: out, partition: 0, offset: 324 key: Sar Meel@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 16
+2024-06-02 23:35:12,261 [main] INFO  Consumer - [topic: out, partition: 0, offset: 325 key: King's Landing@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 18
+2024-06-02 23:35:12,261 [main] INFO  Consumer - [topic: out, partition: 0, offset: 326 key: Norvos@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 9
+2024-06-02 23:35:12,261 [main] INFO  Consumer - [topic: out, partition: 0, offset: 327 key: Elyria@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 19
+2024-06-02 23:35:12,261 [main] INFO  Consumer - [topic: out, partition: 0, offset: 328 key: Tyrosh@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 21
+2024-06-02 23:35:12,261 [main] INFO  Consumer - [topic: out, partition: 0, offset: 329 key: Lys@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 16
+2024-06-02 23:35:12,261 [main] INFO  Consumer - [topic: out, partition: 0, offset: 330 key: Meereen@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 18
+2024-06-02 23:35:12,261 [main] INFO  Consumer - [topic: out, partition: 0, offset: 331 key: Oros@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 18
+2024-06-02 23:35:12,261 [main] INFO  Consumer - [topic: out, partition: 0, offset: 332 key: Ny Sar@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 23
+2024-06-02 23:35:12,261 [main] INFO  Consumer - [topic: out, partition: 0, offset: 333 key: Chroyane@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 22
+2024-06-02 23:35:12,261 [main] INFO  Consumer - [topic: out, partition: 0, offset: 334 key: Tyria@<2024-06-02T20:30:00Z,2024-06-02T20:35:00Z>] 16
+2024-06-02 23:35:12,261 [main] INFO  Consumer - [topic: out, partition: 0, offset: 335 key: Elyria@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 1
+2024-06-02 23:35:12,261 [main] INFO  Consumer - [topic: out, partition: 0, offset: 336 key: Pentos@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 1
+2024-06-02 23:35:12,261 [main] INFO  Consumer - [topic: out, partition: 0, offset: 337 key: Ar Noy@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 1
+2024-06-02 23:35:12,261 [main] INFO  Consumer - [topic: out, partition: 0, offset: 338 key: King's Landing@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 1
+2024-06-02 23:35:12,261 [main] INFO  Consumer - [topic: out, partition: 0, offset: 339 key: Old Ghis@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 1
+2024-06-02 23:35:12,261 [main] INFO  Consumer - [topic: out, partition: 0, offset: 340 key: Vaes Dothrak@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 2
+2024-06-02 23:35:12,261 [main] INFO  Consumer - [topic: out, partition: 0, offset: 341 key: Chroyane@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 1
+2024-06-02 23:35:12,261 [main] INFO  Consumer - [topic: out, partition: 0, offset: 342 key: Tolos@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 1
+2024-06-02 23:35:12,261 [main] INFO  Consumer - [topic: out, partition: 0, offset: 343 key: Old Valyria@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 1
+2024-06-02 23:35:12,261 [main] INFO  Consumer - [topic: out, partition: 0, offset: 344 key: Tyria@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 2
+2024-06-02 23:35:12,261 [main] INFO  Consumer - [topic: out, partition: 0, offset: 345 key: Lys@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 3
+2024-06-02 23:35:12,261 [main] INFO  Consumer - [topic: out, partition: 0, offset: 346 key: Tyrosh@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 1
+2024-06-02 23:35:12,261 [main] INFO  Consumer - [topic: out, partition: 0, offset: 347 key: Lorath@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 3
+2024-06-02 23:35:12,261 [main] INFO  Consumer - [topic: out, partition: 0, offset: 348 key: Meereen@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 1
+2024-06-02 23:35:12,261 [main] INFO  Consumer - [topic: out, partition: 0, offset: 349 key: Sar Meel@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 2
+2024-06-02 23:35:12,262 [main] INFO  Consumer - [topic: out, partition: 0, offset: 350 key: Samyrian@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 1
+2024-06-02 23:35:42,319 [main] INFO  Consumer - [topic: out, partition: 0, offset: 351 key: Pentos@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 2
+2024-06-02 23:35:42,320 [main] INFO  Consumer - [topic: out, partition: 0, offset: 352 key: Norvos@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 1
+2024-06-02 23:35:42,320 [main] INFO  Consumer - [topic: out, partition: 0, offset: 353 key: Lorath@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 4
+2024-06-02 23:35:42,320 [main] INFO  Consumer - [topic: out, partition: 0, offset: 354 key: Lannisport@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 1
+2024-06-02 23:35:42,320 [main] INFO  Consumer - [topic: out, partition: 0, offset: 355 key: Yunkai@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 1
+2024-06-02 23:35:42,320 [main] INFO  Consumer - [topic: out, partition: 0, offset: 356 key: Tyrosh@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 2
+2024-06-02 23:35:42,321 [main] INFO  Consumer - [topic: out, partition: 0, offset: 357 key: Tyria@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 4
+2024-06-02 23:35:42,321 [main] INFO  Consumer - [topic: out, partition: 0, offset: 358 key: Elyria@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 2
+2024-06-02 23:35:42,321 [main] INFO  Consumer - [topic: out, partition: 0, offset: 359 key: Bayasabhad@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 3
+2024-06-02 23:35:42,321 [main] INFO  Consumer - [topic: out, partition: 0, offset: 360 key: Qarth@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 1
+2024-06-02 23:35:42,321 [main] INFO  Consumer - [topic: out, partition: 0, offset: 361 key: Old Valyria@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 2
+2024-06-02 23:35:42,322 [main] INFO  Consumer - [topic: out, partition: 0, offset: 362 key: Vaes Dothrak@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 4
+2024-06-02 23:35:42,322 [main] INFO  Consumer - [topic: out, partition: 0, offset: 363 key: Astapor@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 1
+2024-06-02 23:35:42,322 [main] INFO  Consumer - [topic: out, partition: 0, offset: 364 key: Chroyane@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 4
+2024-06-02 23:35:42,322 [main] INFO  Consumer - [topic: out, partition: 0, offset: 365 key: Sunspear@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 5
+2024-06-02 23:35:42,322 [main] INFO  Consumer - [topic: out, partition: 0, offset: 366 key: Asshai@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 3
+2024-06-02 23:35:42,322 [main] INFO  Consumer - [topic: out, partition: 0, offset: 367 key: Oldtown@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 3
+2024-06-02 23:35:42,322 [main] INFO  Consumer - [topic: out, partition: 0, offset: 368 key: Braavos@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 2
+2024-06-02 23:35:42,323 [main] INFO  Consumer - [topic: out, partition: 0, offset: 369 key: King's Landing@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 3
+2024-06-02 23:35:42,323 [main] INFO  Consumer - [topic: out, partition: 0, offset: 370 key: Qohor@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 3
+2024-06-02 23:35:42,323 [main] INFO  Consumer - [topic: out, partition: 0, offset: 371 key: New Ghis@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 2
+2024-06-02 23:35:42,323 [main] INFO  Consumer - [topic: out, partition: 0, offset: 372 key: Volantis@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 5
+2024-06-02 23:35:42,323 [main] INFO  Consumer - [topic: out, partition: 0, offset: 373 key: Old Ghis@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 3
+2024-06-02 23:35:42,323 [main] INFO  Consumer - [topic: out, partition: 0, offset: 374 key: Ny Sar@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 3
+2024-06-02 23:35:42,323 [main] INFO  Consumer - [topic: out, partition: 0, offset: 375 key: Gulltown@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 4
+2024-06-02 23:35:42,324 [main] INFO  Consumer - [topic: out, partition: 0, offset: 376 key: Lys@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 5
+2024-06-02 23:35:42,324 [main] INFO  Consumer - [topic: out, partition: 0, offset: 377 key: White Harbor@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 2
+2024-06-02 23:35:42,324 [main] INFO  Consumer - [topic: out, partition: 0, offset: 378 key: Myr@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 2
+2024-06-02 23:36:12,354 [main] INFO  Consumer - [topic: out, partition: 0, offset: 379 key: Lannisport@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 2
+2024-06-02 23:36:12,354 [main] INFO  Consumer - [topic: out, partition: 0, offset: 380 key: Sar Meel@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 3
+2024-06-02 23:36:12,354 [main] INFO  Consumer - [topic: out, partition: 0, offset: 381 key: Ar Noy@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 2
+2024-06-02 23:36:12,355 [main] INFO  Consumer - [topic: out, partition: 0, offset: 382 key: Old Ghis@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 4
+2024-06-02 23:36:12,355 [main] INFO  Consumer - [topic: out, partition: 0, offset: 383 key: Chroyane@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 5
+2024-06-02 23:36:12,355 [main] INFO  Consumer - [topic: out, partition: 0, offset: 384 key: Asshai@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 4
+2024-06-02 23:36:12,355 [main] INFO  Consumer - [topic: out, partition: 0, offset: 385 key: Oros@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 1
+2024-06-02 23:36:12,355 [main] INFO  Consumer - [topic: out, partition: 0, offset: 386 key: Tolos@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 2
+2024-06-02 23:36:12,355 [main] INFO  Consumer - [topic: out, partition: 0, offset: 387 key: Yunkai@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 3
+2024-06-02 23:36:12,355 [main] INFO  Consumer - [topic: out, partition: 0, offset: 388 key: Old Valyria@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 4
+2024-06-02 23:36:12,355 [main] INFO  Consumer - [topic: out, partition: 0, offset: 389 key: Astapor@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 3
+2024-06-02 23:36:12,355 [main] INFO  Consumer - [topic: out, partition: 0, offset: 390 key: Elyria@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 4
+2024-06-02 23:36:12,355 [main] INFO  Consumer - [topic: out, partition: 0, offset: 391 key: Lys@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 6
+2024-06-02 23:36:12,355 [main] INFO  Consumer - [topic: out, partition: 0, offset: 392 key: Samyrian@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 3
+2024-06-02 23:36:12,355 [main] INFO  Consumer - [topic: out, partition: 0, offset: 393 key: Lorath@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 5
+2024-06-02 23:36:12,355 [main] INFO  Consumer - [topic: out, partition: 0, offset: 394 key: Tyrosh@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 4
+2024-06-02 23:36:12,355 [main] INFO  Consumer - [topic: out, partition: 0, offset: 395 key: King's Landing@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 7
+2024-06-02 23:36:12,355 [main] INFO  Consumer - [topic: out, partition: 0, offset: 396 key: Meereen@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 2
+2024-06-02 23:36:12,355 [main] INFO  Consumer - [topic: out, partition: 0, offset: 397 key: Sunspear@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 6
+2024-06-02 23:36:12,355 [main] INFO  Consumer - [topic: out, partition: 0, offset: 398 key: Oldtown@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 6
+2024-06-02 23:36:12,355 [main] INFO  Consumer - [topic: out, partition: 0, offset: 399 key: Gulltown@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 6
+2024-06-02 23:36:12,355 [main] INFO  Consumer - [topic: out, partition: 0, offset: 400 key: Tyria@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 7
+2024-06-02 23:36:12,355 [main] INFO  Consumer - [topic: out, partition: 0, offset: 401 key: Ny Sar@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 6
+2024-06-02 23:36:12,355 [main] INFO  Consumer - [topic: out, partition: 0, offset: 402 key: Myr@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 4
+2024-06-02 23:36:12,355 [main] INFO  Consumer - [topic: out, partition: 0, offset: 403 key: Mantarys@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 4
+2024-06-02 23:36:12,355 [main] INFO  Consumer - [topic: out, partition: 0, offset: 404 key: White Harbor@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 5
+2024-06-02 23:36:12,355 [main] INFO  Consumer - [topic: out, partition: 0, offset: 405 key: Braavos@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 5
+2024-06-02 23:36:12,355 [main] INFO  Consumer - [topic: out, partition: 0, offset: 406 key: Norvos@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 3
+2024-06-02 23:36:12,355 [main] INFO  Consumer - [topic: out, partition: 0, offset: 407 key: New Ghis@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 4
+2024-06-02 23:36:12,355 [main] INFO  Consumer - [topic: out, partition: 0, offset: 408 key: Bhorash@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 2
+2024-06-02 23:36:12,355 [main] INFO  Consumer - [topic: out, partition: 0, offset: 409 key: Pentos@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 3
+2024-06-02 23:36:12,355 [main] INFO  Consumer - [topic: out, partition: 0, offset: 410 key: Qohor@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 4
+2024-06-02 23:36:42,397 [main] INFO  Consumer - [topic: out, partition: 0, offset: 411 key: Elyria@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 5
+2024-06-02 23:36:42,397 [main] INFO  Consumer - [topic: out, partition: 0, offset: 412 key: Mantarys@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 5
+2024-06-02 23:36:42,398 [main] INFO  Consumer - [topic: out, partition: 0, offset: 413 key: Tyrosh@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 5
+2024-06-02 23:36:42,398 [main] INFO  Consumer - [topic: out, partition: 0, offset: 414 key: New Ghis@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 5
+2024-06-02 23:36:42,398 [main] INFO  Consumer - [topic: out, partition: 0, offset: 415 key: Bayasabhad@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 5
+2024-06-02 23:36:42,398 [main] INFO  Consumer - [topic: out, partition: 0, offset: 416 key: Ar Noy@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 3
+2024-06-02 23:36:42,398 [main] INFO  Consumer - [topic: out, partition: 0, offset: 417 key: Lys@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 7
+2024-06-02 23:36:42,398 [main] INFO  Consumer - [topic: out, partition: 0, offset: 418 key: Astapor@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 6
+2024-06-02 23:36:42,398 [main] INFO  Consumer - [topic: out, partition: 0, offset: 419 key: Samyrian@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 5
+2024-06-02 23:36:42,398 [main] INFO  Consumer - [topic: out, partition: 0, offset: 420 key: Oros@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 3
+2024-06-02 23:36:42,398 [main] INFO  Consumer - [topic: out, partition: 0, offset: 421 key: Volantis@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 7
+2024-06-02 23:36:42,399 [main] INFO  Consumer - [topic: out, partition: 0, offset: 422 key: Meereen@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 4
+2024-06-02 23:36:42,399 [main] INFO  Consumer - [topic: out, partition: 0, offset: 423 key: Chroyane@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 8
+2024-06-02 23:36:42,399 [main] INFO  Consumer - [topic: out, partition: 0, offset: 424 key: Lorath@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 7
+2024-06-02 23:36:42,399 [main] INFO  Consumer - [topic: out, partition: 0, offset: 425 key: Qohor@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 6
+2024-06-02 23:36:42,399 [main] INFO  Consumer - [topic: out, partition: 0, offset: 426 key: Ny Sar@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 10
+2024-06-02 23:36:42,399 [main] INFO  Consumer - [topic: out, partition: 0, offset: 427 key: Qarth@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 3
+2024-06-02 23:36:42,399 [main] INFO  Consumer - [topic: out, partition: 0, offset: 428 key: Bhorash@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 5
+2024-06-02 23:36:42,399 [main] INFO  Consumer - [topic: out, partition: 0, offset: 429 key: Gulltown@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 9
+2024-06-02 23:36:42,399 [main] INFO  Consumer - [topic: out, partition: 0, offset: 430 key: Yunkai@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 4
+2024-06-02 23:36:42,400 [main] INFO  Consumer - [topic: out, partition: 0, offset: 431 key: Old Valyria@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 5
+2024-06-02 23:36:42,400 [main] INFO  Consumer - [topic: out, partition: 0, offset: 432 key: Tyria@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 10
+2024-06-02 23:36:42,400 [main] INFO  Consumer - [topic: out, partition: 0, offset: 433 key: Sunspear@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 10
+2024-06-02 23:36:42,400 [main] INFO  Consumer - [topic: out, partition: 0, offset: 434 key: Oldtown@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 9
+2024-06-02 23:36:42,400 [main] INFO  Consumer - [topic: out, partition: 0, offset: 435 key: Vaes Dothrak@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 6
+2024-06-02 23:36:42,400 [main] INFO  Consumer - [topic: out, partition: 0, offset: 436 key: White Harbor@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 9
+2024-06-02 23:36:42,400 [main] INFO  Consumer - [topic: out, partition: 0, offset: 437 key: Sar Meel@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 5
+2024-06-02 23:36:42,400 [main] INFO  Consumer - [topic: out, partition: 0, offset: 438 key: Myr@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 5
+2024-06-02 23:37:12,483 [main] INFO  Consumer - [topic: out, partition: 0, offset: 439 key: Meereen@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 5
+2024-06-02 23:37:12,483 [main] INFO  Consumer - [topic: out, partition: 0, offset: 440 key: Oros@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 4
+2024-06-02 23:37:12,483 [main] INFO  Consumer - [topic: out, partition: 0, offset: 441 key: Tyria@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 11
+2024-06-02 23:37:12,483 [main] INFO  Consumer - [topic: out, partition: 0, offset: 442 key: Astapor@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 9
+2024-06-02 23:37:12,483 [main] INFO  Consumer - [topic: out, partition: 0, offset: 443 key: Bhorash@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 6
+2024-06-02 23:37:12,483 [main] INFO  Consumer - [topic: out, partition: 0, offset: 444 key: Bayasabhad@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 7
+2024-06-02 23:37:12,483 [main] INFO  Consumer - [topic: out, partition: 0, offset: 445 key: White Harbor@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 10
+2024-06-02 23:37:12,484 [main] INFO  Consumer - [topic: out, partition: 0, offset: 446 key: Myr@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 6
+2024-06-02 23:37:12,484 [main] INFO  Consumer - [topic: out, partition: 0, offset: 447 key: Sunspear@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 12
+2024-06-02 23:37:12,484 [main] INFO  Consumer - [topic: out, partition: 0, offset: 448 key: Norvos@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 5
+2024-06-02 23:37:12,484 [main] INFO  Consumer - [topic: out, partition: 0, offset: 449 key: Vaes Dothrak@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 8
+2024-06-02 23:37:12,484 [main] INFO  Consumer - [topic: out, partition: 0, offset: 450 key: Old Valyria@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 7
+2024-06-02 23:37:12,484 [main] INFO  Consumer - [topic: out, partition: 0, offset: 451 key: Ny Sar@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 14
+2024-06-02 23:37:12,484 [main] INFO  Consumer - [topic: out, partition: 0, offset: 452 key: King's Landing@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 9
+2024-06-02 23:37:12,484 [main] INFO  Consumer - [topic: out, partition: 0, offset: 453 key: Gulltown@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 10
+2024-06-02 23:37:12,484 [main] INFO  Consumer - [topic: out, partition: 0, offset: 454 key: Ar Noy@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 4
+2024-06-02 23:37:12,485 [main] INFO  Consumer - [topic: out, partition: 0, offset: 455 key: Asshai@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 7
+2024-06-02 23:37:12,485 [main] INFO  Consumer - [topic: out, partition: 0, offset: 456 key: Oldtown@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 11
+2024-06-02 23:37:12,485 [main] INFO  Consumer - [topic: out, partition: 0, offset: 457 key: Lys@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 10
+2024-06-02 23:37:12,485 [main] INFO  Consumer - [topic: out, partition: 0, offset: 458 key: Tyrosh@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 7
+2024-06-02 23:37:12,485 [main] INFO  Consumer - [topic: out, partition: 0, offset: 459 key: Volantis@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 9
+2024-06-02 23:37:12,485 [main] INFO  Consumer - [topic: out, partition: 0, offset: 460 key: Qarth@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 5
+2024-06-02 23:37:12,486 [main] INFO  Consumer - [topic: out, partition: 0, offset: 461 key: Yunkai@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 6
+2024-06-02 23:37:12,486 [main] INFO  Consumer - [topic: out, partition: 0, offset: 462 key: Braavos@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 7
+2024-06-02 23:37:12,486 [main] INFO  Consumer - [topic: out, partition: 0, offset: 463 key: Chroyane@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 10
+2024-06-02 23:37:12,486 [main] INFO  Consumer - [topic: out, partition: 0, offset: 464 key: Lannisport@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 5
+2024-06-02 23:37:12,486 [main] INFO  Consumer - [topic: out, partition: 0, offset: 465 key: Sar Meel@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 6
+2024-06-02 23:37:12,486 [main] INFO  Consumer - [topic: out, partition: 0, offset: 466 key: Lorath@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 10
+2024-06-02 23:37:12,486 [main] INFO  Consumer - [topic: out, partition: 0, offset: 467 key: Pentos@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 5
+2024-06-02 23:37:12,486 [main] INFO  Consumer - [topic: out, partition: 0, offset: 468 key: Elyria@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 8
+2024-06-02 23:37:42,599 [main] INFO  Consumer - [topic: out, partition: 0, offset: 469 key: Elyria@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 9
+2024-06-02 23:37:42,600 [main] INFO  Consumer - [topic: out, partition: 0, offset: 470 key: Lys@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 11
+2024-06-02 23:37:42,600 [main] INFO  Consumer - [topic: out, partition: 0, offset: 471 key: Braavos@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 8
+2024-06-02 23:37:42,600 [main] INFO  Consumer - [topic: out, partition: 0, offset: 472 key: Samyrian@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 6
+2024-06-02 23:37:42,600 [main] INFO  Consumer - [topic: out, partition: 0, offset: 473 key: Asshai@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 8
+2024-06-02 23:37:42,600 [main] INFO  Consumer - [topic: out, partition: 0, offset: 474 key: Chroyane@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 12
+2024-06-02 23:37:42,600 [main] INFO  Consumer - [topic: out, partition: 0, offset: 475 key: Old Ghis@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 5
+2024-06-02 23:37:42,600 [main] INFO  Consumer - [topic: out, partition: 0, offset: 476 key: Gulltown@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 11
+2024-06-02 23:37:42,601 [main] INFO  Consumer - [topic: out, partition: 0, offset: 477 key: Ny Sar@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 15
+2024-06-02 23:37:42,601 [main] INFO  Consumer - [topic: out, partition: 0, offset: 478 key: Meereen@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 7
+2024-06-02 23:37:42,601 [main] INFO  Consumer - [topic: out, partition: 0, offset: 479 key: Astapor@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 13
+2024-06-02 23:37:42,601 [main] INFO  Consumer - [topic: out, partition: 0, offset: 480 key: Tyria@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 13
+2024-06-02 23:37:42,601 [main] INFO  Consumer - [topic: out, partition: 0, offset: 481 key: Bayasabhad@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 9
+2024-06-02 23:37:42,601 [main] INFO  Consumer - [topic: out, partition: 0, offset: 482 key: Old Valyria@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 8
+2024-06-02 23:37:42,601 [main] INFO  Consumer - [topic: out, partition: 0, offset: 483 key: Oros@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 5
+2024-06-02 23:37:42,601 [main] INFO  Consumer - [topic: out, partition: 0, offset: 484 key: Mantarys@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 8
+2024-06-02 23:37:42,601 [main] INFO  Consumer - [topic: out, partition: 0, offset: 485 key: White Harbor@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 11
+2024-06-02 23:37:42,601 [main] INFO  Consumer - [topic: out, partition: 0, offset: 486 key: Volantis@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 12
+2024-06-02 23:37:42,601 [main] INFO  Consumer - [topic: out, partition: 0, offset: 487 key: New Ghis@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 6
+2024-06-02 23:37:42,601 [main] INFO  Consumer - [topic: out, partition: 0, offset: 488 key: Sar Meel@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 8
+2024-06-02 23:37:42,601 [main] INFO  Consumer - [topic: out, partition: 0, offset: 489 key: Qarth@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 6
+2024-06-02 23:37:42,601 [main] INFO  Consumer - [topic: out, partition: 0, offset: 490 key: Pentos@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 6
+2024-06-02 23:37:42,601 [main] INFO  Consumer - [topic: out, partition: 0, offset: 491 key: Vaes Dothrak@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 10
+2024-06-02 23:37:42,601 [main] INFO  Consumer - [topic: out, partition: 0, offset: 492 key: Sunspear@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 15
+2024-06-02 23:37:42,601 [main] INFO  Consumer - [topic: out, partition: 0, offset: 493 key: King's Landing@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 13
+2024-06-02 23:37:42,602 [main] INFO  Consumer - [topic: out, partition: 0, offset: 494 key: Oldtown@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 14
+2024-06-02 23:37:42,602 [main] INFO  Consumer - [topic: out, partition: 0, offset: 495 key: Lannisport@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 9
+2024-06-02 23:37:42,602 [main] INFO  Consumer - [topic: out, partition: 0, offset: 496 key: Tyrosh@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 12
+2024-06-02 23:37:42,602 [main] INFO  Consumer - [topic: out, partition: 0, offset: 497 key: Ar Noy@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 8
+2024-06-02 23:38:12,644 [main] INFO  Consumer - [topic: out, partition: 0, offset: 498 key: Old Valyria@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 9
+2024-06-02 23:38:12,644 [main] INFO  Consumer - [topic: out, partition: 0, offset: 499 key: White Harbor@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 12
+2024-06-02 23:38:12,644 [main] INFO  Consumer - [topic: out, partition: 0, offset: 500 key: Bayasabhad@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 10
+2024-06-02 23:38:12,644 [main] INFO  Consumer - [topic: out, partition: 0, offset: 501 key: Samyrian@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 7
+2024-06-02 23:38:12,644 [main] INFO  Consumer - [topic: out, partition: 0, offset: 502 key: Lannisport@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 10
+2024-06-02 23:38:12,644 [main] INFO  Consumer - [topic: out, partition: 0, offset: 503 key: Ar Noy@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 9
+2024-06-02 23:38:12,644 [main] INFO  Consumer - [topic: out, partition: 0, offset: 504 key: Chroyane@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 14
+2024-06-02 23:38:12,644 [main] INFO  Consumer - [topic: out, partition: 0, offset: 505 key: Tolos@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 4
+2024-06-02 23:38:12,644 [main] INFO  Consumer - [topic: out, partition: 0, offset: 506 key: Tyrosh@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 14
+2024-06-02 23:38:12,644 [main] INFO  Consumer - [topic: out, partition: 0, offset: 507 key: Old Ghis@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 7
+2024-06-02 23:38:12,644 [main] INFO  Consumer - [topic: out, partition: 0, offset: 508 key: Sar Meel@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 9
+2024-06-02 23:38:12,644 [main] INFO  Consumer - [topic: out, partition: 0, offset: 509 key: Vaes Dothrak@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 12
+2024-06-02 23:38:12,644 [main] INFO  Consumer - [topic: out, partition: 0, offset: 510 key: Lorath@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 11
+2024-06-02 23:38:12,645 [main] INFO  Consumer - [topic: out, partition: 0, offset: 511 key: Braavos@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 11
+2024-06-02 23:38:12,645 [main] INFO  Consumer - [topic: out, partition: 0, offset: 512 key: Elyria@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 12
+2024-06-02 23:38:12,645 [main] INFO  Consumer - [topic: out, partition: 0, offset: 513 key: Qohor@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 7
+2024-06-02 23:38:12,645 [main] INFO  Consumer - [topic: out, partition: 0, offset: 514 key: Gulltown@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 14
+2024-06-02 23:38:12,645 [main] INFO  Consumer - [topic: out, partition: 0, offset: 515 key: Yunkai@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 7
+2024-06-02 23:38:12,645 [main] INFO  Consumer - [topic: out, partition: 0, offset: 516 key: Asshai@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 9
+2024-06-02 23:38:12,645 [main] INFO  Consumer - [topic: out, partition: 0, offset: 517 key: Myr@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 7
+2024-06-02 23:38:12,645 [main] INFO  Consumer - [topic: out, partition: 0, offset: 518 key: Tyria@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 14
+2024-06-02 23:38:12,645 [main] INFO  Consumer - [topic: out, partition: 0, offset: 519 key: Meereen@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 9
+2024-06-02 23:38:12,645 [main] INFO  Consumer - [topic: out, partition: 0, offset: 520 key: Astapor@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 18
+2024-06-02 23:38:12,645 [main] INFO  Consumer - [topic: out, partition: 0, offset: 521 key: Volantis@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 14
+2024-06-02 23:38:12,645 [main] INFO  Consumer - [topic: out, partition: 0, offset: 522 key: Lys@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 15
+2024-06-02 23:38:12,645 [main] INFO  Consumer - [topic: out, partition: 0, offset: 523 key: New Ghis@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 10
+2024-06-02 23:38:12,645 [main] INFO  Consumer - [topic: out, partition: 0, offset: 524 key: Norvos@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 12
+2024-06-02 23:38:12,645 [main] INFO  Consumer - [topic: out, partition: 0, offset: 525 key: Oldtown@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 16
+2024-06-02 23:38:12,645 [main] INFO  Consumer - [topic: out, partition: 0, offset: 526 key: Ny Sar@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 17
+2024-06-02 23:38:42,764 [main] INFO  Consumer - [topic: out, partition: 0, offset: 527 key: Meereen@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 10
+2024-06-02 23:38:42,764 [main] INFO  Consumer - [topic: out, partition: 0, offset: 528 key: Old Ghis@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 8
+2024-06-02 23:38:42,764 [main] INFO  Consumer - [topic: out, partition: 0, offset: 529 key: Lorath@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 13
+2024-06-02 23:38:42,765 [main] INFO  Consumer - [topic: out, partition: 0, offset: 530 key: Bhorash@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 7
+2024-06-02 23:38:42,765 [main] INFO  Consumer - [topic: out, partition: 0, offset: 531 key: Tyrosh@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 15
+2024-06-02 23:38:42,765 [main] INFO  Consumer - [topic: out, partition: 0, offset: 532 key: White Harbor@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 14
+2024-06-02 23:38:42,765 [main] INFO  Consumer - [topic: out, partition: 0, offset: 533 key: Oros@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 6
+2024-06-02 23:38:42,765 [main] INFO  Consumer - [topic: out, partition: 0, offset: 534 key: Asshai@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 10
+2024-06-02 23:38:42,765 [main] INFO  Consumer - [topic: out, partition: 0, offset: 535 key: Lannisport@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 11
+2024-06-02 23:38:42,765 [main] INFO  Consumer - [topic: out, partition: 0, offset: 536 key: Elyria@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 14
+2024-06-02 23:38:42,765 [main] INFO  Consumer - [topic: out, partition: 0, offset: 537 key: Ar Noy@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 10
+2024-06-02 23:38:42,765 [main] INFO  Consumer - [topic: out, partition: 0, offset: 538 key: Qohor@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 10
+2024-06-02 23:38:42,765 [main] INFO  Consumer - [topic: out, partition: 0, offset: 539 key: Pentos@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 8
+2024-06-02 23:38:42,766 [main] INFO  Consumer - [topic: out, partition: 0, offset: 540 key: Braavos@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 13
+2024-06-02 23:38:42,766 [main] INFO  Consumer - [topic: out, partition: 0, offset: 541 key: Qarth@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 9
+2024-06-02 23:38:42,766 [main] INFO  Consumer - [topic: out, partition: 0, offset: 542 key: Volantis@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 16
+2024-06-02 23:38:42,766 [main] INFO  Consumer - [topic: out, partition: 0, offset: 543 key: Tolos@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 7
+2024-06-02 23:38:42,766 [main] INFO  Consumer - [topic: out, partition: 0, offset: 544 key: Samyrian@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 9
+2024-06-02 23:38:42,766 [main] INFO  Consumer - [topic: out, partition: 0, offset: 545 key: Oldtown@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 17
+2024-06-02 23:38:42,766 [main] INFO  Consumer - [topic: out, partition: 0, offset: 546 key: Tyria@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 16
+2024-06-02 23:38:42,766 [main] INFO  Consumer - [topic: out, partition: 0, offset: 547 key: Sar Meel@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 11
+2024-06-02 23:38:42,766 [main] INFO  Consumer - [topic: out, partition: 0, offset: 548 key: Vaes Dothrak@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 16
+2024-06-02 23:38:42,767 [main] INFO  Consumer - [topic: out, partition: 0, offset: 549 key: Ny Sar@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 19
+2024-06-02 23:38:42,767 [main] INFO  Consumer - [topic: out, partition: 0, offset: 550 key: King's Landing@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 17
+2024-06-02 23:38:42,767 [main] INFO  Consumer - [topic: out, partition: 0, offset: 551 key: Gulltown@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 16
+2024-06-02 23:38:42,767 [main] INFO  Consumer - [topic: out, partition: 0, offset: 552 key: Astapor@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 20
+2024-06-02 23:38:42,767 [main] INFO  Consumer - [topic: out, partition: 0, offset: 553 key: Myr@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 9
+2024-06-02 23:38:42,767 [main] INFO  Consumer - [topic: out, partition: 0, offset: 554 key: Chroyane@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 18
+2024-06-02 23:38:42,767 [main] INFO  Consumer - [topic: out, partition: 0, offset: 555 key: Yunkai@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 10
+2024-06-02 23:39:12,871 [main] INFO  Consumer - [topic: out, partition: 0, offset: 556 key: Bhorash@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 8
+2024-06-02 23:39:12,871 [main] INFO  Consumer - [topic: out, partition: 0, offset: 557 key: Lannisport@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 13
+2024-06-02 23:39:12,871 [main] INFO  Consumer - [topic: out, partition: 0, offset: 558 key: Tyria@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 17
+2024-06-02 23:39:12,871 [main] INFO  Consumer - [topic: out, partition: 0, offset: 559 key: Old Valyria@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 10
+2024-06-02 23:39:12,871 [main] INFO  Consumer - [topic: out, partition: 0, offset: 560 key: New Ghis@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 11
+2024-06-02 23:39:12,871 [main] INFO  Consumer - [topic: out, partition: 0, offset: 561 key: Astapor@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 21
+2024-06-02 23:39:12,871 [main] INFO  Consumer - [topic: out, partition: 0, offset: 562 key: Gulltown@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 18
+2024-06-02 23:39:12,871 [main] INFO  Consumer - [topic: out, partition: 0, offset: 563 key: White Harbor@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 17
+2024-06-02 23:39:12,871 [main] INFO  Consumer - [topic: out, partition: 0, offset: 564 key: Meereen@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 13
+2024-06-02 23:39:12,871 [main] INFO  Consumer - [topic: out, partition: 0, offset: 565 key: Asshai@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 12
+2024-06-02 23:39:12,871 [main] INFO  Consumer - [topic: out, partition: 0, offset: 566 key: Samyrian@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 12
+2024-06-02 23:39:12,871 [main] INFO  Consumer - [topic: out, partition: 0, offset: 567 key: Volantis@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 17
+2024-06-02 23:39:12,871 [main] INFO  Consumer - [topic: out, partition: 0, offset: 568 key: Pentos@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 10
+2024-06-02 23:39:12,871 [main] INFO  Consumer - [topic: out, partition: 0, offset: 569 key: Oros@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 9
+2024-06-02 23:39:12,871 [main] INFO  Consumer - [topic: out, partition: 0, offset: 570 key: Lys@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 16
+2024-06-02 23:39:12,871 [main] INFO  Consumer - [topic: out, partition: 0, offset: 571 key: Yunkai@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 15
+2024-06-02 23:39:12,871 [main] INFO  Consumer - [topic: out, partition: 0, offset: 572 key: Myr@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 11
+2024-06-02 23:39:12,871 [main] INFO  Consumer - [topic: out, partition: 0, offset: 573 key: Tolos@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 8
+2024-06-02 23:39:12,871 [main] INFO  Consumer - [topic: out, partition: 0, offset: 574 key: King's Landing@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 18
+2024-06-02 23:39:12,871 [main] INFO  Consumer - [topic: out, partition: 0, offset: 575 key: Qarth@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 10
+2024-06-02 23:39:12,871 [main] INFO  Consumer - [topic: out, partition: 0, offset: 576 key: Bayasabhad@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 11
+2024-06-02 23:39:12,871 [main] INFO  Consumer - [topic: out, partition: 0, offset: 577 key: Norvos@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 16
+2024-06-02 23:39:12,871 [main] INFO  Consumer - [topic: out, partition: 0, offset: 578 key: Sar Meel@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 13
+2024-06-02 23:39:12,871 [main] INFO  Consumer - [topic: out, partition: 0, offset: 579 key: Qohor@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 12
+2024-06-02 23:39:12,871 [main] INFO  Consumer - [topic: out, partition: 0, offset: 580 key: Ny Sar@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 23
+2024-06-02 23:39:12,871 [main] INFO  Consumer - [topic: out, partition: 0, offset: 581 key: Vaes Dothrak@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 17
+2024-06-02 23:39:12,871 [main] INFO  Consumer - [topic: out, partition: 0, offset: 582 key: Braavos@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 15
+2024-06-02 23:39:12,871 [main] INFO  Consumer - [topic: out, partition: 0, offset: 583 key: Old Ghis@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 12
+2024-06-02 23:39:12,871 [main] INFO  Consumer - [topic: out, partition: 0, offset: 584 key: Chroyane@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 20
+2024-06-02 23:39:42,931 [main] INFO  Consumer - [topic: out, partition: 0, offset: 585 key: Bayasabhad@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 12
+2024-06-02 23:39:42,931 [main] INFO  Consumer - [topic: out, partition: 0, offset: 586 key: Tyria@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 18
+2024-06-02 23:39:42,931 [main] INFO  Consumer - [topic: out, partition: 0, offset: 587 key: Gulltown@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 19
+2024-06-02 23:39:42,931 [main] INFO  Consumer - [topic: out, partition: 0, offset: 588 key: King's Landing@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 19
+2024-06-02 23:39:42,931 [main] INFO  Consumer - [topic: out, partition: 0, offset: 589 key: Oros@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 10
+2024-06-02 23:39:42,931 [main] INFO  Consumer - [topic: out, partition: 0, offset: 590 key: Old Ghis@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 13
+2024-06-02 23:39:42,931 [main] INFO  Consumer - [topic: out, partition: 0, offset: 591 key: Tyrosh@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 16
+2024-06-02 23:39:42,931 [main] INFO  Consumer - [topic: out, partition: 0, offset: 592 key: Astapor@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 23
+2024-06-02 23:39:42,931 [main] INFO  Consumer - [topic: out, partition: 0, offset: 593 key: Lorath@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 14
+2024-06-02 23:39:42,931 [main] INFO  Consumer - [topic: out, partition: 0, offset: 594 key: Tolos@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 10
+2024-06-02 23:39:42,931 [main] INFO  Consumer - [topic: out, partition: 0, offset: 595 key: Lannisport@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 16
+2024-06-02 23:39:42,931 [main] INFO  Consumer - [topic: out, partition: 0, offset: 596 key: Ny Sar@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 25
+2024-06-02 23:39:42,931 [main] INFO  Consumer - [topic: out, partition: 0, offset: 597 key: Meereen@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 15
+2024-06-02 23:39:42,931 [main] INFO  Consumer - [topic: out, partition: 0, offset: 598 key: Vaes Dothrak@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 19
+2024-06-02 23:39:42,931 [main] INFO  Consumer - [topic: out, partition: 0, offset: 599 key: Elyria@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 15
+2024-06-02 23:39:42,931 [main] INFO  Consumer - [topic: out, partition: 0, offset: 600 key: Lys@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 19
+2024-06-02 23:39:42,931 [main] INFO  Consumer - [topic: out, partition: 0, offset: 601 key: Pentos@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 11
+2024-06-02 23:39:42,931 [main] INFO  Consumer - [topic: out, partition: 0, offset: 602 key: Norvos@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 18
+2024-06-02 23:39:42,931 [main] INFO  Consumer - [topic: out, partition: 0, offset: 603 key: Oldtown@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 19
+2024-06-02 23:39:42,931 [main] INFO  Consumer - [topic: out, partition: 0, offset: 604 key: Chroyane@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 26
+2024-06-02 23:39:42,931 [main] INFO  Consumer - [topic: out, partition: 0, offset: 605 key: Bhorash@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 9
+2024-06-02 23:39:42,931 [main] INFO  Consumer - [topic: out, partition: 0, offset: 606 key: Old Valyria@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 13
+2024-06-02 23:39:42,931 [main] INFO  Consumer - [topic: out, partition: 0, offset: 607 key: Asshai@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 15
+2024-06-02 23:39:42,931 [main] INFO  Consumer - [topic: out, partition: 0, offset: 608 key: Ar Noy@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 16
+2024-06-02 23:39:42,931 [main] INFO  Consumer - [topic: out, partition: 0, offset: 609 key: White Harbor@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 21
+2024-06-02 23:39:42,931 [main] INFO  Consumer - [topic: out, partition: 0, offset: 610 key: Qarth@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 12
+2024-06-02 23:39:42,931 [main] INFO  Consumer - [topic: out, partition: 0, offset: 611 key: Braavos@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 17
+2024-06-02 23:39:42,931 [main] INFO  Consumer - [topic: out, partition: 0, offset: 612 key: New Ghis@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 14
+2024-06-02 23:40:13,018 [main] INFO  Consumer - [topic: out, partition: 0, offset: 613 key: New Ghis@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 15
+2024-06-02 23:40:13,018 [main] INFO  Consumer - [topic: out, partition: 0, offset: 614 key: King's Landing@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 20
+2024-06-02 23:40:13,018 [main] INFO  Consumer - [topic: out, partition: 0, offset: 615 key: Oldtown@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 20
+2024-06-02 23:40:13,018 [main] INFO  Consumer - [topic: out, partition: 0, offset: 616 key: Tyria@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 19
+2024-06-02 23:40:13,018 [main] INFO  Consumer - [topic: out, partition: 0, offset: 617 key: Braavos@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 18
+2024-06-02 23:40:13,018 [main] INFO  Consumer - [topic: out, partition: 0, offset: 618 key: Sunspear@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 16
+2024-06-02 23:40:13,018 [main] INFO  Consumer - [topic: out, partition: 0, offset: 619 key: Tolos@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 11
+2024-06-02 23:40:13,018 [main] INFO  Consumer - [topic: out, partition: 0, offset: 620 key: Gulltown@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 20
+2024-06-02 23:40:13,018 [main] INFO  Consumer - [topic: out, partition: 0, offset: 621 key: Norvos@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 19
+2024-06-02 23:40:13,018 [main] INFO  Consumer - [topic: out, partition: 0, offset: 622 key: Old Ghis@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 16
+2024-06-02 23:40:13,018 [main] INFO  Consumer - [topic: out, partition: 0, offset: 623 key: Samyrian@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 13
+2024-06-02 23:40:13,018 [main] INFO  Consumer - [topic: out, partition: 0, offset: 624 key: Lys@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 20
+2024-06-02 23:40:13,018 [main] INFO  Consumer - [topic: out, partition: 0, offset: 625 key: Sar Meel@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 14
+2024-06-02 23:40:13,018 [main] INFO  Consumer - [topic: out, partition: 0, offset: 626 key: Old Valyria@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 14
+2024-06-02 23:40:13,018 [main] INFO  Consumer - [topic: out, partition: 0, offset: 627 key: White Harbor@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 22
+2024-06-02 23:40:13,019 [main] INFO  Consumer - [topic: out, partition: 0, offset: 628 key: Elyria@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 16
+2024-06-02 23:40:13,019 [main] INFO  Consumer - [topic: out, partition: 0, offset: 629 key: Yunkai@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 17
+2024-06-02 23:40:13,019 [main] INFO  Consumer - [topic: out, partition: 0, offset: 630 key: Chroyane@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 27
+2024-06-02 23:40:13,019 [main] INFO  Consumer - [topic: out, partition: 0, offset: 631 key: Ar Noy@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 17
+2024-06-02 23:40:13,019 [main] INFO  Consumer - [topic: out, partition: 0, offset: 632 key: Qohor@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 13
+2024-06-02 23:40:13,019 [main] INFO  Consumer - [topic: out, partition: 0, offset: 633 key: Lorath@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 18
+2024-06-02 23:40:13,019 [main] INFO  Consumer - [topic: out, partition: 0, offset: 634 key: Bayasabhad@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 16
+2024-06-02 23:40:13,019 [main] INFO  Consumer - [topic: out, partition: 0, offset: 635 key: Asshai@<2024-06-02T20:35:00Z,2024-06-02T20:40:00Z>] 17
+2024-06-02 23:40:13,019 [main] INFO  Consumer - [topic: out, partition: 0, offset: 636 key: Oldtown@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 2
+2024-06-02 23:40:13,019 [main] INFO  Consumer - [topic: out, partition: 0, offset: 637 key: Volantis@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 1
+2024-06-02 23:40:13,019 [main] INFO  Consumer - [topic: out, partition: 0, offset: 638 key: Norvos@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 1
+2024-06-02 23:40:13,019 [main] INFO  Consumer - [topic: out, partition: 0, offset: 639 key: Sunspear@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 1
+2024-06-02 23:40:13,019 [main] INFO  Consumer - [topic: out, partition: 0, offset: 640 key: Vaes Dothrak@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 1
+2024-06-02 23:40:13,019 [main] INFO  Consumer - [topic: out, partition: 0, offset: 641 key: Gulltown@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 1
+2024-06-02 23:40:13,019 [main] INFO  Consumer - [topic: out, partition: 0, offset: 642 key: Samyrian@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 1
+2024-06-02 23:40:13,019 [main] INFO  Consumer - [topic: out, partition: 0, offset: 643 key: White Harbor@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 2
+2024-06-02 23:40:13,019 [main] INFO  Consumer - [topic: out, partition: 0, offset: 644 key: Ny Sar@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 1
+2024-06-02 23:40:13,019 [main] INFO  Consumer - [topic: out, partition: 0, offset: 645 key: Chroyane@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 1
+2024-06-02 23:40:13,019 [main] INFO  Consumer - [topic: out, partition: 0, offset: 646 key: Asshai@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 2
+2024-06-02 23:40:13,019 [main] INFO  Consumer - [topic: out, partition: 0, offset: 647 key: Myr@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 1
+2024-06-02 23:40:13,019 [main] INFO  Consumer - [topic: out, partition: 0, offset: 648 key: Lannisport@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 2
+2024-06-02 23:40:13,019 [main] INFO  Consumer - [topic: out, partition: 0, offset: 649 key: Qohor@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 1
+2024-06-02 23:40:13,019 [main] INFO  Consumer - [topic: out, partition: 0, offset: 650 key: Ar Noy@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 1
+2024-06-02 23:40:13,019 [main] INFO  Consumer - [topic: out, partition: 0, offset: 651 key: Mantarys@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 1
+2024-06-02 23:40:13,019 [main] INFO  Consumer - [topic: out, partition: 0, offset: 652 key: Qarth@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 3
+2024-06-02 23:40:13,019 [main] INFO  Consumer - [topic: out, partition: 0, offset: 653 key: Meereen@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 2
+2024-06-02 23:40:13,019 [main] INFO  Consumer - [topic: out, partition: 0, offset: 654 key: Pentos@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 1
+2024-06-02 23:40:43,058 [main] INFO  Consumer - [topic: out, partition: 0, offset: 655 key: Meereen@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 3
+2024-06-02 23:40:43,059 [main] INFO  Consumer - [topic: out, partition: 0, offset: 656 key: Oros@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 1
+2024-06-02 23:40:43,059 [main] INFO  Consumer - [topic: out, partition: 0, offset: 657 key: Samyrian@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 2
+2024-06-02 23:40:43,059 [main] INFO  Consumer - [topic: out, partition: 0, offset: 658 key: Lannisport@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 3
+2024-06-02 23:40:43,059 [main] INFO  Consumer - [topic: out, partition: 0, offset: 659 key: Bayasabhad@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 1
+2024-06-02 23:40:43,059 [main] INFO  Consumer - [topic: out, partition: 0, offset: 660 key: Braavos@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 2
+2024-06-02 23:40:43,059 [main] INFO  Consumer - [topic: out, partition: 0, offset: 661 key: Astapor@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 1
+2024-06-02 23:40:43,059 [main] INFO  Consumer - [topic: out, partition: 0, offset: 662 key: Qohor@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 2
+2024-06-02 23:40:43,059 [main] INFO  Consumer - [topic: out, partition: 0, offset: 663 key: Lorath@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 2
+2024-06-02 23:40:43,059 [main] INFO  Consumer - [topic: out, partition: 0, offset: 664 key: New Ghis@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 1
+2024-06-02 23:40:43,059 [main] INFO  Consumer - [topic: out, partition: 0, offset: 665 key: Vaes Dothrak@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 3
+2024-06-02 23:40:43,059 [main] INFO  Consumer - [topic: out, partition: 0, offset: 666 key: Oldtown@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 3
+2024-06-02 23:40:43,059 [main] INFO  Consumer - [topic: out, partition: 0, offset: 667 key: Gulltown@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 4
+2024-06-02 23:40:43,059 [main] INFO  Consumer - [topic: out, partition: 0, offset: 668 key: Norvos@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 4
+2024-06-02 23:40:43,059 [main] INFO  Consumer - [topic: out, partition: 0, offset: 669 key: Sunspear@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 2
+2024-06-02 23:40:43,059 [main] INFO  Consumer - [topic: out, partition: 0, offset: 670 key: Ar Noy@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 3
+2024-06-02 23:40:43,059 [main] INFO  Consumer - [topic: out, partition: 0, offset: 671 key: Ny Sar@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 3
+2024-06-02 23:40:43,059 [main] INFO  Consumer - [topic: out, partition: 0, offset: 672 key: Elyria@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 1
+2024-06-02 23:40:43,059 [main] INFO  Consumer - [topic: out, partition: 0, offset: 673 key: Lys@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 3
+2024-06-02 23:40:43,059 [main] INFO  Consumer - [topic: out, partition: 0, offset: 674 key: Tolos@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 2
+2024-06-02 23:40:43,059 [main] INFO  Consumer - [topic: out, partition: 0, offset: 675 key: White Harbor@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 5
+2024-06-02 23:40:43,059 [main] INFO  Consumer - [topic: out, partition: 0, offset: 676 key: Mantarys@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 3
+2024-06-02 23:40:43,059 [main] INFO  Consumer - [topic: out, partition: 0, offset: 677 key: Tyria@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 2
+2024-06-02 23:40:43,059 [main] INFO  Consumer - [topic: out, partition: 0, offset: 678 key: Sar Meel@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 1
+2024-06-02 23:40:43,059 [main] INFO  Consumer - [topic: out, partition: 0, offset: 679 key: Yunkai@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 3
+2024-06-02 23:40:43,060 [main] INFO  Consumer - [topic: out, partition: 0, offset: 680 key: Chroyane@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 4
+2024-06-02 23:40:43,060 [main] INFO  Consumer - [topic: out, partition: 0, offset: 681 key: Old Valyria@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 3
+2024-06-02 23:40:43,060 [main] INFO  Consumer - [topic: out, partition: 0, offset: 682 key: King's Landing@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 1
+2024-06-02 23:40:43,060 [main] INFO  Consumer - [topic: out, partition: 0, offset: 683 key: Asshai@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 5
+2024-06-02 23:40:43,060 [main] INFO  Consumer - [topic: out, partition: 0, offset: 684 key: Tyrosh@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 3
+2024-06-02 23:40:43,060 [main] INFO  Consumer - [topic: out, partition: 0, offset: 685 key: Bhorash@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 3
+2024-06-02 23:41:13,101 [main] INFO  Consumer - [topic: out, partition: 0, offset: 686 key: King's Landing@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 2
+2024-06-02 23:41:13,102 [main] INFO  Consumer - [topic: out, partition: 0, offset: 687 key: Meereen@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 4
+2024-06-02 23:41:13,102 [main] INFO  Consumer - [topic: out, partition: 0, offset: 688 key: Oros@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 2
+2024-06-02 23:41:13,102 [main] INFO  Consumer - [topic: out, partition: 0, offset: 689 key: Sar Meel@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 2
+2024-06-02 23:41:13,102 [main] INFO  Consumer - [topic: out, partition: 0, offset: 690 key: Bhorash@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 5
+2024-06-02 23:41:13,102 [main] INFO  Consumer - [topic: out, partition: 0, offset: 691 key: Elyria@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 2
+2024-06-02 23:41:13,102 [main] INFO  Consumer - [topic: out, partition: 0, offset: 692 key: Astapor@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 2
+2024-06-02 23:41:13,102 [main] INFO  Consumer - [topic: out, partition: 0, offset: 693 key: Lys@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 4
+2024-06-02 23:41:13,102 [main] INFO  Consumer - [topic: out, partition: 0, offset: 694 key: Norvos@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 5
+2024-06-02 23:41:13,102 [main] INFO  Consumer - [topic: out, partition: 0, offset: 695 key: Gulltown@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 8
+2024-06-02 23:41:13,102 [main] INFO  Consumer - [topic: out, partition: 0, offset: 696 key: Ar Noy@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 4
+2024-06-02 23:41:13,102 [main] INFO  Consumer - [topic: out, partition: 0, offset: 697 key: Samyrian@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 5
+2024-06-02 23:41:13,102 [main] INFO  Consumer - [topic: out, partition: 0, offset: 698 key: Volantis@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 5
+2024-06-02 23:41:13,102 [main] INFO  Consumer - [topic: out, partition: 0, offset: 699 key: Old Valyria@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 5
+2024-06-02 23:41:13,102 [main] INFO  Consumer - [topic: out, partition: 0, offset: 700 key: Bayasabhad@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 2
+2024-06-02 23:41:13,102 [main] INFO  Consumer - [topic: out, partition: 0, offset: 701 key: Braavos@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 3
+2024-06-02 23:41:13,102 [main] INFO  Consumer - [topic: out, partition: 0, offset: 702 key: Ny Sar@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 5
+2024-06-02 23:41:13,102 [main] INFO  Consumer - [topic: out, partition: 0, offset: 703 key: Qohor@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 5
+2024-06-02 23:41:13,102 [main] INFO  Consumer - [topic: out, partition: 0, offset: 704 key: Tyria@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 5
+2024-06-02 23:41:13,102 [main] INFO  Consumer - [topic: out, partition: 0, offset: 705 key: Vaes Dothrak@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 6
+2024-06-02 23:41:13,102 [main] INFO  Consumer - [topic: out, partition: 0, offset: 706 key: New Ghis@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 2
+2024-06-02 23:41:13,103 [main] INFO  Consumer - [topic: out, partition: 0, offset: 707 key: Tyrosh@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 7
+2024-06-02 23:41:13,103 [main] INFO  Consumer - [topic: out, partition: 0, offset: 708 key: Mantarys@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 4
+2024-06-02 23:41:13,103 [main] INFO  Consumer - [topic: out, partition: 0, offset: 709 key: Oldtown@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 4
+2024-06-02 23:41:13,103 [main] INFO  Consumer - [topic: out, partition: 0, offset: 710 key: Pentos@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 4
+2024-06-02 23:41:13,103 [main] INFO  Consumer - [topic: out, partition: 0, offset: 711 key: Asshai@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 6
+2024-06-02 23:41:13,103 [main] INFO  Consumer - [topic: out, partition: 0, offset: 712 key: Yunkai@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 5
+2024-06-02 23:41:13,103 [main] INFO  Consumer - [topic: out, partition: 0, offset: 713 key: Qarth@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 7
+2024-06-02 23:41:13,103 [main] INFO  Consumer - [topic: out, partition: 0, offset: 714 key: White Harbor@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 11
+2024-06-02 23:41:43,161 [main] INFO  Consumer - [topic: out, partition: 0, offset: 715 key: Braavos@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 4
+2024-06-02 23:41:43,161 [main] INFO  Consumer - [topic: out, partition: 0, offset: 716 key: Old Valyria@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 7
+2024-06-02 23:41:43,161 [main] INFO  Consumer - [topic: out, partition: 0, offset: 717 key: Asshai@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 7
+2024-06-02 23:41:43,161 [main] INFO  Consumer - [topic: out, partition: 0, offset: 718 key: Myr@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 2
+2024-06-02 23:41:43,161 [main] INFO  Consumer - [topic: out, partition: 0, offset: 719 key: Volantis@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 6
+2024-06-02 23:41:43,161 [main] INFO  Consumer - [topic: out, partition: 0, offset: 720 key: Gulltown@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 9
+2024-06-02 23:41:43,161 [main] INFO  Consumer - [topic: out, partition: 0, offset: 721 key: Samyrian@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 7
+2024-06-02 23:41:43,161 [main] INFO  Consumer - [topic: out, partition: 0, offset: 722 key: Tyrosh@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 8
+2024-06-02 23:41:43,162 [main] INFO  Consumer - [topic: out, partition: 0, offset: 723 key: Bayasabhad@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 4
+2024-06-02 23:41:43,162 [main] INFO  Consumer - [topic: out, partition: 0, offset: 724 key: Astapor@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 4
+2024-06-02 23:41:43,162 [main] INFO  Consumer - [topic: out, partition: 0, offset: 725 key: Tyria@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 8
+2024-06-02 23:41:43,162 [main] INFO  Consumer - [topic: out, partition: 0, offset: 726 key: Lannisport@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 6
+2024-06-02 23:41:43,162 [main] INFO  Consumer - [topic: out, partition: 0, offset: 727 key: Bhorash@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 7
+2024-06-02 23:41:43,162 [main] INFO  Consumer - [topic: out, partition: 0, offset: 728 key: Qohor@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 7
+2024-06-02 23:41:43,162 [main] INFO  Consumer - [topic: out, partition: 0, offset: 729 key: Mantarys@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 7
+2024-06-02 23:41:43,162 [main] INFO  Consumer - [topic: out, partition: 0, offset: 730 key: Sar Meel@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 5
+2024-06-02 23:41:43,162 [main] INFO  Consumer - [topic: out, partition: 0, offset: 731 key: Lys@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 6
+2024-06-02 23:41:43,162 [main] INFO  Consumer - [topic: out, partition: 0, offset: 732 key: Vaes Dothrak@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 8
+2024-06-02 23:41:43,162 [main] INFO  Consumer - [topic: out, partition: 0, offset: 733 key: Oldtown@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 6
+2024-06-02 23:41:43,162 [main] INFO  Consumer - [topic: out, partition: 0, offset: 734 key: Oros@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 5
+2024-06-02 23:41:43,162 [main] INFO  Consumer - [topic: out, partition: 0, offset: 735 key: New Ghis@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 4
+2024-06-02 23:41:43,162 [main] INFO  Consumer - [topic: out, partition: 0, offset: 736 key: Sunspear@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 4
+2024-06-02 23:41:43,162 [main] INFO  Consumer - [topic: out, partition: 0, offset: 737 key: Pentos@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 7
+2024-06-02 23:41:43,162 [main] INFO  Consumer - [topic: out, partition: 0, offset: 738 key: Ny Sar@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 7
+2024-06-02 23:41:43,162 [main] INFO  Consumer - [topic: out, partition: 0, offset: 739 key: Tolos@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 5
+2024-06-02 23:41:43,162 [main] INFO  Consumer - [topic: out, partition: 0, offset: 740 key: Ar Noy@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 6
+2024-06-02 23:41:43,162 [main] INFO  Consumer - [topic: out, partition: 0, offset: 741 key: Norvos@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 7
+2024-06-02 23:41:43,162 [main] INFO  Consumer - [topic: out, partition: 0, offset: 742 key: Yunkai@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 7
+2024-06-02 23:41:43,162 [main] INFO  Consumer - [topic: out, partition: 0, offset: 743 key: Chroyane@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 6
+2024-06-02 23:42:13,269 [main] INFO  Consumer - [topic: out, partition: 0, offset: 744 key: Qohor@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 8
+2024-06-02 23:42:13,269 [main] INFO  Consumer - [topic: out, partition: 0, offset: 745 key: Ar Noy@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 7
+2024-06-02 23:42:13,269 [main] INFO  Consumer - [topic: out, partition: 0, offset: 746 key: Tyrosh@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 9
+2024-06-02 23:42:13,269 [main] INFO  Consumer - [topic: out, partition: 0, offset: 747 key: Myr@<2024-06-02T20:40:00Z,2024-06-02T20:45:00Z>] 3

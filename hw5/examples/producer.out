@@ -1,0 +1,1447 @@
+2024-06-02 23:29:30,814 [main] INFO  Producer - Start:
+2024-06-02 23:29:31,673 [main] INFO  Producer - Send to: {topic:[events], key:[Bayasabhad], value:[Theomar Smallwood]}
+2024-06-02 23:29:32,193 [main] INFO  Producer - Send to: {topic:[events], key:[Old Ghis], value:[Sefton]}
+2024-06-02 23:29:32,710 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Wylis Manderly]}
+2024-06-02 23:29:33,224 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Cosgrove]}
+2024-06-02 23:29:33,732 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Sarnori]}
+2024-06-02 23:29:34,247 [main] INFO  Producer - Send to: {topic:[events], key:[Myr], value:[Damon Shett]}
+2024-06-02 23:29:34,777 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Godwyn]}
+2024-06-02 23:29:35,292 [main] INFO  Producer - Send to: {topic:[events], key:[Lorath], value:[Ulmer]}
+2024-06-02 23:29:35,814 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Leona Tyrell]}
+2024-06-02 23:29:36,326 [main] INFO  Producer - Send to: {topic:[events], key:[Lannisport], value:[Jonos Frey]}
+2024-06-02 23:29:36,837 [main] INFO  Producer - Send to: {topic:[events], key:[Pentos], value:[Meredyth Crane]}
+2024-06-02 23:29:37,357 [main] INFO  Producer - Send to: {topic:[events], key:[Ar Noy], value:[Daeron II Targaryen]}
+2024-06-02 23:29:37,874 [main] INFO  Producer - Send to: {topic:[events], key:[Yunkai], value:[Endehar]}
+2024-06-02 23:29:38,387 [main] INFO  Producer - Send to: {topic:[events], key:[Myr], value:[Joseth Mallister]}
+2024-06-02 23:29:38,892 [main] INFO  Producer - Send to: {topic:[events], key:[Sar Meel], value:[Kyra]}
+2024-06-02 23:29:39,410 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Otho Bracken]}
+2024-06-02 23:29:39,916 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Myles Manwoody]}
+2024-06-02 23:29:40,421 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Vardis Egen]}
+2024-06-02 23:29:40,928 [main] INFO  Producer - Send to: {topic:[events], key:[Oldtown], value:[Ricasso]}
+2024-06-02 23:29:41,446 [main] INFO  Producer - Send to: {topic:[events], key:[Norvos], value:[Pia]}
+2024-06-02 23:29:41,964 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Dennis Plumm]}
+2024-06-02 23:29:42,483 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Helman Tallhart]}
+2024-06-02 23:29:43,005 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Harlon Botley]}
+2024-06-02 23:29:43,518 [main] INFO  Producer - Send to: {topic:[events], key:[Ar Noy], value:[Noho Dimittis]}
+2024-06-02 23:29:44,036 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Galladon of Morne]}
+2024-06-02 23:29:44,545 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Rodrik Harlaw]}
+2024-06-02 23:29:45,050 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Lem]}
+2024-06-02 23:29:45,569 [main] INFO  Producer - Send to: {topic:[events], key:[Tolos], value:[Janei Lannister]}
+2024-06-02 23:29:46,079 [main] INFO  Producer - Send to: {topic:[events], key:[Bhorash], value:[Harra]}
+2024-06-02 23:29:46,601 [main] INFO  Producer - Send to: {topic:[events], key:[Qarth], value:[Leana Frey]}
+2024-06-02 23:29:47,109 [main] INFO  Producer - Send to: {topic:[events], key:[Sunspear], value:[Hugor of the Hill]}
+2024-06-02 23:29:47,618 [main] INFO  Producer - Send to: {topic:[events], key:[Myr], value:[Falena Stokeworth]}
+2024-06-02 23:29:48,130 [main] INFO  Producer - Send to: {topic:[events], key:[Yunkai], value:[Willam]}
+2024-06-02 23:29:48,637 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Tytos Brax]}
+2024-06-02 23:29:49,151 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Rolfe]}
+2024-06-02 23:29:49,657 [main] INFO  Producer - Send to: {topic:[events], key:[Oldtown], value:[Bethany Bracken]}
+2024-06-02 23:29:50,165 [main] INFO  Producer - Send to: {topic:[events], key:[Norvos], value:[Ezzara]}
+2024-06-02 23:29:50,670 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Rhonda Rowan]}
+2024-06-02 23:29:51,181 [main] INFO  Producer - Send to: {topic:[events], key:[Tolos], value:[Old Henly]}
+2024-06-02 23:29:51,686 [main] INFO  Producer - Send to: {topic:[events], key:[Qarth], value:[Vayon Poole]}
+2024-06-02 23:29:52,204 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Kyle Royce]}
+2024-06-02 23:29:52,710 [main] INFO  Producer - Send to: {topic:[events], key:[New Ghis], value:[Andar Royce]}
+2024-06-02 23:29:53,229 [main] INFO  Producer - Send to: {topic:[events], key:[Old Ghis], value:[Weese]}
+2024-06-02 23:29:53,734 [main] INFO  Producer - Send to: {topic:[events], key:[New Ghis], value:[Doran Martell]}
+2024-06-02 23:29:54,252 [main] INFO  Producer - Send to: {topic:[events], key:[Oros], value:[Harlon Greyjoy]}
+2024-06-02 23:29:54,762 [main] INFO  Producer - Send to: {topic:[events], key:[Pentos], value:[Grisel]}
+2024-06-02 23:29:55,278 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Alysanne Osgrey]}
+2024-06-02 23:29:55,792 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Portifer Woodwright]}
+2024-06-02 23:29:56,299 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Garizon]}
+2024-06-02 23:29:56,804 [main] INFO  Producer - Send to: {topic:[events], key:[Oldtown], value:[Harwin Strong]}
+2024-06-02 23:29:57,310 [main] INFO  Producer - Send to: {topic:[events], key:[Qarth], value:[Addison Hill]}
+2024-06-02 23:29:57,815 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Martyn Cassel]}
+2024-06-02 23:29:58,320 [main] INFO  Producer - Send to: {topic:[events], key:[Norvos], value:[Rusty Flowers]}
+2024-06-02 23:29:58,826 [main] INFO  Producer - Send to: {topic:[events], key:[Lannisport], value:[Elyn Norridge]}
+2024-06-02 23:29:59,332 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Rattleshirt]}
+2024-06-02 23:29:59,837 [main] INFO  Producer - Send to: {topic:[events], key:[Volantis], value:[Carellen Smallwood]}
+2024-06-02 23:30:00,343 [main] INFO  Producer - Send to: {topic:[events], key:[Qarth], value:[Theon Stark]}
+2024-06-02 23:30:00,848 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Domeric Bolton]}
+2024-06-02 23:30:01,353 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Kenned]}
+2024-06-02 23:30:01,860 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Bertram Beesbury]}
+2024-06-02 23:30:02,364 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Johanna Swann]}
+2024-06-02 23:30:02,871 [main] INFO  Producer - Send to: {topic:[events], key:[Lannisport], value:[Alyn Estermont]}
+2024-06-02 23:30:03,379 [main] INFO  Producer - Send to: {topic:[events], key:[Old Valyria], value:[Denestan]}
+2024-06-02 23:30:03,888 [main] INFO  Producer - Send to: {topic:[events], key:[Lorath], value:[Hosman Norcross]}
+2024-06-02 23:30:04,395 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Buu]}
+2024-06-02 23:30:04,899 [main] INFO  Producer - Send to: {topic:[events], key:[Oldtown], value:[Duncan]}
+2024-06-02 23:30:05,404 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Rorge]}
+2024-06-02 23:30:05,909 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Galt]}
+2024-06-02 23:30:06,413 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Chiggen]}
+2024-06-02 23:30:06,918 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Cutjack]}
+2024-06-02 23:30:07,423 [main] INFO  Producer - Send to: {topic:[events], key:[Myr], value:[Marwyn]}
+2024-06-02 23:30:07,928 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Roose Ryswell]}
+2024-06-02 23:30:08,433 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Lyanna Mormont]}
+2024-06-02 23:30:08,937 [main] INFO  Producer - Send to: {topic:[events], key:[Mantarys], value:[Jacelyn Bywater]}
+2024-06-02 23:30:09,445 [main] INFO  Producer - Send to: {topic:[events], key:[Mantarys], value:[Lothar Frey]}
+2024-06-02 23:30:09,961 [main] INFO  Producer - Send to: {topic:[events], key:[Pentos], value:[Maron Botley]}
+2024-06-02 23:30:10,466 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Lucan]}
+2024-06-02 23:30:10,980 [main] INFO  Producer - Send to: {topic:[events], key:[New Ghis], value:[Merianne Frey]}
+2024-06-02 23:30:11,485 [main] INFO  Producer - Send to: {topic:[events], key:[Qarth], value:[Tyrion Lannister]}
+2024-06-02 23:30:11,997 [main] INFO  Producer - Send to: {topic:[events], key:[Sunspear], value:[Lucion Lannister]}
+2024-06-02 23:30:12,502 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Halys Hornwood]}
+2024-06-02 23:30:13,006 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Vaellyn]}
+2024-06-02 23:30:13,517 [main] INFO  Producer - Send to: {topic:[events], key:[New Ghis], value:[Maege Mormont]}
+2024-06-02 23:30:14,030 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Kyleg of the Wooden Ear]}
+2024-06-02 23:30:14,540 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Mag Mar Tun Doh Weg]}
+2024-06-02 23:30:15,057 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Guyard Morrigen]}
+2024-06-02 23:30:15,565 [main] INFO  Producer - Send to: {topic:[events], key:[Oldtown], value:[Bryen Farring]}
+2024-06-02 23:30:16,077 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Qarl the Thrall]}
+2024-06-02 23:30:16,584 [main] INFO  Producer - Send to: {topic:[events], key:[Old Ghis], value:[Hilmar Drumm]}
+2024-06-02 23:30:17,102 [main] INFO  Producer - Send to: {topic:[events], key:[Elyria], value:[Jon Cupps]}
+2024-06-02 23:30:17,616 [main] INFO  Producer - Send to: {topic:[events], key:[Bayasabhad], value:[Cetheres]}
+2024-06-02 23:30:18,126 [main] INFO  Producer - Send to: {topic:[events], key:[Mantarys], value:[Guyard Morrigen]}
+2024-06-02 23:30:18,636 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Quort]}
+2024-06-02 23:30:19,155 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Husband]}
+2024-06-02 23:30:19,659 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Harrag Hoare]}
+2024-06-02 23:30:20,174 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Joseran]}
+2024-06-02 23:30:20,689 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Robar Royce]}
+2024-06-02 23:30:21,194 [main] INFO  Producer - Send to: {topic:[events], key:[Bhorash], value:[Rhaego]}
+2024-06-02 23:30:21,701 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Tytos Lannister]}
+2024-06-02 23:30:22,217 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Alysanne Bracken]}
+2024-06-02 23:30:22,722 [main] INFO  Producer - Send to: {topic:[events], key:[New Ghis], value:[Aemon Costayne]}
+2024-06-02 23:30:23,227 [main] INFO  Producer - Send to: {topic:[events], key:[Elyria], value:[Bethany Bracken]}
+2024-06-02 23:30:23,734 [main] INFO  Producer - Send to: {topic:[events], key:[Volantis], value:[Willam Dustin]}
+2024-06-02 23:30:24,239 [main] INFO  Producer - Send to: {topic:[events], key:[Sar Meel], value:[Ryon Allyrion]}
+2024-06-02 23:30:24,746 [main] INFO  Producer - Send to: {topic:[events], key:[Old Valyria], value:[Joramun]}
+2024-06-02 23:30:25,251 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Tymor]}
+2024-06-02 23:30:25,757 [main] INFO  Producer - Send to: {topic:[events], key:[Sunspear], value:[Joth Quickbow]}
+2024-06-02 23:30:26,262 [main] INFO  Producer - Send to: {topic:[events], key:[Yunkai], value:[Kojja Mo]}
+2024-06-02 23:30:26,768 [main] INFO  Producer - Send to: {topic:[events], key:[Sar Meel], value:[Saathos]}
+2024-06-02 23:30:27,273 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Cynthea Frey]}
+2024-06-02 23:30:27,779 [main] INFO  Producer - Send to: {topic:[events], key:[Yunkai], value:[Jyck]}
+2024-06-02 23:30:28,283 [main] INFO  Producer - Send to: {topic:[events], key:[Norvos], value:[Ferrego Antaryon]}
+2024-06-02 23:30:28,788 [main] INFO  Producer - Send to: {topic:[events], key:[Bhorash], value:[Yorkel]}
+2024-06-02 23:30:29,303 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Genna Lannister]}
+2024-06-02 23:30:29,820 [main] INFO  Producer - Send to: {topic:[events], key:[New Ghis], value:[Aeron Greyjoy]}
+2024-06-02 23:30:30,336 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Serra]}
+2024-06-02 23:30:30,841 [main] INFO  Producer - Send to: {topic:[events], key:[Bhorash], value:[Hosteen Frey]}
+2024-06-02 23:30:31,346 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Alyce Graceford]}
+2024-06-02 23:30:31,851 [main] INFO  Producer - Send to: {topic:[events], key:[Old Valyria], value:[Lormelle]}
+2024-06-02 23:30:32,355 [main] INFO  Producer - Send to: {topic:[events], key:[Old Ghis], value:[Alyn Velaryon]}
+2024-06-02 23:30:32,861 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Ulf son of Umar]}
+2024-06-02 23:30:33,367 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Quentyn Martell]}
+2024-06-02 23:30:33,873 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Bors]}
+2024-06-02 23:30:34,380 [main] INFO  Producer - Send to: {topic:[events], key:[Oldtown], value:[Wendel Frey]}
+2024-06-02 23:30:34,885 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Merling Queen]}
+2024-06-02 23:30:35,390 [main] INFO  Producer - Send to: {topic:[events], key:[Lannisport], value:[Jurne]}
+2024-06-02 23:30:35,894 [main] INFO  Producer - Send to: {topic:[events], key:[Qarth], value:[Walder Rivers]}
+2024-06-02 23:30:36,399 [main] INFO  Producer - Send to: {topic:[events], key:[Pentos], value:[Tybero Istarion]}
+2024-06-02 23:30:36,905 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Dagos Manwoody]}
+2024-06-02 23:30:37,409 [main] INFO  Producer - Send to: {topic:[events], key:[Bhorash], value:[Dale Drumm]}
+2024-06-02 23:30:37,913 [main] INFO  Producer - Send to: {topic:[events], key:[Bhorash], value:[Serra]}
+2024-06-02 23:30:38,419 [main] INFO  Producer - Send to: {topic:[events], key:[Mantarys], value:[Damon Paege]}
+2024-06-02 23:30:38,923 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Dagon Greyjoy]}
+2024-06-02 23:30:39,427 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Mollos]}
+2024-06-02 23:30:39,933 [main] INFO  Producer - Send to: {topic:[events], key:[Bhorash], value:[Ondrew Locke]}
+2024-06-02 23:30:40,447 [main] INFO  Producer - Send to: {topic:[events], key:[Lannisport], value:[Bessa]}
+2024-06-02 23:30:40,952 [main] INFO  Producer - Send to: {topic:[events], key:[Tolos], value:[Alysane Mormont]}
+2024-06-02 23:30:41,457 [main] INFO  Producer - Send to: {topic:[events], key:[Ar Noy], value:[Dornish Dilly]}
+2024-06-02 23:30:41,966 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Dennis Plumm]}
+2024-06-02 23:30:42,475 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Maggy]}
+2024-06-02 23:30:42,984 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Utt]}
+2024-06-02 23:30:43,489 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Darlessa Marbrand]}
+2024-06-02 23:30:43,993 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Pate]}
+2024-06-02 23:30:44,497 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Harren Hoare]}
+2024-06-02 23:30:45,003 [main] INFO  Producer - Send to: {topic:[events], key:[Mantarys], value:[Lucas Corbray]}
+2024-06-02 23:30:45,508 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Mors Manwoody]}
+2024-06-02 23:30:46,012 [main] INFO  Producer - Send to: {topic:[events], key:[Pentos], value:[Armen]}
+2024-06-02 23:30:46,527 [main] INFO  Producer - Send to: {topic:[events], key:[Ar Noy], value:[Narbert]}
+2024-06-02 23:30:47,031 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Grisella]}
+2024-06-02 23:30:47,536 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Tybero Istarion]}
+2024-06-02 23:30:48,041 [main] INFO  Producer - Send to: {topic:[events], key:[Qarth], value:[Ben Bushy]}
+2024-06-02 23:30:48,545 [main] INFO  Producer - Send to: {topic:[events], key:[Myr], value:[Kyra Frey]}
+2024-06-02 23:30:49,049 [main] INFO  Producer - Send to: {topic:[events], key:[Tolos], value:[Nymos]}
+2024-06-02 23:30:49,553 [main] INFO  Producer - Send to: {topic:[events], key:[Mantarys], value:[Qyle]}
+2024-06-02 23:30:50,057 [main] INFO  Producer - Send to: {topic:[events], key:[Bayasabhad], value:[Collio Quaynis]}
+2024-06-02 23:30:50,562 [main] INFO  Producer - Send to: {topic:[events], key:[Oros], value:[Tysha]}
+2024-06-02 23:30:51,067 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Alys Frey]}
+2024-06-02 23:30:51,571 [main] INFO  Producer - Send to: {topic:[events], key:[Pentos], value:[Igon Vyrwel]}
+2024-06-02 23:30:52,075 [main] INFO  Producer - Send to: {topic:[events], key:[Old Ghis], value:[Lewys Piper]}
+2024-06-02 23:30:52,579 [main] INFO  Producer - Send to: {topic:[events], key:[Sar Meel], value:[Archibald Yronwood]}
+2024-06-02 23:30:53,083 [main] INFO  Producer - Send to: {topic:[events], key:[Old Ghis], value:[Wendamyr]}
+2024-06-02 23:30:53,589 [main] INFO  Producer - Send to: {topic:[events], key:[Bhorash], value:[Sherrit]}
+2024-06-02 23:30:54,102 [main] INFO  Producer - Send to: {topic:[events], key:[Elyria], value:[Rolder]}
+2024-06-02 23:30:54,608 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Aethelmure]}
+2024-06-02 23:30:55,112 [main] INFO  Producer - Send to: {topic:[events], key:[Sar Meel], value:[Lymond Lychester]}
+2024-06-02 23:30:55,617 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Bronn]}
+2024-06-02 23:30:56,122 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Roone]}
+2024-06-02 23:30:56,627 [main] INFO  Producer - Send to: {topic:[events], key:[Sunspear], value:[Jacelyn Bywater]}
+2024-06-02 23:30:57,134 [main] INFO  Producer - Send to: {topic:[events], key:[Norvos], value:[Aemon Rivers]}
+2024-06-02 23:30:57,639 [main] INFO  Producer - Send to: {topic:[events], key:[Old Valyria], value:[Ben Bushy]}
+2024-06-02 23:30:58,152 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Medger Cerwyn]}
+2024-06-02 23:30:58,658 [main] INFO  Producer - Send to: {topic:[events], key:[Old Valyria], value:[Aemon Estermont]}
+2024-06-02 23:30:59,163 [main] INFO  Producer - Send to: {topic:[events], key:[New Ghis], value:[Umfred]}
+2024-06-02 23:30:59,670 [main] INFO  Producer - Send to: {topic:[events], key:[Old Ghis], value:[Harys Swyft]}
+2024-06-02 23:31:00,183 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Bradamar Frey]}
+2024-06-02 23:31:00,690 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Raymund Tyrell]}
+2024-06-02 23:31:01,197 [main] INFO  Producer - Send to: {topic:[events], key:[Volantis], value:[Garth of Greenaway]}
+2024-06-02 23:31:01,703 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Maron Greyjoy]}
+2024-06-02 23:31:02,207 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Harrag Sharp]}
+2024-06-02 23:31:02,713 [main] INFO  Producer - Send to: {topic:[events], key:[Old Valyria], value:[Lucifer Hardy]}
+2024-06-02 23:31:03,220 [main] INFO  Producer - Send to: {topic:[events], key:[Old Ghis], value:[Willis Wode]}
+2024-06-02 23:31:03,724 [main] INFO  Producer - Send to: {topic:[events], key:[Qarth], value:[Orton Merryweather]}
+2024-06-02 23:31:04,231 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Norjen]}
+2024-06-02 23:31:04,736 [main] INFO  Producer - Send to: {topic:[events], key:[Oldtown], value:[Jeyne Heddle]}
+2024-06-02 23:31:05,240 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Tytos Blackwood]}
+2024-06-02 23:31:05,744 [main] INFO  Producer - Send to: {topic:[events], key:[Yunkai], value:[Grazdan]}
+2024-06-02 23:31:06,248 [main] INFO  Producer - Send to: {topic:[events], key:[Elyria], value:[Lucas Tyrell]}
+2024-06-02 23:31:06,752 [main] INFO  Producer - Send to: {topic:[events], key:[Norvos], value:[Ferrego Antaryon]}
+2024-06-02 23:31:07,257 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Emmon Cuy]}
+2024-06-02 23:31:07,762 [main] INFO  Producer - Send to: {topic:[events], key:[Sar Meel], value:[Harys Haigh]}
+2024-06-02 23:31:08,267 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Fern]}
+2024-06-02 23:31:08,775 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Aemma Arryn]}
+2024-06-02 23:31:09,279 [main] INFO  Producer - Send to: {topic:[events], key:[Old Valyria], value:[Beric Dondarrion]}
+2024-06-02 23:31:09,787 [main] INFO  Producer - Send to: {topic:[events], key:[Elyria], value:[Osmund Kettleblack]}
+2024-06-02 23:31:10,292 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Gawen Glover]}
+2024-06-02 23:31:10,796 [main] INFO  Producer - Send to: {topic:[events], key:[Lorath], value:[Hodor]}
+2024-06-02 23:31:11,302 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Rodrik Flint]}
+2024-06-02 23:31:11,807 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Alyn Ambrose]}
+2024-06-02 23:31:12,314 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Denys Arryn]}
+2024-06-02 23:31:12,820 [main] INFO  Producer - Send to: {topic:[events], key:[Oros], value:[Steffon Hollard]}
+2024-06-02 23:31:13,324 [main] INFO  Producer - Send to: {topic:[events], key:[Oros], value:[Nymella Toland]}
+2024-06-02 23:31:13,829 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Norjen]}
+2024-06-02 23:31:14,336 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Raymund Frey]}
+2024-06-02 23:31:14,840 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Merianne Frey]}
+2024-06-02 23:31:15,343 [main] INFO  Producer - Send to: {topic:[events], key:[Volantis], value:[Erreck]}
+2024-06-02 23:31:15,847 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Moon Boy]}
+2024-06-02 23:31:16,353 [main] INFO  Producer - Send to: {topic:[events], key:[Mantarys], value:[Senelle]}
+2024-06-02 23:31:16,861 [main] INFO  Producer - Send to: {topic:[events], key:[Elyria], value:[Torbert]}
+2024-06-02 23:31:17,369 [main] INFO  Producer - Send to: {topic:[events], key:[Qarth], value:[Tommen Baratheon]}
+2024-06-02 23:31:17,878 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Harsley]}
+2024-06-02 23:31:18,386 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Goady]}
+2024-06-02 23:31:18,893 [main] INFO  Producer - Send to: {topic:[events], key:[Oldtown], value:[Lucos]}
+2024-06-02 23:31:19,404 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Val]}
+2024-06-02 23:31:19,911 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Egon Emeros]}
+2024-06-02 23:31:20,417 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Cerenna Lannister]}
+2024-06-02 23:31:20,922 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Cletus Yronwood]}
+2024-06-02 23:31:21,426 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Ryam]}
+2024-06-02 23:31:21,940 [main] INFO  Producer - Send to: {topic:[events], key:[Lorath], value:[Alequo Adarys]}
+2024-06-02 23:31:22,444 [main] INFO  Producer - Send to: {topic:[events], key:[Volantis], value:[Simon Leygood]}
+2024-06-02 23:31:22,951 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Ben Bones]}
+2024-06-02 23:31:23,456 [main] INFO  Producer - Send to: {topic:[events], key:[Yunkai], value:[Alyn Frey]}
+2024-06-02 23:31:23,961 [main] INFO  Producer - Send to: {topic:[events], key:[Lorath], value:[Lothar Frey]}
+2024-06-02 23:31:24,468 [main] INFO  Producer - Send to: {topic:[events], key:[Mantarys], value:[High Sparrow]}
+2024-06-02 23:31:24,971 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Melwys Rivers]}
+2024-06-02 23:31:25,476 [main] INFO  Producer - Send to: {topic:[events], key:[Tolos], value:[Martyn Rivers]}
+2024-06-02 23:31:25,980 [main] INFO  Producer - Send to: {topic:[events], key:[Mantarys], value:[Lester Morrigen]}
+2024-06-02 23:31:26,483 [main] INFO  Producer - Send to: {topic:[events], key:[New Ghis], value:[Samwell Tarly]}
+2024-06-02 23:31:26,987 [main] INFO  Producer - Send to: {topic:[events], key:[Elyria], value:[Kurleket]}
+2024-06-02 23:31:27,496 [main] INFO  Producer - Send to: {topic:[events], key:[Sunspear], value:[Azzak]}
+2024-06-02 23:31:28,001 [main] INFO  Producer - Send to: {topic:[events], key:[Qarth], value:[Elia Martell]}
+2024-06-02 23:31:28,505 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Narbert]}
+2024-06-02 23:31:29,009 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Kyle]}
+2024-06-02 23:31:29,521 [main] INFO  Producer - Send to: {topic:[events], key:[Norvos], value:[Lyra Mormont]}
+2024-06-02 23:31:30,029 [main] INFO  Producer - Send to: {topic:[events], key:[Oldtown], value:[Shadrick]}
+2024-06-02 23:31:30,533 [main] INFO  Producer - Send to: {topic:[events], key:[Mantarys], value:[Lothar]}
+2024-06-02 23:31:31,037 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Manfred Dondarrion]}
+2024-06-02 23:31:31,541 [main] INFO  Producer - Send to: {topic:[events], key:[New Ghis], value:[Soren Shieldbreaker]}
+2024-06-02 23:31:32,048 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Rossart]}
+2024-06-02 23:31:32,553 [main] INFO  Producer - Send to: {topic:[events], key:[Oldtown], value:[Lewis Lanster]}
+2024-06-02 23:31:33,059 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Samwell Spicer]}
+2024-06-02 23:31:33,563 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Ramsay Snow]}
+2024-06-02 23:31:34,068 [main] INFO  Producer - Send to: {topic:[events], key:[Pentos], value:[Daena Targaryen]}
+2024-06-02 23:31:34,573 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Dan]}
+2024-06-02 23:31:35,076 [main] INFO  Producer - Send to: {topic:[events], key:[Lorath], value:[Myles Manwoody]}
+2024-06-02 23:31:35,587 [main] INFO  Producer - Send to: {topic:[events], key:[New Ghis], value:[Lester]}
+2024-06-02 23:31:36,100 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Ben Blackthumb]}
+2024-06-02 23:31:36,608 [main] INFO  Producer - Send to: {topic:[events], key:[Volantis], value:[Garrison Prester]}
+2024-06-02 23:31:37,113 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Jasper Waynwood]}
+2024-06-02 23:31:37,619 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Ulf the Ill]}
+2024-06-02 23:31:38,123 [main] INFO  Producer - Send to: {topic:[events], key:[Oros], value:[Haldon]}
+2024-06-02 23:31:38,633 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Morton Waynwood]}
+2024-06-02 23:31:39,147 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Weeper]}
+2024-06-02 23:31:39,660 [main] INFO  Producer - Send to: {topic:[events], key:[Old Ghis], value:[Andrey Charlton]}
+2024-06-02 23:31:40,168 [main] INFO  Producer - Send to: {topic:[events], key:[New Ghis], value:[Steffon Varner]}
+2024-06-02 23:31:40,674 [main] INFO  Producer - Send to: {topic:[events], key:[Pentos], value:[Stafford Lannister]}
+2024-06-02 23:31:41,183 [main] INFO  Producer - Send to: {topic:[events], key:[Tolos], value:[Luthor Tyrell]}
+2024-06-02 23:31:41,698 [main] INFO  Producer - Send to: {topic:[events], key:[Yunkai], value:[Erik Ironmaker]}
+2024-06-02 23:31:42,204 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Roelle]}
+2024-06-02 23:31:42,708 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Jeyne Lothston]}
+2024-06-02 23:31:43,215 [main] INFO  Producer - Send to: {topic:[events], key:[Volantis], value:[Renly Norcross]}
+2024-06-02 23:31:43,719 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Garse Goodbrook]}
+2024-06-02 23:31:44,224 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Lord Commander Qorgyle]}
+2024-06-02 23:31:44,728 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Elyas Willum]}
+2024-06-02 23:31:45,233 [main] INFO  Producer - Send to: {topic:[events], key:[Sar Meel], value:[Walton Stark]}
+2024-06-02 23:31:45,743 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Gwayne Hightower]}
+2024-06-02 23:31:46,247 [main] INFO  Producer - Send to: {topic:[events], key:[Sar Meel], value:[Xaro Xhoan Daxos]}
+2024-06-02 23:31:46,752 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Orell]}
+2024-06-02 23:31:47,260 [main] INFO  Producer - Send to: {topic:[events], key:[Bayasabhad], value:[Grunt]}
+2024-06-02 23:31:47,770 [main] INFO  Producer - Send to: {topic:[events], key:[Ar Noy], value:[Grazdan zo Galare]}
+2024-06-02 23:31:48,278 [main] INFO  Producer - Send to: {topic:[events], key:[Elyria], value:[Aelinor Penrose]}
+2024-06-02 23:31:48,783 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Richard Farrow]}
+2024-06-02 23:31:49,288 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Clydas]}
+2024-06-02 23:31:49,794 [main] INFO  Producer - Send to: {topic:[events], key:[Yunkai], value:[Oberyn Martell]}
+2024-06-02 23:31:50,301 [main] INFO  Producer - Send to: {topic:[events], key:[Myr], value:[Dunstan Drumm]}
+2024-06-02 23:31:50,805 [main] INFO  Producer - Send to: {topic:[events], key:[Sar Meel], value:[Baela Targaryen]}
+2024-06-02 23:31:51,311 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Annara Farring]}
+2024-06-02 23:31:51,816 [main] INFO  Producer - Send to: {topic:[events], key:[Sunspear], value:[Jurne]}
+2024-06-02 23:31:52,320 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Lucas Nayland]}
+2024-06-02 23:31:52,832 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Tommen Costayne]}
+2024-06-02 23:31:53,345 [main] INFO  Producer - Send to: {topic:[events], key:[Elyria], value:[Cuger]}
+2024-06-02 23:31:53,850 [main] INFO  Producer - Send to: {topic:[events], key:[Lorath], value:[Sefton]}
+2024-06-02 23:31:54,362 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Clayton Suggs]}
+2024-06-02 23:31:54,867 [main] INFO  Producer - Send to: {topic:[events], key:[Norvos], value:[Joramun]}
+2024-06-02 23:31:55,373 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Squirrel]}
+2024-06-02 23:31:55,878 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Leyton Hightower]}
+2024-06-02 23:31:56,382 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Bael the Bard]}
+2024-06-02 23:31:56,893 [main] INFO  Producer - Send to: {topic:[events], key:[Oldtown], value:[Barthogan Stark]}
+2024-06-02 23:31:57,398 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Alyn Estermont]}
+2024-06-02 23:31:57,910 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Elia Sand]}
+2024-06-02 23:31:58,421 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Tristan Ryger]}
+2024-06-02 23:31:58,924 [main] INFO  Producer - Send to: {topic:[events], key:[Lannisport], value:[Waltyr Frey]}
+2024-06-02 23:31:59,429 [main] INFO  Producer - Send to: {topic:[events], key:[Myr], value:[Old Henly]}
+2024-06-02 23:31:59,934 [main] INFO  Producer - Send to: {topic:[events], key:[Elyria], value:[Ryk]}
+2024-06-02 23:32:00,437 [main] INFO  Producer - Send to: {topic:[events], key:[Sunspear], value:[Cadwyn]}
+2024-06-02 23:32:00,941 [main] INFO  Producer - Send to: {topic:[events], key:[Bhorash], value:[Cadwyn]}
+2024-06-02 23:32:01,445 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Quentyn Ball]}
+2024-06-02 23:32:01,950 [main] INFO  Producer - Send to: {topic:[events], key:[Mantarys], value:[Emma]}
+2024-06-02 23:32:02,459 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Matthos Seaworth]}
+2024-06-02 23:32:02,971 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Jynessa Blackmont]}
+2024-06-02 23:32:03,480 [main] INFO  Producer - Send to: {topic:[events], key:[Lannisport], value:[Gage]}
+2024-06-02 23:32:03,991 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Stannis Seaworth]}
+2024-06-02 23:32:04,503 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Borroq]}
+2024-06-02 23:32:05,009 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Harwyn Hoare]}
+2024-06-02 23:32:05,513 [main] INFO  Producer - Send to: {topic:[events], key:[Oros], value:[Merrell Florent]}
+2024-06-02 23:32:06,017 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Cregan Karstark]}
+2024-06-02 23:32:06,523 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Maekar Targaryen]}
+2024-06-02 23:32:07,030 [main] INFO  Producer - Send to: {topic:[events], key:[New Ghis], value:[Simon Toyne]}
+2024-06-02 23:32:07,536 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Humfrey Wagstaff]}
+2024-06-02 23:32:08,040 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Gyles Rosby]}
+2024-06-02 23:32:08,549 [main] INFO  Producer - Send to: {topic:[events], key:[Lorath], value:[Donnel Locke]}
+2024-06-02 23:32:09,054 [main] INFO  Producer - Send to: {topic:[events], key:[Oros], value:[Moelle]}
+2024-06-02 23:32:09,558 [main] INFO  Producer - Send to: {topic:[events], key:[Sar Meel], value:[Terrance Lynderly]}
+2024-06-02 23:32:10,061 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Annara Farring]}
+2024-06-02 23:32:10,567 [main] INFO  Producer - Send to: {topic:[events], key:[Norvos], value:[Dobber]}
+2024-06-02 23:32:11,070 [main] INFO  Producer - Send to: {topic:[events], key:[Old Valyria], value:[Serra Frey]}
+2024-06-02 23:32:11,575 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Rickard Wylde]}
+2024-06-02 23:32:12,080 [main] INFO  Producer - Send to: {topic:[events], key:[Elyria], value:[Rodrik Stark]}
+2024-06-02 23:32:12,587 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Pia]}
+2024-06-02 23:32:13,093 [main] INFO  Producer - Send to: {topic:[events], key:[Oros], value:[Bodger]}
+2024-06-02 23:32:13,603 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Eleanor Mooton]}
+2024-06-02 23:32:14,109 [main] INFO  Producer - Send to: {topic:[events], key:[Myr], value:[Martyn Mullendore]}
+2024-06-02 23:32:14,617 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Lenwood Tawney]}
+2024-06-02 23:32:15,122 [main] INFO  Producer - Send to: {topic:[events], key:[Pentos], value:[Stonesnake]}
+2024-06-02 23:32:15,627 [main] INFO  Producer - Send to: {topic:[events], key:[Volantis], value:[Mord]}
+2024-06-02 23:32:16,138 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Harrold Westerling]}
+2024-06-02 23:32:16,644 [main] INFO  Producer - Send to: {topic:[events], key:[Sar Meel], value:[Ottomore]}
+2024-06-02 23:32:17,150 [main] INFO  Producer - Send to: {topic:[events], key:[Lorath], value:[Cassella Vaith]}
+2024-06-02 23:32:17,662 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Jon Myre]}
+2024-06-02 23:32:18,168 [main] INFO  Producer - Send to: {topic:[events], key:[New Ghis], value:[Dacks]}
+2024-06-02 23:32:18,675 [main] INFO  Producer - Send to: {topic:[events], key:[Tolos], value:[Kirth Vance]}
+2024-06-02 23:32:19,181 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Mikken]}
+2024-06-02 23:32:19,688 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Myrcella Baratheon]}
+2024-06-02 23:32:20,193 [main] INFO  Producer - Send to: {topic:[events], key:[Bhorash], value:[Cressen]}
+2024-06-02 23:32:20,701 [main] INFO  Producer - Send to: {topic:[events], key:[Lorath], value:[Robin Hill]}
+2024-06-02 23:32:21,208 [main] INFO  Producer - Send to: {topic:[events], key:[Yunkai], value:[Hodor]}
+2024-06-02 23:32:21,712 [main] INFO  Producer - Send to: {topic:[events], key:[Lannisport], value:[Nella]}
+2024-06-02 23:32:22,218 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Roryn Drumm]}
+2024-06-02 23:32:22,723 [main] INFO  Producer - Send to: {topic:[events], key:[Volantis], value:[Sawwood]}
+2024-06-02 23:32:23,228 [main] INFO  Producer - Send to: {topic:[events], key:[Myr], value:[Eroeh]}
+2024-06-02 23:32:23,734 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Ebrose]}
+2024-06-02 23:32:24,241 [main] INFO  Producer - Send to: {topic:[events], key:[Myr], value:[Arianne of Tarth]}
+2024-06-02 23:32:24,748 [main] INFO  Producer - Send to: {topic:[events], key:[Bayasabhad], value:[Steffon Seaworth]}
+2024-06-02 23:32:25,253 [main] INFO  Producer - Send to: {topic:[events], key:[Sunspear], value:[Craghas Drahar]}
+2024-06-02 23:32:25,759 [main] INFO  Producer - Send to: {topic:[events], key:[Yunkai], value:[Hobber Redwyne]}
+2024-06-02 23:32:26,263 [main] INFO  Producer - Send to: {topic:[events], key:[Old Ghis], value:[Rakharo]}
+2024-06-02 23:32:26,768 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Renly Baratheon]}
+2024-06-02 23:32:27,273 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Hali]}
+2024-06-02 23:32:27,776 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Guncer Sunglass]}
+2024-06-02 23:32:28,283 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Morgarth]}
+2024-06-02 23:32:28,794 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Bayard Norcross]}
+2024-06-02 23:32:29,300 [main] INFO  Producer - Send to: {topic:[events], key:[Ar Noy], value:[Serwyn of the Mirror Shield]}
+2024-06-02 23:32:29,805 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Donnel Hill]}
+2024-06-02 23:32:30,310 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Mycah]}
+2024-06-02 23:32:30,815 [main] INFO  Producer - Send to: {topic:[events], key:[Old Ghis], value:[Rosey]}
+2024-06-02 23:32:31,323 [main] INFO  Producer - Send to: {topic:[events], key:[Lorath], value:[Ambrode]}
+2024-06-02 23:32:31,830 [main] INFO  Producer - Send to: {topic:[events], key:[Elyria], value:[Jonos Stark]}
+2024-06-02 23:32:32,335 [main] INFO  Producer - Send to: {topic:[events], key:[Qarth], value:[Eyron Stark]}
+2024-06-02 23:32:32,843 [main] INFO  Producer - Send to: {topic:[events], key:[Old Ghis], value:[Anya Waynwood]}
+2024-06-02 23:32:33,349 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Leonette Fossoway]}
+2024-06-02 23:32:33,856 [main] INFO  Producer - Send to: {topic:[events], key:[Myr], value:[Aerys I Targaryen]}
+2024-06-02 23:32:34,361 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Rupert Brax]}
+2024-06-02 23:32:34,866 [main] INFO  Producer - Send to: {topic:[events], key:[Mantarys], value:[Willas Tyrell]}
+2024-06-02 23:32:35,372 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Crawn]}
+2024-06-02 23:32:35,878 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Joanna Swyft]}
+2024-06-02 23:32:36,385 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Merrett Frey]}
+2024-06-02 23:32:36,892 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Daemon II Blackfyre]}
+2024-06-02 23:32:37,398 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Perwyn Osgrey]}
+2024-06-02 23:32:37,905 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Ellaria Sand]}
+2024-06-02 23:32:38,412 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Baela Targaryen]}
+2024-06-02 23:32:38,921 [main] INFO  Producer - Send to: {topic:[events], key:[Myr], value:[Simon Staunton]}
+2024-06-02 23:32:39,426 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Sebaston Farman]}
+2024-06-02 23:32:39,932 [main] INFO  Producer - Send to: {topic:[events], key:[Old Valyria], value:[Balon Greyjoy]}
+2024-06-02 23:32:40,437 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Walgrave]}
+2024-06-02 23:32:40,941 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Eustace Osgrey]}
+2024-06-02 23:32:41,444 [main] INFO  Producer - Send to: {topic:[events], key:[Lannisport], value:[Denys Darklyn]}
+2024-06-02 23:32:41,947 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Morgarth]}
+2024-06-02 23:32:42,452 [main] INFO  Producer - Send to: {topic:[events], key:[Pentos], value:[Harodon]}
+2024-06-02 23:32:42,955 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Salloreon]}
+2024-06-02 23:32:43,459 [main] INFO  Producer - Send to: {topic:[events], key:[Oldtown], value:[Maron Botley]}
+2024-06-02 23:32:43,966 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Tristifer V Mudd]}
+2024-06-02 23:32:44,470 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Qos]}
+2024-06-02 23:32:44,976 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Taena of Myr]}
+2024-06-02 23:32:45,480 [main] INFO  Producer - Send to: {topic:[events], key:[Tolos], value:[Humfrey Beesbury]}
+2024-06-02 23:32:45,987 [main] INFO  Producer - Send to: {topic:[events], key:[Bhorash], value:[Kemmett Pyke]}
+2024-06-02 23:32:46,491 [main] INFO  Producer - Send to: {topic:[events], key:[Old Valyria], value:[Eustace Hunter]}
+2024-06-02 23:32:47,002 [main] INFO  Producer - Send to: {topic:[events], key:[Bhorash], value:[Peter Plumm]}
+2024-06-02 23:32:47,507 [main] INFO  Producer - Send to: {topic:[events], key:[Old Ghis], value:[Murenmure]}
+2024-06-02 23:32:48,011 [main] INFO  Producer - Send to: {topic:[events], key:[Oros], value:[Leana Frey]}
+2024-06-02 23:32:48,515 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Lucan]}
+2024-06-02 23:32:49,018 [main] INFO  Producer - Send to: {topic:[events], key:[Bhorash], value:[Johanna Swann]}
+2024-06-02 23:32:49,521 [main] INFO  Producer - Send to: {topic:[events], key:[Mantarys], value:[Arron Qorgyle]}
+2024-06-02 23:32:50,025 [main] INFO  Producer - Send to: {topic:[events], key:[Bhorash], value:[Myles Mooton]}
+2024-06-02 23:32:50,528 [main] INFO  Producer - Send to: {topic:[events], key:[Bhorash], value:[Arianne Martell]}
+2024-06-02 23:32:51,034 [main] INFO  Producer - Send to: {topic:[events], key:[Pentos], value:[Quence]}
+2024-06-02 23:32:51,545 [main] INFO  Producer - Send to: {topic:[events], key:[New Ghis], value:[Collio Quaynis]}
+2024-06-02 23:32:52,052 [main] INFO  Producer - Send to: {topic:[events], key:[Elyria], value:[Ezzara]}
+2024-06-02 23:32:52,563 [main] INFO  Producer - Send to: {topic:[events], key:[Elyria], value:[Howd Wanderer]}
+2024-06-02 23:32:53,067 [main] INFO  Producer - Send to: {topic:[events], key:[Lannisport], value:[Irri]}
+2024-06-02 23:32:53,570 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Naerys Targaryen]}
+2024-06-02 23:32:54,074 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Valaena Velaryon]}
+2024-06-02 23:32:54,579 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Rawney]}
+2024-06-02 23:32:55,084 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Ormund Wylde]}
+2024-06-02 23:32:55,589 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Alyn Estermont]}
+2024-06-02 23:32:56,092 [main] INFO  Producer - Send to: {topic:[events], key:[Lorath], value:[Lark]}
+2024-06-02 23:32:56,598 [main] INFO  Producer - Send to: {topic:[events], key:[Qarth], value:[Ben Bushy]}
+2024-06-02 23:32:57,103 [main] INFO  Producer - Send to: {topic:[events], key:[Yunkai], value:[Lucos]}
+2024-06-02 23:32:57,612 [main] INFO  Producer - Send to: {topic:[events], key:[Mantarys], value:[Wendello Qar Deeth]}
+2024-06-02 23:32:58,116 [main] INFO  Producer - Send to: {topic:[events], key:[Oros], value:[Cleyton Caswell]}
+2024-06-02 23:32:58,620 [main] INFO  Producer - Send to: {topic:[events], key:[Bayasabhad], value:[Ronnel Harclay]}
+2024-06-02 23:32:59,124 [main] INFO  Producer - Send to: {topic:[events], key:[Yunkai], value:[Alyn Stackspear]}
+2024-06-02 23:32:59,630 [main] INFO  Producer - Send to: {topic:[events], key:[Bhorash], value:[Harmund Sharp]}
+2024-06-02 23:33:00,135 [main] INFO  Producer - Send to: {topic:[events], key:[Old Valyria], value:[Matthar]}
+2024-06-02 23:33:00,638 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Mela]}
+2024-06-02 23:33:01,142 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Daeron II Targaryen]}
+2024-06-02 23:33:01,646 [main] INFO  Producer - Send to: {topic:[events], key:[Ar Noy], value:[Tumco Lho]}
+2024-06-02 23:33:02,149 [main] INFO  Producer - Send to: {topic:[events], key:[Tolos], value:[Quaithe]}
+2024-06-02 23:33:02,661 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Joy Hill]}
+2024-06-02 23:33:03,164 [main] INFO  Producer - Send to: {topic:[events], key:[Mantarys], value:[Joss the Gloom]}
+2024-06-02 23:33:03,668 [main] INFO  Producer - Send to: {topic:[events], key:[Sar Meel], value:[Ulrick Dayne]}
+2024-06-02 23:33:04,172 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Haggon]}
+2024-06-02 23:33:04,675 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Bellonara Otherys]}
+2024-06-02 23:33:05,179 [main] INFO  Producer - Send to: {topic:[events], key:[Volantis], value:[Gerren]}
+2024-06-02 23:33:05,686 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Lyanna Mormont]}
+2024-06-02 23:33:06,190 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Bertram Beesbury]}
+2024-06-02 23:33:06,693 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Addam Frey]}
+2024-06-02 23:33:07,196 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Mina Tyrell]}
+2024-06-02 23:33:07,700 [main] INFO  Producer - Send to: {topic:[events], key:[Tolos], value:[Harlan Hunter]}
+2024-06-02 23:33:08,203 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Lady of the Leaves]}
+2024-06-02 23:33:08,706 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Jeyne Rivers]}
+2024-06-02 23:33:09,209 [main] INFO  Producer - Send to: {topic:[events], key:[Elyria], value:[Togg Joth]}
+2024-06-02 23:33:09,713 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Cayn]}
+2024-06-02 23:33:10,221 [main] INFO  Producer - Send to: {topic:[events], key:[Sar Meel], value:[Maegelle Frey]}
+2024-06-02 23:33:10,729 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Gorne]}
+2024-06-02 23:33:11,232 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Gelmarr]}
+2024-06-02 23:33:11,737 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Jeor Mormont]}
+2024-06-02 23:33:12,250 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Lorcas]}
+2024-06-02 23:33:12,754 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Cohollo]}
+2024-06-02 23:33:13,259 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Qezza]}
+2024-06-02 23:33:13,763 [main] INFO  Producer - Send to: {topic:[events], key:[Qarth], value:[Donnel Hill]}
+2024-06-02 23:33:14,267 [main] INFO  Producer - Send to: {topic:[events], key:[Oros], value:[Moqorro]}
+2024-06-02 23:33:14,776 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Beren Tallhart]}
+2024-06-02 23:33:15,280 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Tansy]}
+2024-06-02 23:33:15,784 [main] INFO  Producer - Send to: {topic:[events], key:[Yunkai], value:[Harwin Strong]}
+2024-06-02 23:33:16,288 [main] INFO  Producer - Send to: {topic:[events], key:[Tolos], value:[Rob]}
+2024-06-02 23:33:16,798 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Torrhen Karstark]}
+2024-06-02 23:33:17,302 [main] INFO  Producer - Send to: {topic:[events], key:[Sar Meel], value:[Hareth]}
+2024-06-02 23:33:17,805 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Torbert]}
+2024-06-02 23:33:18,309 [main] INFO  Producer - Send to: {topic:[events], key:[Ar Noy], value:[Qotho]}
+2024-06-02 23:33:18,813 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Cayn]}
+2024-06-02 23:33:19,316 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Wilbert]}
+2024-06-02 23:33:19,820 [main] INFO  Producer - Send to: {topic:[events], key:[Bayasabhad], value:[Symon Stripeback]}
+2024-06-02 23:33:20,324 [main] INFO  Producer - Send to: {topic:[events], key:[Bhorash], value:[Oznak zo Pahl]}
+2024-06-02 23:33:20,834 [main] INFO  Producer - Send to: {topic:[events], key:[Myr], value:[Kurz]}
+2024-06-02 23:33:21,337 [main] INFO  Producer - Send to: {topic:[events], key:[Lorath], value:[Lucantine Woodwright]}
+2024-06-02 23:33:21,847 [main] INFO  Producer - Send to: {topic:[events], key:[Qarth], value:[Arya Stark]}
+2024-06-02 23:33:22,351 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Pyat Pree]}
+2024-06-02 23:33:22,862 [main] INFO  Producer - Send to: {topic:[events], key:[Elyria], value:[Kedge Whiteye]}
+2024-06-02 23:33:23,373 [main] INFO  Producer - Send to: {topic:[events], key:[Sar Meel], value:[Kaeth]}
+2024-06-02 23:33:23,876 [main] INFO  Producer - Send to: {topic:[events], key:[Sunspear], value:[Alannys Harlaw]}
+2024-06-02 23:33:24,380 [main] INFO  Producer - Send to: {topic:[events], key:[Old Ghis], value:[Belis]}
+2024-06-02 23:33:24,886 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Tristan Ryger]}
+2024-06-02 23:33:25,390 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Jon Umber]}
+2024-06-02 23:33:25,894 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Hother Umber]}
+2024-06-02 23:33:26,399 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Frenya]}
+2024-06-02 23:33:26,902 [main] INFO  Producer - Send to: {topic:[events], key:[Volantis], value:[Dennis Plumm]}
+2024-06-02 23:33:27,406 [main] INFO  Producer - Send to: {topic:[events], key:[Pentos], value:[Morton Waynwood]}
+2024-06-02 23:33:27,913 [main] INFO  Producer - Send to: {topic:[events], key:[Lannisport], value:[Red Alyn of the Rosewood]}
+2024-06-02 23:33:28,420 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Arrec Durrandon]}
+2024-06-02 23:33:28,928 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Vortimer Crane]}
+2024-06-02 23:33:29,433 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Olene Tyrell]}
+2024-06-02 23:33:29,937 [main] INFO  Producer - Send to: {topic:[events], key:[Sunspear], value:[Caleotte]}
+2024-06-02 23:33:30,441 [main] INFO  Producer - Send to: {topic:[events], key:[Myr], value:[Azzak]}
+2024-06-02 23:33:30,945 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Symond Botley]}
+2024-06-02 23:33:31,448 [main] INFO  Producer - Send to: {topic:[events], key:[Oros], value:[Horton Redfort]}
+2024-06-02 23:33:31,955 [main] INFO  Producer - Send to: {topic:[events], key:[Oros], value:[Harodon]}
+2024-06-02 23:33:32,459 [main] INFO  Producer - Send to: {topic:[events], key:[Volantis], value:[Lancel V Lannister]}
+2024-06-02 23:33:32,964 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Maerie]}
+2024-06-02 23:33:33,475 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[William Mooton]}
+2024-06-02 23:33:33,983 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Rolder]}
+2024-06-02 23:33:34,488 [main] INFO  Producer - Send to: {topic:[events], key:[Myr], value:[Euron Greyjoy]}
+2024-06-02 23:33:34,992 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Alyx Frey]}
+2024-06-02 23:33:35,496 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Cerrick]}
+2024-06-02 23:33:36,008 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Humfrey Clifton]}
+2024-06-02 23:33:36,513 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Gwynesse Harlaw]}
+2024-06-02 23:33:37,020 [main] INFO  Producer - Send to: {topic:[events], key:[Old Ghis], value:[Daeron II Targaryen]}
+2024-06-02 23:33:37,524 [main] INFO  Producer - Send to: {topic:[events], key:[Volantis], value:[Marwyn Belmore]}
+2024-06-02 23:33:38,028 [main] INFO  Producer - Send to: {topic:[events], key:[Elyria], value:[Dalbridge]}
+2024-06-02 23:33:38,538 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Daemon II Blackfyre]}
+2024-06-02 23:33:39,042 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Dolf]}
+2024-06-02 23:33:39,552 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Mandon Moore]}
+2024-06-02 23:33:40,062 [main] INFO  Producer - Send to: {topic:[events], key:[Yunkai], value:[Harys Swyft]}
+2024-06-02 23:33:40,566 [main] INFO  Producer - Send to: {topic:[events], key:[Sunspear], value:[Falia Flowers]}
+2024-06-02 23:33:41,076 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Burton Crakehall]}
+2024-06-02 23:33:41,587 [main] INFO  Producer - Send to: {topic:[events], key:[Sunspear], value:[Morgarth]}
+2024-06-02 23:33:42,092 [main] INFO  Producer - Send to: {topic:[events], key:[New Ghis], value:[Doran Martell]}
+2024-06-02 23:33:42,595 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Marwyn Belmore]}
+2024-06-02 23:33:43,101 [main] INFO  Producer - Send to: {topic:[events], key:[Lannisport], value:[Jodge]}
+2024-06-02 23:33:43,605 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Rickard Tyrell]}
+2024-06-02 23:33:44,110 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Myria Jordayne]}
+2024-06-02 23:33:44,615 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Theodore Tyrell]}
+2024-06-02 23:33:45,126 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Joss Stilwood]}
+2024-06-02 23:33:45,638 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Myles Smallwood]}
+2024-06-02 23:33:46,144 [main] INFO  Producer - Send to: {topic:[events], key:[Yunkai], value:[Robert Arryn]}
+2024-06-02 23:33:46,647 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Benjen Stark]}
+2024-06-02 23:33:47,163 [main] INFO  Producer - Send to: {topic:[events], key:[Oros], value:[Tickler]}
+2024-06-02 23:33:47,666 [main] INFO  Producer - Send to: {topic:[events], key:[Bhorash], value:[Tyene Sand]}
+2024-06-02 23:33:48,178 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Roger of Pennytree]}
+2024-06-02 23:33:48,682 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Alla Tyrell]}
+2024-06-02 23:33:49,191 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Ryles]}
+2024-06-02 23:33:49,702 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Black Jack Bulwer]}
+2024-06-02 23:33:50,208 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Courtenay Greenhill]}
+2024-06-02 23:33:50,715 [main] INFO  Producer - Send to: {topic:[events], key:[Lorath], value:[Sarella Sand]}
+2024-06-02 23:33:51,223 [main] INFO  Producer - Send to: {topic:[events], key:[Tolos], value:[Symeon Star-Eyes]}
+2024-06-02 23:33:51,735 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Long Lew]}
+2024-06-02 23:33:52,239 [main] INFO  Producer - Send to: {topic:[events], key:[Mantarys], value:[Bharbo]}
+2024-06-02 23:33:52,751 [main] INFO  Producer - Send to: {topic:[events], key:[Sar Meel], value:[Steffon Baratheon]}
+2024-06-02 23:33:53,262 [main] INFO  Producer - Send to: {topic:[events], key:[Old Ghis], value:[Jommo]}
+2024-06-02 23:33:53,766 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Franklyn Frey]}
+2024-06-02 23:33:54,276 [main] INFO  Producer - Send to: {topic:[events], key:[Old Ghis], value:[Brusco]}
+2024-06-02 23:33:54,786 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Tom Costayne]}
+2024-06-02 23:33:55,296 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Gelmarr]}
+2024-06-02 23:33:55,806 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Moro]}
+2024-06-02 23:33:56,309 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Steffarion Sparr]}
+2024-06-02 23:33:56,820 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Bass]}
+2024-06-02 23:33:57,331 [main] INFO  Producer - Send to: {topic:[events], key:[Mantarys], value:[Craghas Drahar]}
+2024-06-02 23:33:57,841 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Selwyn Tarth]}
+2024-06-02 23:33:58,344 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Marlon Manderly]}
+2024-06-02 23:33:58,848 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Harwin]}
+2024-06-02 23:33:59,359 [main] INFO  Producer - Send to: {topic:[events], key:[Ar Noy], value:[Wylis Manderly]}
+2024-06-02 23:33:59,868 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Emrick]}
+2024-06-02 23:34:00,378 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Lord Ashford]}
+2024-06-02 23:34:00,888 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Grance Morrigen]}
+2024-06-02 23:34:01,399 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Roger Hogg]}
+2024-06-02 23:34:01,907 [main] INFO  Producer - Send to: {topic:[events], key:[Bayasabhad], value:[Garin]}
+2024-06-02 23:34:02,417 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Rodrik Ryswell]}
+2024-06-02 23:34:02,928 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Larra Blackmont]}
+2024-06-02 23:34:03,439 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Melesa Crakehall]}
+2024-06-02 23:34:03,950 [main] INFO  Producer - Send to: {topic:[events], key:[Bhorash], value:[Barthogan Stark]}
+2024-06-02 23:34:04,459 [main] INFO  Producer - Send to: {topic:[events], key:[Lorath], value:[Grazhar zo Galare]}
+2024-06-02 23:34:04,978 [main] INFO  Producer - Send to: {topic:[events], key:[Tolos], value:[Meg]}
+2024-06-02 23:34:05,487 [main] INFO  Producer - Send to: {topic:[events], key:[Qarth], value:[Qarl Shepherd]}
+2024-06-02 23:34:05,997 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Harys Swyft]}
+2024-06-02 23:34:06,505 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Liane Vance]}
+2024-06-02 23:34:07,012 [main] INFO  Producer - Send to: {topic:[events], key:[Oros], value:[Mawney]}
+2024-06-02 23:34:07,522 [main] INFO  Producer - Send to: {topic:[events], key:[Old Valyria], value:[Gretchel]}
+2024-06-02 23:34:08,028 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Helliweg]}
+2024-06-02 23:34:08,537 [main] INFO  Producer - Send to: {topic:[events], key:[Norvos], value:[Gerardys]}
+2024-06-02 23:34:09,046 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Quenten Banefort]}
+2024-06-02 23:34:09,556 [main] INFO  Producer - Send to: {topic:[events], key:[Myr], value:[Baela Targaryen]}
+2024-06-02 23:34:10,065 [main] INFO  Producer - Send to: {topic:[events], key:[Oros], value:[Harlen Tyrell]}
+2024-06-02 23:34:10,576 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Malcolm]}
+2024-06-02 23:34:11,087 [main] INFO  Producer - Send to: {topic:[events], key:[Sunspear], value:[Andrik]}
+2024-06-02 23:34:11,596 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Arthor Karstark]}
+2024-06-02 23:34:12,107 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Myranda Royce]}
+2024-06-02 23:34:12,617 [main] INFO  Producer - Send to: {topic:[events], key:[Lannisport], value:[Melwys Rivers]}
+2024-06-02 23:34:13,121 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Butterbumps]}
+2024-06-02 23:34:13,627 [main] INFO  Producer - Send to: {topic:[events], key:[Lorath], value:[Clarent Crakehall]}
+2024-06-02 23:34:14,137 [main] INFO  Producer - Send to: {topic:[events], key:[Lorath], value:[Allar Deem]}
+2024-06-02 23:34:14,641 [main] INFO  Producer - Send to: {topic:[events], key:[Pentos], value:[Canker Jeyne]}
+2024-06-02 23:34:15,147 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Hal]}
+2024-06-02 23:34:15,657 [main] INFO  Producer - Send to: {topic:[events], key:[New Ghis], value:[Sybassion]}
+2024-06-02 23:34:16,166 [main] INFO  Producer - Send to: {topic:[events], key:[Mantarys], value:[Henk]}
+2024-06-02 23:34:16,677 [main] INFO  Producer - Send to: {topic:[events], key:[Tolos], value:[Edrick Stark]}
+2024-06-02 23:34:17,188 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Byron]}
+2024-06-02 23:34:17,698 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Roger of Pennytree]}
+2024-06-02 23:34:18,208 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Mychel Redfort]}
+2024-06-02 23:34:18,718 [main] INFO  Producer - Send to: {topic:[events], key:[Old Valyria], value:[Joss the Gloom]}
+2024-06-02 23:34:19,228 [main] INFO  Producer - Send to: {topic:[events], key:[Old Ghis], value:[Myranda Royce]}
+2024-06-02 23:34:19,739 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Beardless Dick]}
+2024-06-02 23:34:20,248 [main] INFO  Producer - Send to: {topic:[events], key:[Lorath], value:[Munciter]}
+2024-06-02 23:34:20,753 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Tim Tangletongue]}
+2024-06-02 23:34:21,262 [main] INFO  Producer - Send to: {topic:[events], key:[Old Valyria], value:[Donella Hornwood]}
+2024-06-02 23:34:21,772 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Rhaegel Targaryen]}
+2024-06-02 23:34:22,277 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Small Paul]}
+2024-06-02 23:34:22,788 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Dennis Plumm]}
+2024-06-02 23:34:23,298 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Argrave the Defiant]}
+2024-06-02 23:34:23,809 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Naerys Targaryen]}
+2024-06-02 23:34:24,313 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Ballabar]}
+2024-06-02 23:34:24,823 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Jorah Mormont]}
+2024-06-02 23:34:25,333 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Robert Arryn]}
+2024-06-02 23:34:25,844 [main] INFO  Producer - Send to: {topic:[events], key:[Norvos], value:[Sylas]}
+2024-06-02 23:34:26,354 [main] INFO  Producer - Send to: {topic:[events], key:[Lannisport], value:[Sebaston Farman]}
+2024-06-02 23:34:26,865 [main] INFO  Producer - Send to: {topic:[events], key:[Old Valyria], value:[Mikken]}
+2024-06-02 23:34:27,376 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Meralyn]}
+2024-06-02 23:34:27,887 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Beren Tallhart]}
+2024-06-02 23:34:28,397 [main] INFO  Producer - Send to: {topic:[events], key:[New Ghis], value:[Balon Botley]}
+2024-06-02 23:34:28,907 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Willem Lannister]}
+2024-06-02 23:34:29,417 [main] INFO  Producer - Send to: {topic:[events], key:[New Ghis], value:[Mark Ryswell]}
+2024-06-02 23:34:29,922 [main] INFO  Producer - Send to: {topic:[events], key:[Mantarys], value:[Turnip]}
+2024-06-02 23:34:30,433 [main] INFO  Producer - Send to: {topic:[events], key:[Pentos], value:[Praed]}
+2024-06-02 23:34:30,943 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Ben Bones]}
+2024-06-02 23:34:31,454 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Tanton Fossoway]}
+2024-06-02 23:34:31,961 [main] INFO  Producer - Send to: {topic:[events], key:[Bhorash], value:[Mellei]}
+2024-06-02 23:34:32,472 [main] INFO  Producer - Send to: {topic:[events], key:[Myr], value:[Scolera]}
+2024-06-02 23:34:32,983 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Tanda Stokeworth]}
+2024-06-02 23:34:33,493 [main] INFO  Producer - Send to: {topic:[events], key:[Oldtown], value:[Ternesio Terys]}
+2024-06-02 23:34:34,003 [main] INFO  Producer - Send to: {topic:[events], key:[Oros], value:[Scolera]}
+2024-06-02 23:34:34,512 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Ardrian Celtigar]}
+2024-06-02 23:34:35,021 [main] INFO  Producer - Send to: {topic:[events], key:[Bayasabhad], value:[Damion Lannister]}
+2024-06-02 23:34:35,531 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Gallard]}
+2024-06-02 23:34:36,041 [main] INFO  Producer - Send to: {topic:[events], key:[Old Valyria], value:[Red Rolfe]}
+2024-06-02 23:34:36,553 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Erena Glover]}
+2024-06-02 23:34:37,063 [main] INFO  Producer - Send to: {topic:[events], key:[Oros], value:[Galazza Galare]}
+2024-06-02 23:34:37,573 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Clement Crabb]}
+2024-06-02 23:34:38,082 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Danny Flint]}
+2024-06-02 23:34:38,592 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Osha]}
+2024-06-02 23:34:39,095 [main] INFO  Producer - Send to: {topic:[events], key:[Old Ghis], value:[Three Toes]}
+2024-06-02 23:34:39,606 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Stafford Lannister]}
+2024-06-02 23:34:40,116 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Rolland Uffering]}
+2024-06-02 23:34:40,622 [main] INFO  Producer - Send to: {topic:[events], key:[Pentos], value:[Ilyn Payne]}
+2024-06-02 23:34:41,129 [main] INFO  Producer - Send to: {topic:[events], key:[Myr], value:[Ygon Farwynd]}
+2024-06-02 23:34:41,640 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Mord]}
+2024-06-02 23:34:42,150 [main] INFO  Producer - Send to: {topic:[events], key:[Volantis], value:[Osmynd]}
+2024-06-02 23:34:42,659 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Sarya Whent]}
+2024-06-02 23:34:43,169 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Tion Frey]}
+2024-06-02 23:34:43,672 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Rhaegar Targaryen]}
+2024-06-02 23:34:44,183 [main] INFO  Producer - Send to: {topic:[events], key:[Bayasabhad], value:[Cass]}
+2024-06-02 23:34:44,693 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Hugo Wull]}
+2024-06-02 23:34:45,203 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Jonothor Darry]}
+2024-06-02 23:34:45,714 [main] INFO  Producer - Send to: {topic:[events], key:[Tolos], value:[Arianne Martell]}
+2024-06-02 23:34:46,226 [main] INFO  Producer - Send to: {topic:[events], key:[Sunspear], value:[Tytos Brax]}
+2024-06-02 23:34:46,736 [main] INFO  Producer - Send to: {topic:[events], key:[Bhorash], value:[Arya Stark]}
+2024-06-02 23:34:47,247 [main] INFO  Producer - Send to: {topic:[events], key:[Volantis], value:[Unella]}
+2024-06-02 23:34:47,759 [main] INFO  Producer - Send to: {topic:[events], key:[Myr], value:[Kaeth]}
+2024-06-02 23:34:48,262 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Dafyn Vance]}
+2024-06-02 23:34:48,772 [main] INFO  Producer - Send to: {topic:[events], key:[Qarth], value:[Raymun Darry]}
+2024-06-02 23:34:49,284 [main] INFO  Producer - Send to: {topic:[events], key:[Qarth], value:[Esgred]}
+2024-06-02 23:34:49,794 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Tristan Ryger]}
+2024-06-02 23:34:50,304 [main] INFO  Producer - Send to: {topic:[events], key:[Bayasabhad], value:[Denys Arryn]}
+2024-06-02 23:34:50,808 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Dornish Dilly]}
+2024-06-02 23:34:51,312 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Alyn Haigh]}
+2024-06-02 23:34:51,822 [main] INFO  Producer - Send to: {topic:[events], key:[Elyria], value:[Harras Harlaw]}
+2024-06-02 23:34:52,332 [main] INFO  Producer - Send to: {topic:[events], key:[Lannisport], value:[Lucas Inchfield]}
+2024-06-02 23:34:52,841 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Damon Paege]}
+2024-06-02 23:34:53,351 [main] INFO  Producer - Send to: {topic:[events], key:[Lannisport], value:[Tyrek Lannister]}
+2024-06-02 23:34:53,862 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Aenys Frey]}
+2024-06-02 23:34:54,371 [main] INFO  Producer - Send to: {topic:[events], key:[Sar Meel], value:[Lambert Turnberry]}
+2024-06-02 23:34:54,883 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Young Henly]}
+2024-06-02 23:34:55,393 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Hoster Frey]}
+2024-06-02 23:34:55,902 [main] INFO  Producer - Send to: {topic:[events], key:[Norvos], value:[Symond Frey]}
+2024-06-02 23:34:56,414 [main] INFO  Producer - Send to: {topic:[events], key:[Elyria], value:[Brandon Norrey]}
+2024-06-02 23:34:56,924 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Easy]}
+2024-06-02 23:34:57,434 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Lomys]}
+2024-06-02 23:34:57,944 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Steffon Swyft]}
+2024-06-02 23:34:58,455 [main] INFO  Producer - Send to: {topic:[events], key:[Oros], value:[Nan]}
+2024-06-02 23:34:58,965 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Gurn]}
+2024-06-02 23:34:59,475 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Rigney]}
+2024-06-02 23:34:59,985 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Manfryd Lothston]}
+2024-06-02 23:35:00,494 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Robin Hollard]}
+2024-06-02 23:35:01,004 [main] INFO  Producer - Send to: {topic:[events], key:[Elyria], value:[Bethany Fair-Fingers]}
+2024-06-02 23:35:01,513 [main] INFO  Producer - Send to: {topic:[events], key:[Sar Meel], value:[Robert Paege]}
+2024-06-02 23:35:02,023 [main] INFO  Producer - Send to: {topic:[events], key:[Pentos], value:[Harren Hoare]}
+2024-06-02 23:35:02,534 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Ardrian Celtigar]}
+2024-06-02 23:35:03,041 [main] INFO  Producer - Send to: {topic:[events], key:[Lorath], value:[Kenned]}
+2024-06-02 23:35:03,551 [main] INFO  Producer - Send to: {topic:[events], key:[Ar Noy], value:[Viserys I Targaryen]}
+2024-06-02 23:35:04,054 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Barth]}
+2024-06-02 23:35:04,564 [main] INFO  Producer - Send to: {topic:[events], key:[Old Ghis], value:[Owen Inchfield]}
+2024-06-02 23:35:05,075 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Uthor Tollett]}
+2024-06-02 23:35:05,584 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Gyleno Dothare]}
+2024-06-02 23:35:06,093 [main] INFO  Producer - Send to: {topic:[events], key:[Lorath], value:[Nestor Royce]}
+2024-06-02 23:35:06,603 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Mern Gardener]}
+2024-06-02 23:35:07,113 [main] INFO  Producer - Send to: {topic:[events], key:[Tolos], value:[Sylas]}
+2024-06-02 23:35:07,625 [main] INFO  Producer - Send to: {topic:[events], key:[Old Valyria], value:[Ardrian Celtigar]}
+2024-06-02 23:35:08,135 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Jacks]}
+2024-06-02 23:35:08,645 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Terrence Kenning]}
+2024-06-02 23:35:09,155 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Rossart]}
+2024-06-02 23:35:09,664 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Gyles Farwynd]}
+2024-06-02 23:35:10,174 [main] INFO  Producer - Send to: {topic:[events], key:[Lorath], value:[Haggo]}
+2024-06-02 23:35:10,685 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Gevin Harlaw]}
+2024-06-02 23:35:11,195 [main] INFO  Producer - Send to: {topic:[events], key:[Sar Meel], value:[Della Frey]}
+2024-06-02 23:35:11,707 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Fogo]}
+2024-06-02 23:35:12,219 [main] INFO  Producer - Send to: {topic:[events], key:[Pentos], value:[Addam Velaryon]}
+2024-06-02 23:35:12,730 [main] INFO  Producer - Send to: {topic:[events], key:[Bayasabhad], value:[Mushroom]}
+2024-06-02 23:35:13,241 [main] INFO  Producer - Send to: {topic:[events], key:[Norvos], value:[Ben Bushy]}
+2024-06-02 23:35:13,750 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Sedgekins]}
+2024-06-02 23:35:14,260 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Denyse Hightower]}
+2024-06-02 23:35:14,769 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Aemon Costayne]}
+2024-06-02 23:35:15,280 [main] INFO  Producer - Send to: {topic:[events], key:[Lorath], value:[Quent]}
+2024-06-02 23:35:15,789 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Bhakaz zo Loraq]}
+2024-06-02 23:35:16,298 [main] INFO  Producer - Send to: {topic:[events], key:[Lannisport], value:[Randyll Tarly]}
+2024-06-02 23:35:16,801 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Hugh Hammer]}
+2024-06-02 23:35:17,311 [main] INFO  Producer - Send to: {topic:[events], key:[Sunspear], value:[Warryn Beesbury]}
+2024-06-02 23:35:17,821 [main] INFO  Producer - Send to: {topic:[events], key:[Sunspear], value:[Lucos Chyttering]}
+2024-06-02 23:35:18,330 [main] INFO  Producer - Send to: {topic:[events], key:[Yunkai], value:[Ryon Allyrion]}
+2024-06-02 23:35:18,833 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Baelor Hightower]}
+2024-06-02 23:35:19,337 [main] INFO  Producer - Send to: {topic:[events], key:[Old Ghis], value:[Rymolf]}
+2024-06-02 23:35:19,854 [main] INFO  Producer - Send to: {topic:[events], key:[Myr], value:[Harwin Strong]}
+2024-06-02 23:35:20,358 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Enger]}
+2024-06-02 23:35:20,862 [main] INFO  Producer - Send to: {topic:[events], key:[New Ghis], value:[Zekko]}
+2024-06-02 23:35:21,368 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Kurz]}
+2024-06-02 23:35:21,879 [main] INFO  Producer - Send to: {topic:[events], key:[Oldtown], value:[Alyn Haigh]}
+2024-06-02 23:35:22,389 [main] INFO  Producer - Send to: {topic:[events], key:[Sunspear], value:[Harren Botley]}
+2024-06-02 23:35:22,892 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Roslin Frey]}
+2024-06-02 23:35:23,402 [main] INFO  Producer - Send to: {topic:[events], key:[Oldtown], value:[Qyburn]}
+2024-06-02 23:35:23,905 [main] INFO  Producer - Send to: {topic:[events], key:[Bayasabhad], value:[Denyo Terys]}
+2024-06-02 23:35:24,415 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Bessa]}
+2024-06-02 23:35:24,918 [main] INFO  Producer - Send to: {topic:[events], key:[Volantis], value:[Rhaelle Targaryen]}
+2024-06-02 23:35:25,426 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Roggo]}
+2024-06-02 23:35:25,932 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Orivel]}
+2024-06-02 23:35:26,441 [main] INFO  Producer - Send to: {topic:[events], key:[Elyria], value:[Oznak zo Pahl]}
+2024-06-02 23:35:26,944 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Orton Merryweather]}
+2024-06-02 23:35:27,453 [main] INFO  Producer - Send to: {topic:[events], key:[Sunspear], value:[Melara Hetherspoon]}
+2024-06-02 23:35:27,962 [main] INFO  Producer - Send to: {topic:[events], key:[Bayasabhad], value:[Lysa Meadows]}
+2024-06-02 23:35:28,471 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Valaena Velaryon]}
+2024-06-02 23:35:28,982 [main] INFO  Producer - Send to: {topic:[events], key:[Qarth], value:[Bellena Hawick]}
+2024-06-02 23:35:29,491 [main] INFO  Producer - Send to: {topic:[events], key:[Old Valyria], value:[Vortimer Crane]}
+2024-06-02 23:35:29,996 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Jaime Frey]}
+2024-06-02 23:35:30,500 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Jeyne Poole]}
+2024-06-02 23:35:31,010 [main] INFO  Producer - Send to: {topic:[events], key:[Volantis], value:[Agrivane]}
+2024-06-02 23:35:31,520 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Bethany Redwyne]}
+2024-06-02 23:35:32,024 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Serra]}
+2024-06-02 23:35:32,533 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Joth Quickbow]}
+2024-06-02 23:35:33,042 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Jaehaerys I Targaryen]}
+2024-06-02 23:35:33,552 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Emmon Frey]}
+2024-06-02 23:35:34,062 [main] INFO  Producer - Send to: {topic:[events], key:[Volantis], value:[Dolf]}
+2024-06-02 23:35:34,573 [main] INFO  Producer - Send to: {topic:[events], key:[Sunspear], value:[Turnip]}
+2024-06-02 23:35:35,083 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Taena of Myr]}
+2024-06-02 23:35:35,593 [main] INFO  Producer - Send to: {topic:[events], key:[Oldtown], value:[Ben Blackthumb]}
+2024-06-02 23:35:36,102 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Nan]}
+2024-06-02 23:35:36,612 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Bowen Marsh]}
+2024-06-02 23:35:37,122 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Dale Drumm]}
+2024-06-02 23:35:37,632 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Dake]}
+2024-06-02 23:35:38,142 [main] INFO  Producer - Send to: {topic:[events], key:[Volantis], value:[Wendel Manderly]}
+2024-06-02 23:35:38,653 [main] INFO  Producer - Send to: {topic:[events], key:[New Ghis], value:[Medger Cerwyn]}
+2024-06-02 23:35:39,159 [main] INFO  Producer - Send to: {topic:[events], key:[Volantis], value:[Rhaena Targaryen]}
+2024-06-02 23:35:39,662 [main] INFO  Producer - Send to: {topic:[events], key:[Old Ghis], value:[Stiv]}
+2024-06-02 23:35:40,171 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Shiera Crakehall]}
+2024-06-02 23:35:40,674 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Maddy]}
+2024-06-02 23:35:41,178 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Daryn Hornwood]}
+2024-06-02 23:35:41,681 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Daemon Targaryen]}
+2024-06-02 23:35:42,191 [main] INFO  Producer - Send to: {topic:[events], key:[Myr], value:[Rohanne Webber]}
+2024-06-02 23:35:42,701 [main] INFO  Producer - Send to: {topic:[events], key:[Yunkai], value:[Ryella Frey]}
+2024-06-02 23:35:43,212 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Erik Ironmaker]}
+2024-06-02 23:35:43,715 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Humfrey Swyft]}
+2024-06-02 23:35:44,225 [main] INFO  Producer - Send to: {topic:[events], key:[Oldtown], value:[Shirei Frey]}
+2024-06-02 23:35:44,736 [main] INFO  Producer - Send to: {topic:[events], key:[Mantarys], value:[Qyburn]}
+2024-06-02 23:35:45,242 [main] INFO  Producer - Send to: {topic:[events], key:[Elyria], value:[Mordane]}
+2024-06-02 23:35:45,751 [main] INFO  Producer - Send to: {topic:[events], key:[Lannisport], value:[Easy]}
+2024-06-02 23:35:46,256 [main] INFO  Producer - Send to: {topic:[events], key:[Sar Meel], value:[Denys Mallister]}
+2024-06-02 23:35:46,766 [main] INFO  Producer - Send to: {topic:[events], key:[Ar Noy], value:[Sallor]}
+2024-06-02 23:35:47,277 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Lennocks]}
+2024-06-02 23:35:47,787 [main] INFO  Producer - Send to: {topic:[events], key:[Old Ghis], value:[Ellaria Sand]}
+2024-06-02 23:35:48,291 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Steffon Darklyn]}
+2024-06-02 23:35:48,796 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Watt]}
+2024-06-02 23:35:49,299 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Gawen Swann]}
+2024-06-02 23:35:49,811 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Harys Haigh]}
+2024-06-02 23:35:50,316 [main] INFO  Producer - Send to: {topic:[events], key:[Oros], value:[Aerys II Targaryen]}
+2024-06-02 23:35:50,819 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Borcas]}
+2024-06-02 23:35:51,324 [main] INFO  Producer - Send to: {topic:[events], key:[Tolos], value:[Rodrik Cassel]}
+2024-06-02 23:35:51,828 [main] INFO  Producer - Send to: {topic:[events], key:[Myr], value:[Lord Farman of Fair Isle]}
+2024-06-02 23:35:52,333 [main] INFO  Producer - Send to: {topic:[events], key:[Yunkai], value:[Ormund Wylde]}
+2024-06-02 23:35:52,837 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Hibald]}
+2024-06-02 23:35:53,343 [main] INFO  Producer - Send to: {topic:[events], key:[Old Valyria], value:[Amory Lorch]}
+2024-06-02 23:35:53,847 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Joy Hill]}
+2024-06-02 23:35:54,358 [main] INFO  Producer - Send to: {topic:[events], key:[Old Valyria], value:[Craster]}
+2024-06-02 23:35:54,862 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Bethany Rosby]}
+2024-06-02 23:35:55,370 [main] INFO  Producer - Send to: {topic:[events], key:[Mantarys], value:[Rollam Westerling]}
+2024-06-02 23:35:55,881 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Nissa Nissa]}
+2024-06-02 23:35:56,385 [main] INFO  Producer - Send to: {topic:[events], key:[Elyria], value:[Lord Farman of Fair Isle]}
+2024-06-02 23:35:56,889 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Willem Darry]}
+2024-06-02 23:35:57,398 [main] INFO  Producer - Send to: {topic:[events], key:[Mantarys], value:[Rosamund Lannister]}
+2024-06-02 23:35:57,907 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Ghael]}
+2024-06-02 23:35:58,411 [main] INFO  Producer - Send to: {topic:[events], key:[Oldtown], value:[Maelys Blackfyre]}
+2024-06-02 23:35:58,917 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Jasper Arryn]}
+2024-06-02 23:35:59,421 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Hugh Hammer]}
+2024-06-02 23:35:59,930 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Daemon I Blackfyre]}
+2024-06-02 23:36:00,442 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Jeyne Lydden]}
+2024-06-02 23:36:00,952 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Gawen Wylde]}
+2024-06-02 23:36:01,462 [main] INFO  Producer - Send to: {topic:[events], key:[New Ghis], value:[Damon Lannister]}
+2024-06-02 23:36:01,972 [main] INFO  Producer - Send to: {topic:[events], key:[Lorath], value:[Galladon of Tarth]}
+2024-06-02 23:36:02,482 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Symon Stripeback]}
+2024-06-02 23:36:02,992 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Rickon Stark]}
+2024-06-02 23:36:03,504 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Ordello]}
+2024-06-02 23:36:04,011 [main] INFO  Producer - Send to: {topic:[events], key:[Sunspear], value:[Edmund Ambrose]}
+2024-06-02 23:36:04,521 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Jasper Waynwood]}
+2024-06-02 23:36:05,026 [main] INFO  Producer - Send to: {topic:[events], key:[Oldtown], value:[Asha Greyjoy]}
+2024-06-02 23:36:05,538 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Medgar Tully]}
+2024-06-02 23:36:06,042 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Eyron Stark]}
+2024-06-02 23:36:06,545 [main] INFO  Producer - Send to: {topic:[events], key:[Norvos], value:[Walder Rivers]}
+2024-06-02 23:36:07,054 [main] INFO  Producer - Send to: {topic:[events], key:[Bhorash], value:[Selmond Stackspear]}
+2024-06-02 23:36:07,560 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Ormund Wylde]}
+2024-06-02 23:36:08,067 [main] INFO  Producer - Send to: {topic:[events], key:[Myr], value:[Willow Witch-eye]}
+2024-06-02 23:36:08,580 [main] INFO  Producer - Send to: {topic:[events], key:[Mantarys], value:[Grubbs]}
+2024-06-02 23:36:09,086 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Lenn]}
+2024-06-02 23:36:09,598 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Nute]}
+2024-06-02 23:36:10,101 [main] INFO  Producer - Send to: {topic:[events], key:[Norvos], value:[Wyl Waynwood]}
+2024-06-02 23:36:10,612 [main] INFO  Producer - Send to: {topic:[events], key:[New Ghis], value:[Aeron Greyjoy]}
+2024-06-02 23:36:11,123 [main] INFO  Producer - Send to: {topic:[events], key:[Bhorash], value:[Franklyn Frey]}
+2024-06-02 23:36:11,633 [main] INFO  Producer - Send to: {topic:[events], key:[Pentos], value:[Donnel of Duskendale]}
+2024-06-02 23:36:12,139 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Gwayne Hightower]}
+2024-06-02 23:36:12,650 [main] INFO  Producer - Send to: {topic:[events], key:[Elyria], value:[Eyron Stark]}
+2024-06-02 23:36:13,154 [main] INFO  Producer - Send to: {topic:[events], key:[Bhorash], value:[Erryk]}
+2024-06-02 23:36:13,660 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Scarb]}
+2024-06-02 23:36:14,170 [main] INFO  Producer - Send to: {topic:[events], key:[Volantis], value:[Vulture King]}
+2024-06-02 23:36:14,680 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Tygett Lannister]}
+2024-06-02 23:36:15,190 [main] INFO  Producer - Send to: {topic:[events], key:[Bayasabhad], value:[Symond Templeton]}
+2024-06-02 23:36:15,699 [main] INFO  Producer - Send to: {topic:[events], key:[Mantarys], value:[Willam Wythers]}
+2024-06-02 23:36:16,209 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Bonifer Hasty]}
+2024-06-02 23:36:16,712 [main] INFO  Producer - Send to: {topic:[events], key:[Sunspear], value:[Goady]}
+2024-06-02 23:36:17,218 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Rickard Wylde]}
+2024-06-02 23:36:17,727 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Fogo]}
+2024-06-02 23:36:18,232 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Arthur Dayne]}
+2024-06-02 23:36:18,735 [main] INFO  Producer - Send to: {topic:[events], key:[New Ghis], value:[Osmund Kettleblack]}
+2024-06-02 23:36:19,244 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Armen]}
+2024-06-02 23:36:19,755 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Eon Hunter]}
+2024-06-02 23:36:20,265 [main] INFO  Producer - Send to: {topic:[events], key:[Bayasabhad], value:[Leathers]}
+2024-06-02 23:36:20,775 [main] INFO  Producer - Send to: {topic:[events], key:[Ar Noy], value:[Urron Greyiron]}
+2024-06-02 23:36:21,285 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Amerei Frey]}
+2024-06-02 23:36:21,795 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Obara Sand]}
+2024-06-02 23:36:22,305 [main] INFO  Producer - Send to: {topic:[events], key:[Sunspear], value:[Clement Crabb]}
+2024-06-02 23:36:22,815 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Ormond Westerling]}
+2024-06-02 23:36:23,325 [main] INFO  Producer - Send to: {topic:[events], key:[Oros], value:[Rat Cook]}
+2024-06-02 23:36:23,835 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Jeren]}
+2024-06-02 23:36:24,345 [main] INFO  Producer - Send to: {topic:[events], key:[Oldtown], value:[Wylis Manderly]}
+2024-06-02 23:36:24,856 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Duncan]}
+2024-06-02 23:36:25,367 [main] INFO  Producer - Send to: {topic:[events], key:[Sunspear], value:[Aegon IV Targaryen]}
+2024-06-02 23:36:25,877 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Boros Blount]}
+2024-06-02 23:36:26,382 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Jasper Waynwood]}
+2024-06-02 23:36:26,887 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Mors Martell]}
+2024-06-02 23:36:27,397 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Cortnay Penrose]}
+2024-06-02 23:36:27,906 [main] INFO  Producer - Send to: {topic:[events], key:[Sar Meel], value:[Tytos Frey]}
+2024-06-02 23:36:28,416 [main] INFO  Producer - Send to: {topic:[events], key:[Qarth], value:[Amory Lorch]}
+2024-06-02 23:36:28,925 [main] INFO  Producer - Send to: {topic:[events], key:[Oros], value:[Olyvar Frey]}
+2024-06-02 23:36:29,434 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Aerys II Targaryen]}
+2024-06-02 23:36:29,944 [main] INFO  Producer - Send to: {topic:[events], key:[Volantis], value:[Willem Frey]}
+2024-06-02 23:36:30,454 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Kyleg of the Wooden Ear]}
+2024-06-02 23:36:30,964 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Buford Bulwer]}
+2024-06-02 23:36:31,475 [main] INFO  Producer - Send to: {topic:[events], key:[Bhorash], value:[Tal Toraq]}
+2024-06-02 23:36:31,986 [main] INFO  Producer - Send to: {topic:[events], key:[Lorath], value:[Ottomore]}
+2024-06-02 23:36:32,496 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Bryan Fossoway]}
+2024-06-02 23:36:33,006 [main] INFO  Producer - Send to: {topic:[events], key:[Lorath], value:[Ronnel Arryn]}
+2024-06-02 23:36:33,516 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Bethany Bolton]}
+2024-06-02 23:36:34,025 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Elys Westerling]}
+2024-06-02 23:36:34,529 [main] INFO  Producer - Send to: {topic:[events], key:[Qarth], value:[Unella]}
+2024-06-02 23:36:35,046 [main] INFO  Producer - Send to: {topic:[events], key:[Bhorash], value:[Ollo Lophand]}
+2024-06-02 23:36:35,556 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Raymun Fossoway]}
+2024-06-02 23:36:36,062 [main] INFO  Producer - Send to: {topic:[events], key:[Oldtown], value:[Cley Cerwyn]}
+2024-06-02 23:36:36,571 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Redtusk]}
+2024-06-02 23:36:37,081 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Desmond]}
+2024-06-02 23:36:37,584 [main] INFO  Producer - Send to: {topic:[events], key:[Yunkai], value:[Tymor]}
+2024-06-02 23:36:38,094 [main] INFO  Producer - Send to: {topic:[events], key:[Old Valyria], value:[Lharys]}
+2024-06-02 23:36:38,603 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Jayne Bracken]}
+2024-06-02 23:36:39,112 [main] INFO  Producer - Send to: {topic:[events], key:[Sunspear], value:[Dick Crabb]}
+2024-06-02 23:36:39,622 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Clarence Crabb]}
+2024-06-02 23:36:40,132 [main] INFO  Producer - Send to: {topic:[events], key:[Oldtown], value:[Eleyna Westerling]}
+2024-06-02 23:36:40,642 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Stygg]}
+2024-06-02 23:36:41,151 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Reek]}
+2024-06-02 23:36:41,661 [main] INFO  Producer - Send to: {topic:[events], key:[Sar Meel], value:[Sherrit]}
+2024-06-02 23:36:42,171 [main] INFO  Producer - Send to: {topic:[events], key:[Myr], value:[Lark]}
+2024-06-02 23:36:42,680 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Glendon Flowers]}
+2024-06-02 23:36:43,190 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Medgar Tully]}
+2024-06-02 23:36:43,699 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Ben]}
+2024-06-02 23:36:44,209 [main] INFO  Producer - Send to: {topic:[events], key:[Oros], value:[Black Bernarr]}
+2024-06-02 23:36:44,718 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Daena Targaryen]}
+2024-06-02 23:36:45,227 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Lynesse Hightower]}
+2024-06-02 23:36:45,737 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Denyo Terys]}
+2024-06-02 23:36:46,247 [main] INFO  Producer - Send to: {topic:[events], key:[Bayasabhad], value:[Jaremy Rykker]}
+2024-06-02 23:36:46,757 [main] INFO  Producer - Send to: {topic:[events], key:[Sunspear], value:[Aegon II Targaryen]}
+2024-06-02 23:36:47,266 [main] INFO  Producer - Send to: {topic:[events], key:[Pentos], value:[Rolland Darklyn]}
+2024-06-02 23:36:47,770 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Morrec]}
+2024-06-02 23:36:48,280 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Rufus Leek]}
+2024-06-02 23:36:48,789 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Long Lew]}
+2024-06-02 23:36:49,293 [main] INFO  Producer - Send to: {topic:[events], key:[Lannisport], value:[Garrison Prester]}
+2024-06-02 23:36:49,797 [main] INFO  Producer - Send to: {topic:[events], key:[Bhorash], value:[Tal Toraq]}
+2024-06-02 23:36:50,306 [main] INFO  Producer - Send to: {topic:[events], key:[Bayasabhad], value:[Dorea Sand]}
+2024-06-02 23:36:50,816 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Arryk]}
+2024-06-02 23:36:51,325 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Robin Potter]}
+2024-06-02 23:36:51,835 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Alyn Connington]}
+2024-06-02 23:36:52,344 [main] INFO  Producer - Send to: {topic:[events], key:[Elyria], value:[Godwyn]}
+2024-06-02 23:36:52,853 [main] INFO  Producer - Send to: {topic:[events], key:[Old Valyria], value:[Emphyria Vance]}
+2024-06-02 23:36:53,362 [main] INFO  Producer - Send to: {topic:[events], key:[Myr], value:[Tickler]}
+2024-06-02 23:36:53,872 [main] INFO  Producer - Send to: {topic:[events], key:[Oldtown], value:[Jon Lynderly]}
+2024-06-02 23:36:54,381 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Grazdan]}
+2024-06-02 23:36:54,892 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Kyleg of the Wooden Ear]}
+2024-06-02 23:36:55,403 [main] INFO  Producer - Send to: {topic:[events], key:[Qarth], value:[Kirby Pimm]}
+2024-06-02 23:36:55,912 [main] INFO  Producer - Send to: {topic:[events], key:[Norvos], value:[Nage]}
+2024-06-02 23:36:56,421 [main] INFO  Producer - Send to: {topic:[events], key:[Sunspear], value:[Werlag]}
+2024-06-02 23:36:56,931 [main] INFO  Producer - Send to: {topic:[events], key:[Volantis], value:[Cortnay Penrose]}
+2024-06-02 23:36:57,441 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Visenya Targaryen]}
+2024-06-02 23:36:57,951 [main] INFO  Producer - Send to: {topic:[events], key:[Norvos], value:[Joanna Swyft]}
+2024-06-02 23:36:58,461 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Prendahl na Ghezn]}
+2024-06-02 23:36:58,970 [main] INFO  Producer - Send to: {topic:[events], key:[Yunkai], value:[Aegon II Targaryen]}
+2024-06-02 23:36:59,479 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Chiggen]}
+2024-06-02 23:36:59,989 [main] INFO  Producer - Send to: {topic:[events], key:[Lorath], value:[Narbert]}
+2024-06-02 23:37:00,499 [main] INFO  Producer - Send to: {topic:[events], key:[Old Valyria], value:[Dagon Greyjoy]}
+2024-06-02 23:37:01,009 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Joy Hill]}
+2024-06-02 23:37:01,512 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Gregor Clegane]}
+2024-06-02 23:37:02,022 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Urek Ironmaker]}
+2024-06-02 23:37:02,530 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Bluetooth]}
+2024-06-02 23:37:03,034 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Balon Greyjoy]}
+2024-06-02 23:37:03,538 [main] INFO  Producer - Send to: {topic:[events], key:[Lorath], value:[Noho Dimittis]}
+2024-06-02 23:37:04,044 [main] INFO  Producer - Send to: {topic:[events], key:[Elyria], value:[Elyn Norridge]}
+2024-06-02 23:37:04,547 [main] INFO  Producer - Send to: {topic:[events], key:[Ar Noy], value:[Beck]}
+2024-06-02 23:37:05,050 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Norren]}
+2024-06-02 23:37:05,560 [main] INFO  Producer - Send to: {topic:[events], key:[Oldtown], value:[Gormond Goodbrother]}
+2024-06-02 23:37:06,065 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Mathos Mallarawan]}
+2024-06-02 23:37:06,576 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Mern Gardener]}
+2024-06-02 23:37:07,079 [main] INFO  Producer - Send to: {topic:[events], key:[Volantis], value:[Aemon Targaryen]}
+2024-06-02 23:37:07,590 [main] INFO  Producer - Send to: {topic:[events], key:[Qarth], value:[Nail]}
+2024-06-02 23:37:08,100 [main] INFO  Producer - Send to: {topic:[events], key:[Yunkai], value:[Aethan]}
+2024-06-02 23:37:08,609 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Aurane Waters]}
+2024-06-02 23:37:09,118 [main] INFO  Producer - Send to: {topic:[events], key:[Lannisport], value:[Dickon Frey]}
+2024-06-02 23:37:09,624 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Ferret]}
+2024-06-02 23:37:10,127 [main] INFO  Producer - Send to: {topic:[events], key:[Lannisport], value:[Harrion Karstark]}
+2024-06-02 23:37:10,630 [main] INFO  Producer - Send to: {topic:[events], key:[Sar Meel], value:[Humfrey Hewett]}
+2024-06-02 23:37:11,140 [main] INFO  Producer - Send to: {topic:[events], key:[Lorath], value:[Weeper]}
+2024-06-02 23:37:11,649 [main] INFO  Producer - Send to: {topic:[events], key:[Pentos], value:[Holly]}
+2024-06-02 23:37:12,158 [main] INFO  Producer - Send to: {topic:[events], key:[Elyria], value:[Aenys Frey]}
+2024-06-02 23:37:12,667 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Lucas Blackwood]}
+2024-06-02 23:37:13,176 [main] INFO  Producer - Send to: {topic:[events], key:[Volantis], value:[Rickon Stark]}
+2024-06-02 23:37:13,685 [main] INFO  Producer - Send to: {topic:[events], key:[Oldtown], value:[Myles Smallwood]}
+2024-06-02 23:37:14,196 [main] INFO  Producer - Send to: {topic:[events], key:[Elyria], value:[Jaehaerys I Targaryen]}
+2024-06-02 23:37:14,706 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Raynard Ruttiger]}
+2024-06-02 23:37:15,215 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Frenken]}
+2024-06-02 23:37:15,725 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Clarent Crakehall]}
+2024-06-02 23:37:16,235 [main] INFO  Producer - Send to: {topic:[events], key:[Ar Noy], value:[Grazdan zo Galare]}
+2024-06-02 23:37:16,739 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Harmund Sharp]}
+2024-06-02 23:37:17,248 [main] INFO  Producer - Send to: {topic:[events], key:[Ar Noy], value:[Bennarion Botley]}
+2024-06-02 23:37:17,757 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Boros Blount]}
+2024-06-02 23:37:18,268 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Maslyn]}
+2024-06-02 23:37:18,778 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Ormond]}
+2024-06-02 23:37:19,288 [main] INFO  Producer - Send to: {topic:[events], key:[Sar Meel], value:[Lord Ashford]}
+2024-06-02 23:37:19,797 [main] INFO  Producer - Send to: {topic:[events], key:[Sunspear], value:[Leyton Hightower]}
+2024-06-02 23:37:20,300 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Olyvar Frey]}
+2024-06-02 23:37:20,810 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Gunthor son of Gurn]}
+2024-06-02 23:37:21,318 [main] INFO  Producer - Send to: {topic:[events], key:[Lannisport], value:[Wun Weg Wun Dar Wun]}
+2024-06-02 23:37:21,828 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Aladale Wynch]}
+2024-06-02 23:37:22,337 [main] INFO  Producer - Send to: {topic:[events], key:[Bayasabhad], value:[Meizo Mahr]}
+2024-06-02 23:37:22,848 [main] INFO  Producer - Send to: {topic:[events], key:[Oldtown], value:[Serra]}
+2024-06-02 23:37:23,359 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Sybassion]}
+2024-06-02 23:37:23,864 [main] INFO  Producer - Send to: {topic:[events], key:[Mantarys], value:[Camarron of the Count]}
+2024-06-02 23:37:24,373 [main] INFO  Producer - Send to: {topic:[events], key:[Old Ghis], value:[Haggon]}
+2024-06-02 23:37:24,882 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Tarle]}
+2024-06-02 23:37:25,391 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Lomys]}
+2024-06-02 23:37:25,901 [main] INFO  Producer - Send to: {topic:[events], key:[Volantis], value:[Lamprey]}
+2024-06-02 23:37:26,411 [main] INFO  Producer - Send to: {topic:[events], key:[Mantarys], value:[Mag Mar Tun Doh Weg]}
+2024-06-02 23:37:26,921 [main] INFO  Producer - Send to: {topic:[events], key:[Sunspear], value:[Arneld]}
+2024-06-02 23:37:27,430 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Edwyn Frey]}
+2024-06-02 23:37:27,937 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Lymond Goodbrook]}
+2024-06-02 23:37:28,448 [main] INFO  Producer - Send to: {topic:[events], key:[Lannisport], value:[Patrek Mallister]}
+2024-06-02 23:37:28,958 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Big Boil]}
+2024-06-02 23:37:29,468 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Rupert Crabb]}
+2024-06-02 23:37:29,979 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Jhogo]}
+2024-06-02 23:37:30,483 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Ronnel Harclay]}
+2024-06-02 23:37:30,993 [main] INFO  Producer - Send to: {topic:[events], key:[Lannisport], value:[Gerrick Kingsblood]}
+2024-06-02 23:37:31,503 [main] INFO  Producer - Send to: {topic:[events], key:[Ar Noy], value:[Mors Martell]}
+2024-06-02 23:37:32,012 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Utt]}
+2024-06-02 23:37:32,516 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Jason Mallister]}
+2024-06-02 23:37:33,019 [main] INFO  Producer - Send to: {topic:[events], key:[Bayasabhad], value:[Melara Hetherspoon]}
+2024-06-02 23:37:33,523 [main] INFO  Producer - Send to: {topic:[events], key:[Old Valyria], value:[Gulian Qorgyle]}
+2024-06-02 23:37:34,034 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Urreg]}
+2024-06-02 23:37:34,543 [main] INFO  Producer - Send to: {topic:[events], key:[Oros], value:[Black Jack Bulwer]}
+2024-06-02 23:37:35,053 [main] INFO  Producer - Send to: {topic:[events], key:[Mantarys], value:[Harlon Botley]}
+2024-06-02 23:37:35,562 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Shirei Frey]}
+2024-06-02 23:37:36,071 [main] INFO  Producer - Send to: {topic:[events], key:[Volantis], value:[Tytos Lannister]}
+2024-06-02 23:37:36,580 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Norbert Vance]}
+2024-06-02 23:37:37,090 [main] INFO  Producer - Send to: {topic:[events], key:[New Ghis], value:[Annara Farring]}
+2024-06-02 23:37:37,600 [main] INFO  Producer - Send to: {topic:[events], key:[Sar Meel], value:[Lorren]}
+2024-06-02 23:37:38,103 [main] INFO  Producer - Send to: {topic:[events], key:[Qarth], value:[Reysen]}
+2024-06-02 23:37:38,612 [main] INFO  Producer - Send to: {topic:[events], key:[Pentos], value:[Sigrin]}
+2024-06-02 23:37:39,118 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Clydas]}
+2024-06-02 23:37:39,627 [main] INFO  Producer - Send to: {topic:[events], key:[Sunspear], value:[Alesander Frey]}
+2024-06-02 23:37:40,137 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Sansa Stark]}
+2024-06-02 23:37:40,647 [main] INFO  Producer - Send to: {topic:[events], key:[Oldtown], value:[Byren Flowers]}
+2024-06-02 23:37:41,159 [main] INFO  Producer - Send to: {topic:[events], key:[Lannisport], value:[Rylene Florent]}
+2024-06-02 23:37:41,669 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Jaqen H'ghar]}
+2024-06-02 23:37:42,178 [main] INFO  Producer - Send to: {topic:[events], key:[Ar Noy], value:[Denys Drumm]}
+2024-06-02 23:37:42,681 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Trystane Martell]}
+2024-06-02 23:37:43,184 [main] INFO  Producer - Send to: {topic:[events], key:[Norvos], value:[Quickfinger]}
+2024-06-02 23:37:43,694 [main] INFO  Producer - Send to: {topic:[events], key:[Old Valyria], value:[Jhiqui]}
+2024-06-02 23:37:44,198 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Marq Grafton]}
+2024-06-02 23:37:44,702 [main] INFO  Producer - Send to: {topic:[events], key:[Bayasabhad], value:[Miklaz]}
+2024-06-02 23:37:45,212 [main] INFO  Producer - Send to: {topic:[events], key:[Tolos], value:[Serra Frey]}
+2024-06-02 23:37:45,716 [main] INFO  Producer - Send to: {topic:[events], key:[Norvos], value:[Rycherd Crane]}
+2024-06-02 23:37:46,227 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Lambert Turnberry]}
+2024-06-02 23:37:46,731 [main] INFO  Producer - Send to: {topic:[events], key:[New Ghis], value:[Umfred]}
+2024-06-02 23:37:47,241 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Gendel]}
+2024-06-02 23:37:47,751 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Jon Redfort]}
+2024-06-02 23:37:48,261 [main] INFO  Producer - Send to: {topic:[events], key:[Oldtown], value:[Lum]}
+2024-06-02 23:37:48,765 [main] INFO  Producer - Send to: {topic:[events], key:[Lannisport], value:[Shierle Swyft]}
+2024-06-02 23:37:49,276 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Mathis Rowan]}
+2024-06-02 23:37:49,786 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Morrec]}
+2024-06-02 23:37:50,304 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Harlan Grandison]}
+2024-06-02 23:37:50,813 [main] INFO  Producer - Send to: {topic:[events], key:[Old Ghis], value:[Addam Frey]}
+2024-06-02 23:37:51,323 [main] INFO  Producer - Send to: {topic:[events], key:[Ar Noy], value:[Harlon Greyjoy]}
+2024-06-02 23:37:51,831 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Ashara Dayne]}
+2024-06-02 23:37:52,341 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Kezmya]}
+2024-06-02 23:37:52,850 [main] INFO  Producer - Send to: {topic:[events], key:[Elyria], value:[Benedar Belmore]}
+2024-06-02 23:37:53,359 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Colmar Frey]}
+2024-06-02 23:37:53,868 [main] INFO  Producer - Send to: {topic:[events], key:[Tolos], value:[Alekyne Florent]}
+2024-06-02 23:37:54,371 [main] INFO  Producer - Send to: {topic:[events], key:[Elyria], value:[Aegor Rivers]}
+2024-06-02 23:37:54,880 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Harrold Westerling]}
+2024-06-02 23:37:55,384 [main] INFO  Producer - Send to: {topic:[events], key:[Old Ghis], value:[Benfred Tallhart]}
+2024-06-02 23:37:55,893 [main] INFO  Producer - Send to: {topic:[events], key:[New Ghis], value:[Cetheres]}
+2024-06-02 23:37:56,402 [main] INFO  Producer - Send to: {topic:[events], key:[New Ghis], value:[Beron Blacktyde]}
+2024-06-02 23:37:56,911 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Tysha]}
+2024-06-02 23:37:57,420 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Benedict]}
+2024-06-02 23:37:57,929 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Dudley]}
+2024-06-02 23:37:58,438 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Grazdan]}
+2024-06-02 23:37:58,947 [main] INFO  Producer - Send to: {topic:[events], key:[Sar Meel], value:[Tarber]}
+2024-06-02 23:37:59,456 [main] INFO  Producer - Send to: {topic:[events], key:[Norvos], value:[Cyrenna Swann]}
+2024-06-02 23:37:59,966 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Galbart Glover]}
+2024-06-02 23:38:00,469 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Byan Votyris]}
+2024-06-02 23:38:00,978 [main] INFO  Producer - Send to: {topic:[events], key:[Lorath], value:[Owen Inchfield]}
+2024-06-02 23:38:01,487 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Mors Umber]}
+2024-06-02 23:38:01,991 [main] INFO  Producer - Send to: {topic:[events], key:[Elyria], value:[Tybolt Crakehall]}
+2024-06-02 23:38:02,496 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Selyse Florent]}
+2024-06-02 23:38:02,999 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Marissa Frey]}
+2024-06-02 23:38:03,508 [main] INFO  Producer - Send to: {topic:[events], key:[Volantis], value:[Dorcas]}
+2024-06-02 23:38:04,017 [main] INFO  Producer - Send to: {topic:[events], key:[Norvos], value:[Romny Weaver]}
+2024-06-02 23:38:04,527 [main] INFO  Producer - Send to: {topic:[events], key:[Yunkai], value:[Urras Ironfoot]}
+2024-06-02 23:38:05,036 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Quenton Greyjoy]}
+2024-06-02 23:38:05,546 [main] INFO  Producer - Send to: {topic:[events], key:[Myr], value:[Triston Sunderland]}
+2024-06-02 23:38:06,055 [main] INFO  Producer - Send to: {topic:[events], key:[Norvos], value:[Gared]}
+2024-06-02 23:38:06,565 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Othor]}
+2024-06-02 23:38:07,068 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Griffin King]}
+2024-06-02 23:38:07,574 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Howd Wanderer]}
+2024-06-02 23:38:08,079 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Umar]}
+2024-06-02 23:38:08,582 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Alia]}
+2024-06-02 23:38:09,091 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Jenny]}
+2024-06-02 23:38:09,600 [main] INFO  Producer - Send to: {topic:[events], key:[Norvos], value:[Beron Blacktyde]}
+2024-06-02 23:38:10,106 [main] INFO  Producer - Send to: {topic:[events], key:[Volantis], value:[Clement]}
+2024-06-02 23:38:10,615 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Robin Hill]}
+2024-06-02 23:38:11,119 [main] INFO  Producer - Send to: {topic:[events], key:[New Ghis], value:[Jammos Frey]}
+2024-06-02 23:38:11,622 [main] INFO  Producer - Send to: {topic:[events], key:[Norvos], value:[Tothmure]}
+2024-06-02 23:38:12,133 [main] INFO  Producer - Send to: {topic:[events], key:[Oldtown], value:[Dancy]}
+2024-06-02 23:38:12,636 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Edderion Stark]}
+2024-06-02 23:38:13,139 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Easy]}
+2024-06-02 23:38:13,643 [main] INFO  Producer - Send to: {topic:[events], key:[Lorath], value:[Talla Tarly]}
+2024-06-02 23:38:14,150 [main] INFO  Producer - Send to: {topic:[events], key:[Sar Meel], value:[Antario Jast]}
+2024-06-02 23:38:14,653 [main] INFO  Producer - Send to: {topic:[events], key:[Yunkai], value:[Nail]}
+2024-06-02 23:38:15,161 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Manfrey Martell]}
+2024-06-02 23:38:15,665 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Tristifer IV Mudd]}
+2024-06-02 23:38:16,174 [main] INFO  Producer - Send to: {topic:[events], key:[Tolos], value:[Plummer]}
+2024-06-02 23:38:16,684 [main] INFO  Producer - Send to: {topic:[events], key:[Old Ghis], value:[Lew]}
+2024-06-02 23:38:17,192 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Aemon Costayne]}
+2024-06-02 23:38:17,702 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Petyr Frey]}
+2024-06-02 23:38:18,207 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Norbert Vance]}
+2024-06-02 23:38:18,717 [main] INFO  Producer - Send to: {topic:[events], key:[Pentos], value:[Tanselle]}
+2024-06-02 23:38:19,226 [main] INFO  Producer - Send to: {topic:[events], key:[Myr], value:[Yna]}
+2024-06-02 23:38:19,735 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Gorghan of Old Ghis]}
+2024-06-02 23:38:20,239 [main] INFO  Producer - Send to: {topic:[events], key:[Lorath], value:[Poul Pemford]}
+2024-06-02 23:38:20,743 [main] INFO  Producer - Send to: {topic:[events], key:[Elyria], value:[Tristimun]}
+2024-06-02 23:38:21,247 [main] INFO  Producer - Send to: {topic:[events], key:[Bhorash], value:[Lord Cafferen]}
+2024-06-02 23:38:21,751 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Robett Glover]}
+2024-06-02 23:38:22,261 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Aegon II Targaryen]}
+2024-06-02 23:38:22,765 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Armond Caswell]}
+2024-06-02 23:38:23,273 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Kegs]}
+2024-06-02 23:38:23,776 [main] INFO  Producer - Send to: {topic:[events], key:[Oros], value:[Robin Hill]}
+2024-06-02 23:38:24,279 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Zhoe Blanetree]}
+2024-06-02 23:38:24,782 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Damon Vypren]}
+2024-06-02 23:38:25,292 [main] INFO  Producer - Send to: {topic:[events], key:[Qarth], value:[Samwell Tarly]}
+2024-06-02 23:38:25,796 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Cedric Payne]}
+2024-06-02 23:38:26,299 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Benedict Broom]}
+2024-06-02 23:38:26,808 [main] INFO  Producer - Send to: {topic:[events], key:[Tolos], value:[Lyonel Frey]}
+2024-06-02 23:38:27,314 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Myrielle Lannister]}
+2024-06-02 23:38:27,824 [main] INFO  Producer - Send to: {topic:[events], key:[Lannisport], value:[Lord Staunton]}
+2024-06-02 23:38:28,327 [main] INFO  Producer - Send to: {topic:[events], key:[Elyria], value:[Anvil Ryn]}
+2024-06-02 23:38:28,837 [main] INFO  Producer - Send to: {topic:[events], key:[Qarth], value:[Ardrian Celtigar]}
+2024-06-02 23:38:29,343 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Wendel Frey]}
+2024-06-02 23:38:29,845 [main] INFO  Producer - Send to: {topic:[events], key:[Ar Noy], value:[Tristifer Botley]}
+2024-06-02 23:38:30,351 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Rupert Brax]}
+2024-06-02 23:38:30,860 [main] INFO  Producer - Send to: {topic:[events], key:[Pentos], value:[Pate of the Night's Watch]}
+2024-06-02 23:38:31,365 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Maron Greyjoy]}
+2024-06-02 23:38:31,869 [main] INFO  Producer - Send to: {topic:[events], key:[Volantis], value:[Jonnel Stark]}
+2024-06-02 23:38:32,372 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Willem Wylde]}
+2024-06-02 23:38:32,876 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Elwood Meadows]}
+2024-06-02 23:38:33,386 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Matthos Seaworth]}
+2024-06-02 23:38:33,891 [main] INFO  Producer - Send to: {topic:[events], key:[Qarth], value:[Borroq]}
+2024-06-02 23:38:34,401 [main] INFO  Producer - Send to: {topic:[events], key:[Volantis], value:[Wynafrei Whent]}
+2024-06-02 23:38:34,906 [main] INFO  Producer - Send to: {topic:[events], key:[Tolos], value:[Armond Caswell]}
+2024-06-02 23:38:35,411 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Griffin King]}
+2024-06-02 23:38:35,921 [main] INFO  Producer - Send to: {topic:[events], key:[Oldtown], value:[Ronald Vance]}
+2024-06-02 23:38:36,431 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Mezzara]}
+2024-06-02 23:38:36,940 [main] INFO  Producer - Send to: {topic:[events], key:[Sar Meel], value:[Luke of Longtown]}
+2024-06-02 23:38:37,449 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Sleepy Jack]}
+2024-06-02 23:38:37,954 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Igon Vyrwel]}
+2024-06-02 23:38:38,460 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Coldhands]}
+2024-06-02 23:38:38,971 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Zhoe Blanetree]}
+2024-06-02 23:38:39,482 [main] INFO  Producer - Send to: {topic:[events], key:[Yunkai], value:[Harys Haigh]}
+2024-06-02 23:38:39,991 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Raymun Darry]}
+2024-06-02 23:38:40,501 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Robert Baratheon]}
+2024-06-02 23:38:41,011 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Denys Redwyne]}
+2024-06-02 23:38:41,520 [main] INFO  Producer - Send to: {topic:[events], key:[Myr], value:[Arneld]}
+2024-06-02 23:38:42,029 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Portifer Woodwright]}
+2024-06-02 23:38:42,538 [main] INFO  Producer - Send to: {topic:[events], key:[Yunkai], value:[Hake]}
+2024-06-02 23:38:43,049 [main] INFO  Producer - Send to: {topic:[events], key:[Lannisport], value:[Bonifer Hasty]}
+2024-06-02 23:38:43,559 [main] INFO  Producer - Send to: {topic:[events], key:[Bhorash], value:[Jothos Slynt]}
+2024-06-02 23:38:44,068 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Laena Velaryon]}
+2024-06-02 23:38:44,577 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Tristifer Botley]}
+2024-06-02 23:38:45,086 [main] INFO  Producer - Send to: {topic:[events], key:[Lannisport], value:[Carellen Smallwood]}
+2024-06-02 23:38:45,595 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Maron Greyjoy]}
+2024-06-02 23:38:46,104 [main] INFO  Producer - Send to: {topic:[events], key:[Yunkai], value:[Murch]}
+2024-06-02 23:38:46,614 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Cleyton Caswell]}
+2024-06-02 23:38:47,124 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Philip Foote]}
+2024-06-02 23:38:47,632 [main] INFO  Producer - Send to: {topic:[events], key:[Yunkai], value:[Rhogoro]}
+2024-06-02 23:38:48,141 [main] INFO  Producer - Send to: {topic:[events], key:[Pentos], value:[Ormond Osgrey]}
+2024-06-02 23:38:48,650 [main] INFO  Producer - Send to: {topic:[events], key:[Yunkai], value:[Old Bill Bones]}
+2024-06-02 23:38:49,160 [main] INFO  Producer - Send to: {topic:[events], key:[Old Ghis], value:[Nestor Royce]}
+2024-06-02 23:38:49,670 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Ravella Swann]}
+2024-06-02 23:38:50,180 [main] INFO  Producer - Send to: {topic:[events], key:[Sar Meel], value:[Ben Bushy]}
+2024-06-02 23:38:50,689 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Gwin Goodbrother]}
+2024-06-02 23:38:51,199 [main] INFO  Producer - Send to: {topic:[events], key:[Yunkai], value:[Alan]}
+2024-06-02 23:38:51,708 [main] INFO  Producer - Send to: {topic:[events], key:[Old Valyria], value:[Tybolt Crakehall]}
+2024-06-02 23:38:52,217 [main] INFO  Producer - Send to: {topic:[events], key:[Oros], value:[Edric Dayne]}
+2024-06-02 23:38:52,726 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Camarron of the Count]}
+2024-06-02 23:38:53,236 [main] INFO  Producer - Send to: {topic:[events], key:[Old Ghis], value:[Sherrit]}
+2024-06-02 23:38:53,746 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Conwy]}
+2024-06-02 23:38:54,256 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Mollander]}
+2024-06-02 23:38:54,765 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Mela]}
+2024-06-02 23:38:55,269 [main] INFO  Producer - Send to: {topic:[events], key:[New Ghis], value:[Shae]}
+2024-06-02 23:38:55,776 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Benedict Broom]}
+2024-06-02 23:38:56,284 [main] INFO  Producer - Send to: {topic:[events], key:[Myr], value:[Grance Morrigen]}
+2024-06-02 23:38:56,789 [main] INFO  Producer - Send to: {topic:[events], key:[Old Ghis], value:[Rymund the Rhymer]}
+2024-06-02 23:38:57,292 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Ternesio Terys]}
+2024-06-02 23:38:57,803 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Lia Serry]}
+2024-06-02 23:38:58,306 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Ben Blackthumb]}
+2024-06-02 23:38:58,809 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Melissa Blackwood]}
+2024-06-02 23:38:59,312 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Devan Seaworth]}
+2024-06-02 23:38:59,816 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Lymond Vikary]}
+2024-06-02 23:39:00,320 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Ashara Dayne]}
+2024-06-02 23:39:00,823 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Arneld]}
+2024-06-02 23:39:01,330 [main] INFO  Producer - Send to: {topic:[events], key:[Oros], value:[Alia]}
+2024-06-02 23:39:01,840 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Davos Seaworth]}
+2024-06-02 23:39:02,343 [main] INFO  Producer - Send to: {topic:[events], key:[Volantis], value:[Dale Seaworth]}
+2024-06-02 23:39:02,847 [main] INFO  Producer - Send to: {topic:[events], key:[Pentos], value:[Jammos Frey]}
+2024-06-02 23:39:03,350 [main] INFO  Producer - Send to: {topic:[events], key:[Oros], value:[Nysterica]}
+2024-06-02 23:39:03,854 [main] INFO  Producer - Send to: {topic:[events], key:[Norvos], value:[Ronald Connington]}
+2024-06-02 23:39:04,360 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Richard Horpe]}
+2024-06-02 23:39:04,864 [main] INFO  Producer - Send to: {topic:[events], key:[Yunkai], value:[Jasper Redfort]}
+2024-06-02 23:39:05,370 [main] INFO  Producer - Send to: {topic:[events], key:[Myr], value:[Aubrey Ambrose]}
+2024-06-02 23:39:05,873 [main] INFO  Producer - Send to: {topic:[events], key:[Norvos], value:[Moelle]}
+2024-06-02 23:39:06,383 [main] INFO  Producer - Send to: {topic:[events], key:[Tolos], value:[Rodrik Ryswell]}
+2024-06-02 23:39:06,886 [main] INFO  Producer - Send to: {topic:[events], key:[Norvos], value:[Tommen Baratheon]}
+2024-06-02 23:39:07,391 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Wynton Stout]}
+2024-06-02 23:39:07,900 [main] INFO  Producer - Send to: {topic:[events], key:[Qarth], value:[Symond Templeton]}
+2024-06-02 23:39:08,403 [main] INFO  Producer - Send to: {topic:[events], key:[Bayasabhad], value:[Bethany Redwyne]}
+2024-06-02 23:39:08,908 [main] INFO  Producer - Send to: {topic:[events], key:[Norvos], value:[Belaquo Bonebreaker]}
+2024-06-02 23:39:09,418 [main] INFO  Producer - Send to: {topic:[events], key:[Sar Meel], value:[Aglantine]}
+2024-06-02 23:39:09,922 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Dan]}
+2024-06-02 23:39:10,432 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Robert Arryn]}
+2024-06-02 23:39:10,936 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Rhea Royce]}
+2024-06-02 23:39:11,438 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Illifer]}
+2024-06-02 23:39:11,948 [main] INFO  Producer - Send to: {topic:[events], key:[Old Ghis], value:[Dywen]}
+2024-06-02 23:39:12,458 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Joth Quickbow]}
+2024-06-02 23:39:12,962 [main] INFO  Producer - Send to: {topic:[events], key:[Bayasabhad], value:[Jon Bettley]}
+2024-06-02 23:39:13,472 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Vickon Botley]}
+2024-06-02 23:39:13,978 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Dalbridge]}
+2024-06-02 23:39:14,487 [main] INFO  Producer - Send to: {topic:[events], key:[Oldtown], value:[Viserys II Targaryen]}
+2024-06-02 23:39:14,990 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Eroeh]}
+2024-06-02 23:39:15,494 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Assadora of Ibben]}
+2024-06-02 23:39:16,004 [main] INFO  Producer - Send to: {topic:[events], key:[Lannisport], value:[Sybell Spicer]}
+2024-06-02 23:39:16,515 [main] INFO  Producer - Send to: {topic:[events], key:[Ar Noy], value:[Merrett Frey]}
+2024-06-02 23:39:17,025 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Armen]}
+2024-06-02 23:39:17,534 [main] INFO  Producer - Send to: {topic:[events], key:[Lannisport], value:[Ulwyck Uller]}
+2024-06-02 23:39:18,042 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Renly Norcross]}
+2024-06-02 23:39:18,552 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Benfred Tallhart]}
+2024-06-02 23:39:19,061 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Ben Blackthumb]}
+2024-06-02 23:39:19,570 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Lymond Goodbrook]}
+2024-06-02 23:39:20,079 [main] INFO  Producer - Send to: {topic:[events], key:[Oros], value:[Ferret]}
+2024-06-02 23:39:20,584 [main] INFO  Producer - Send to: {topic:[events], key:[New Ghis], value:[Edderion Stark]}
+2024-06-02 23:39:21,089 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Elder Brother]}
+2024-06-02 23:39:21,598 [main] INFO  Producer - Send to: {topic:[events], key:[Tolos], value:[Orwyle]}
+2024-06-02 23:39:22,107 [main] INFO  Producer - Send to: {topic:[events], key:[Ar Noy], value:[Hareth]}
+2024-06-02 23:39:22,610 [main] INFO  Producer - Send to: {topic:[events], key:[Old Ghis], value:[Rhea Royce]}
+2024-06-02 23:39:23,117 [main] INFO  Producer - Send to: {topic:[events], key:[Old Valyria], value:[Lord Farman of Fair Isle]}
+2024-06-02 23:39:23,621 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Garse Flowers]}
+2024-06-02 23:39:24,126 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Rhaella Targaryen]}
+2024-06-02 23:39:24,630 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Gelmarr]}
+2024-06-02 23:39:25,134 [main] INFO  Producer - Send to: {topic:[events], key:[Norvos], value:[Allyria Dayne]}
+2024-06-02 23:39:25,642 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Glendon Hewett]}
+2024-06-02 23:39:26,145 [main] INFO  Producer - Send to: {topic:[events], key:[Ar Noy], value:[Rycherd Crane]}
+2024-06-02 23:39:26,649 [main] INFO  Producer - Send to: {topic:[events], key:[Ar Noy], value:[Doreah]}
+2024-06-02 23:39:27,152 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Calon]}
+2024-06-02 23:39:27,655 [main] INFO  Producer - Send to: {topic:[events], key:[Lorath], value:[Rodrik Ryswell]}
+2024-06-02 23:39:28,158 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Donnel Drumm]}
+2024-06-02 23:39:28,666 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Kirth Vance]}
+2024-06-02 23:39:29,175 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Sebaston Farman]}
+2024-06-02 23:39:29,685 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Warryn Beesbury]}
+2024-06-02 23:39:30,188 [main] INFO  Producer - Send to: {topic:[events], key:[Tolos], value:[Victaria Tyrell]}
+2024-06-02 23:39:30,698 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Dale Drumm]}
+2024-06-02 23:39:31,208 [main] INFO  Producer - Send to: {topic:[events], key:[Lannisport], value:[Norbert Vance]}
+2024-06-02 23:39:31,712 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Theo Wull]}
+2024-06-02 23:39:32,214 [main] INFO  Producer - Send to: {topic:[events], key:[Ar Noy], value:[Willis Fell]}
+2024-06-02 23:39:32,723 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Baelor I Targaryen]}
+2024-06-02 23:39:33,228 [main] INFO  Producer - Send to: {topic:[events], key:[Old Valyria], value:[Sedgekins]}
+2024-06-02 23:39:33,731 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Rickard Stark]}
+2024-06-02 23:39:34,236 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Maddy]}
+2024-06-02 23:39:34,745 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Mern Gardener]}
+2024-06-02 23:39:35,250 [main] INFO  Producer - Send to: {topic:[events], key:[Elyria], value:[Aemon Targaryen]}
+2024-06-02 23:39:35,758 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Big Boil]}
+2024-06-02 23:39:36,262 [main] INFO  Producer - Send to: {topic:[events], key:[Pentos], value:[Baelor Blacktyde]}
+2024-06-02 23:39:36,769 [main] INFO  Producer - Send to: {topic:[events], key:[Norvos], value:[Hareth]}
+2024-06-02 23:39:37,273 [main] INFO  Producer - Send to: {topic:[events], key:[Oldtown], value:[Aegor Rivers]}
+2024-06-02 23:39:37,777 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Aemond Targaryen]}
+2024-06-02 23:39:38,284 [main] INFO  Producer - Send to: {topic:[events], key:[Bhorash], value:[Triston of Tally Hill]}
+2024-06-02 23:39:38,788 [main] INFO  Producer - Send to: {topic:[events], key:[New Ghis], value:[Naerys Targaryen]}
+2024-06-02 23:39:39,291 [main] INFO  Producer - Send to: {topic:[events], key:[Old Valyria], value:[Quence]}
+2024-06-02 23:39:39,796 [main] INFO  Producer - Send to: {topic:[events], key:[Qarth], value:[Jon Penrose]}
+2024-06-02 23:39:40,299 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Garth Greenfield]}
+2024-06-02 23:39:40,802 [main] INFO  Producer - Send to: {topic:[events], key:[Ar Noy], value:[Ulf the White]}
+2024-06-02 23:39:41,306 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Armond Caswell]}
+2024-06-02 23:39:41,813 [main] INFO  Producer - Send to: {topic:[events], key:[Qarth], value:[Arthur Dayne]}
+2024-06-02 23:39:42,318 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Amerei Frey]}
+2024-06-02 23:39:42,821 [main] INFO  Producer - Send to: {topic:[events], key:[New Ghis], value:[Cersei Frey]}
+2024-06-02 23:39:43,330 [main] INFO  Producer - Send to: {topic:[events], key:[New Ghis], value:[Gelmarr]}
+2024-06-02 23:39:43,840 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Cotter Pyke]}
+2024-06-02 23:39:44,350 [main] INFO  Producer - Send to: {topic:[events], key:[Lorath], value:[Mordane]}
+2024-06-02 23:39:44,859 [main] INFO  Producer - Send to: {topic:[events], key:[Oldtown], value:[Manfred Lothston]}
+2024-06-02 23:39:45,365 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Canker Jeyne]}
+2024-06-02 23:39:45,868 [main] INFO  Producer - Send to: {topic:[events], key:[Old Ghis], value:[Hodor]}
+2024-06-02 23:39:46,371 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Rupert Crabb]}
+2024-06-02 23:39:46,874 [main] INFO  Producer - Send to: {topic:[events], key:[Sunspear], value:[Gevin Harlaw]}
+2024-06-02 23:39:47,379 [main] INFO  Producer - Send to: {topic:[events], key:[Tolos], value:[Emberlei Frey]}
+2024-06-02 23:39:47,889 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Kromm]}
+2024-06-02 23:39:48,399 [main] INFO  Producer - Send to: {topic:[events], key:[Old Ghis], value:[Hairy Hal]}
+2024-06-02 23:39:48,904 [main] INFO  Producer - Send to: {topic:[events], key:[Norvos], value:[Ossifer Plumm]}
+2024-06-02 23:39:49,411 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Joramun]}
+2024-06-02 23:39:49,917 [main] INFO  Producer - Send to: {topic:[events], key:[Old Ghis], value:[Mors Manwoody]}
+2024-06-02 23:39:50,427 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Sylwa Paege]}
+2024-06-02 23:39:50,932 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Black Jack Bulwer]}
+2024-06-02 23:39:51,438 [main] INFO  Producer - Send to: {topic:[events], key:[Sar Meel], value:[Ryam]}
+2024-06-02 23:39:51,945 [main] INFO  Producer - Send to: {topic:[events], key:[Yunkai], value:[Umma]}
+2024-06-02 23:39:52,452 [main] INFO  Producer - Send to: {topic:[events], key:[Old Valyria], value:[Ashara Dayne]}
+2024-06-02 23:39:52,959 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Pate of the Night's Watch]}
+2024-06-02 23:39:53,463 [main] INFO  Producer - Send to: {topic:[events], key:[Bayasabhad], value:[Steffon Swyft]}
+2024-06-02 23:39:53,968 [main] INFO  Producer - Send to: {topic:[events], key:[Lorath], value:[Willem Lannister]}
+2024-06-02 23:39:54,474 [main] INFO  Producer - Send to: {topic:[events], key:[Bayasabhad], value:[Rhogoro]}
+2024-06-02 23:39:54,977 [main] INFO  Producer - Send to: {topic:[events], key:[Elyria], value:[Shirei Frey]}
+2024-06-02 23:39:55,486 [main] INFO  Producer - Send to: {topic:[events], key:[Bayasabhad], value:[Leonette Fossoway]}
+2024-06-02 23:39:55,993 [main] INFO  Producer - Send to: {topic:[events], key:[Yunkai], value:[Grunt]}
+2024-06-02 23:39:56,498 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Walder Goodbrook]}
+2024-06-02 23:39:57,001 [main] INFO  Producer - Send to: {topic:[events], key:[Ar Noy], value:[Clarence Crabb]}
+2024-06-02 23:39:57,509 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Nissa Nissa]}
+2024-06-02 23:39:58,016 [main] INFO  Producer - Send to: {topic:[events], key:[Lorath], value:[Regenard Estren]}
+2024-06-02 23:39:58,519 [main] INFO  Producer - Send to: {topic:[events], key:[Lorath], value:[Andrey Charlton]}
+2024-06-02 23:39:59,025 [main] INFO  Producer - Send to: {topic:[events], key:[Bayasabhad], value:[Werlag]}
+2024-06-02 23:39:59,529 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Helicent Uffering]}
+2024-06-02 23:40:00,032 [main] INFO  Producer - Send to: {topic:[events], key:[Qarth], value:[Umfred]}
+2024-06-02 23:40:00,539 [main] INFO  Producer - Send to: {topic:[events], key:[Oldtown], value:[Lyonel Bentley]}
+2024-06-02 23:40:01,048 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Tycho Nestoris]}
+2024-06-02 23:40:01,558 [main] INFO  Producer - Send to: {topic:[events], key:[Oldtown], value:[Brandon Tallhart]}
+2024-06-02 23:40:02,068 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Lord Caswell]}
+2024-06-02 23:40:02,571 [main] INFO  Producer - Send to: {topic:[events], key:[Volantis], value:[Viserys II Targaryen]}
+2024-06-02 23:40:03,083 [main] INFO  Producer - Send to: {topic:[events], key:[Norvos], value:[Minisa Whent]}
+2024-06-02 23:40:03,592 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Becca]}
+2024-06-02 23:40:04,095 [main] INFO  Producer - Send to: {topic:[events], key:[Lannisport], value:[Denestan]}
+2024-06-02 23:40:04,604 [main] INFO  Producer - Send to: {topic:[events], key:[Sunspear], value:[Grey Worm]}
+2024-06-02 23:40:05,114 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Stafford Lannister]}
+2024-06-02 23:40:05,623 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Nymeria Sand]}
+2024-06-02 23:40:06,132 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Meribald]}
+2024-06-02 23:40:06,641 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Ottomore]}
+2024-06-02 23:40:07,144 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Rymund the Rhymer]}
+2024-06-02 23:40:07,648 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Barba Bracken]}
+2024-06-02 23:40:08,151 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Sallor]}
+2024-06-02 23:40:08,654 [main] INFO  Producer - Send to: {topic:[events], key:[Myr], value:[Deziel Dalt]}
+2024-06-02 23:40:09,157 [main] INFO  Producer - Send to: {topic:[events], key:[Qarth], value:[Rodrik Freeborn]}
+2024-06-02 23:40:09,661 [main] INFO  Producer - Send to: {topic:[events], key:[Lannisport], value:[Norbert Vance]}
+2024-06-02 23:40:10,165 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Portifer Woodwright]}
+2024-06-02 23:40:10,668 [main] INFO  Producer - Send to: {topic:[events], key:[Ar Noy], value:[Bronn]}
+2024-06-02 23:40:11,175 [main] INFO  Producer - Send to: {topic:[events], key:[Mantarys], value:[Harbert]}
+2024-06-02 23:40:11,680 [main] INFO  Producer - Send to: {topic:[events], key:[Qarth], value:[Doran Martell]}
+2024-06-02 23:40:12,183 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Daemon I Blackfyre]}
+2024-06-02 23:40:12,692 [main] INFO  Producer - Send to: {topic:[events], key:[Pentos], value:[Dorea Sand]}
+2024-06-02 23:40:13,202 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Rickard Karstark]}
+2024-06-02 23:40:13,713 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Marissa Frey]}
+2024-06-02 23:40:14,221 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Gage]}
+2024-06-02 23:40:14,728 [main] INFO  Producer - Send to: {topic:[events], key:[Oros], value:[Maris]}
+2024-06-02 23:40:15,232 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Merianne Frey]}
+2024-06-02 23:40:15,741 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Ironbelly]}
+2024-06-02 23:40:16,250 [main] INFO  Producer - Send to: {topic:[events], key:[Lannisport], value:[Dirk]}
+2024-06-02 23:40:16,754 [main] INFO  Producer - Send to: {topic:[events], key:[Bhorash], value:[Doreah]}
+2024-06-02 23:40:17,263 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Barra]}
+2024-06-02 23:40:17,772 [main] INFO  Producer - Send to: {topic:[events], key:[Lorath], value:[Vulture King]}
+2024-06-02 23:40:18,277 [main] INFO  Producer - Send to: {topic:[events], key:[Ar Noy], value:[Aerion Targaryen]}
+2024-06-02 23:40:18,780 [main] INFO  Producer - Send to: {topic:[events], key:[Bayasabhad], value:[Fern]}
+2024-06-02 23:40:19,283 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Lymond Goodbrook]}
+2024-06-02 23:40:19,793 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Godry Farring]}
+2024-06-02 23:40:20,299 [main] INFO  Producer - Send to: {topic:[events], key:[Norvos], value:[Duram Bar Emmon]}
+2024-06-02 23:40:20,802 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Dorea Sand]}
+2024-06-02 23:40:21,305 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Poetess]}
+2024-06-02 23:40:21,808 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Red Rolfe]}
+2024-06-02 23:40:22,312 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Wendello Qar Deeth]}
+2024-06-02 23:40:22,815 [main] INFO  Producer - Send to: {topic:[events], key:[Norvos], value:[Anvil Ryn]}
+2024-06-02 23:40:23,321 [main] INFO  Producer - Send to: {topic:[events], key:[Mantarys], value:[Elwood Meadows]}
+2024-06-02 23:40:23,828 [main] INFO  Producer - Send to: {topic:[events], key:[Lorath], value:[Gage]}
+2024-06-02 23:40:24,336 [main] INFO  Producer - Send to: {topic:[events], key:[New Ghis], value:[Chiggen]}
+2024-06-02 23:40:24,846 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Dorea Sand]}
+2024-06-02 23:40:25,349 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Barbrey Dustin]}
+2024-06-02 23:40:25,858 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Baelor Targaryen]}
+2024-06-02 23:40:26,368 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Prendahl na Ghezn]}
+2024-06-02 23:40:26,877 [main] INFO  Producer - Send to: {topic:[events], key:[Oldtown], value:[Melara Crane]}
+2024-06-02 23:40:27,386 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Gariss]}
+2024-06-02 23:40:27,894 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Osney Kettleblack]}
+2024-06-02 23:40:28,397 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Jafer Flowers]}
+2024-06-02 23:40:28,906 [main] INFO  Producer - Send to: {topic:[events], key:[Norvos], value:[Lyn Corbray]}
+2024-06-02 23:40:29,414 [main] INFO  Producer - Send to: {topic:[events], key:[Sunspear], value:[Ormond Yronwood]}
+2024-06-02 23:40:29,919 [main] INFO  Producer - Send to: {topic:[events], key:[Ar Noy], value:[Brandon the Burner]}
+2024-06-02 23:40:30,430 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Jon Umber]}
+2024-06-02 23:40:30,935 [main] INFO  Producer - Send to: {topic:[events], key:[Tolos], value:[Colin Florent]}
+2024-06-02 23:40:31,439 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Brogg]}
+2024-06-02 23:40:31,942 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Dickon Manwoody]}
+2024-06-02 23:40:32,445 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Richard Lonmouth]}
+2024-06-02 23:40:32,953 [main] INFO  Producer - Send to: {topic:[events], key:[Elyria], value:[Emmon Frey]}
+2024-06-02 23:40:33,458 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Rupert Brax]}
+2024-06-02 23:40:33,962 [main] INFO  Producer - Send to: {topic:[events], key:[Yunkai], value:[Ironbelly]}
+2024-06-02 23:40:34,465 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Harghaz]}
+2024-06-02 23:40:34,975 [main] INFO  Producer - Send to: {topic:[events], key:[Old Valyria], value:[Chiswyck]}
+2024-06-02 23:40:35,480 [main] INFO  Producer - Send to: {topic:[events], key:[Tolos], value:[Symon Santagar]}
+2024-06-02 23:40:35,985 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Eustace Osgrey]}
+2024-06-02 23:40:36,489 [main] INFO  Producer - Send to: {topic:[events], key:[Mantarys], value:[Donnel Locke]}
+2024-06-02 23:40:36,993 [main] INFO  Producer - Send to: {topic:[events], key:[Yunkai], value:[Barre]}
+2024-06-02 23:40:37,499 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Eustace Osgrey]}
+2024-06-02 23:40:38,004 [main] INFO  Producer - Send to: {topic:[events], key:[Sar Meel], value:[Gueren]}
+2024-06-02 23:40:38,508 [main] INFO  Producer - Send to: {topic:[events], key:[Yunkai], value:[Norbert Vance]}
+2024-06-02 23:40:39,015 [main] INFO  Producer - Send to: {topic:[events], key:[Old Valyria], value:[Conn]}
+2024-06-02 23:40:39,518 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Gariss]}
+2024-06-02 23:40:40,023 [main] INFO  Producer - Send to: {topic:[events], key:[Bhorash], value:[Melaquin]}
+2024-06-02 23:40:40,530 [main] INFO  Producer - Send to: {topic:[events], key:[Old Valyria], value:[Elia Martell]}
+2024-06-02 23:40:41,035 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Rhogoro]}
+2024-06-02 23:40:41,540 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Hop-Robin]}
+2024-06-02 23:40:42,045 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Gage]}
+2024-06-02 23:40:42,550 [main] INFO  Producer - Send to: {topic:[events], key:[Bhorash], value:[Manfrey Martell]}
+2024-06-02 23:40:43,053 [main] INFO  Producer - Send to: {topic:[events], key:[Bhorash], value:[Delena Florent]}
+2024-06-02 23:40:43,563 [main] INFO  Producer - Send to: {topic:[events], key:[King's Landing], value:[Wyl]}
+2024-06-02 23:40:44,073 [main] INFO  Producer - Send to: {topic:[events], key:[Volantis], value:[Poetess]}
+2024-06-02 23:40:44,578 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Timeon]}
+2024-06-02 23:40:45,087 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Harrold Hardyng]}
+2024-06-02 23:40:45,590 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Emmond]}
+2024-06-02 23:40:46,099 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Elia Sand]}
+2024-06-02 23:40:46,608 [main] INFO  Producer - Send to: {topic:[events], key:[Meereen], value:[Roger Hogg]}
+2024-06-02 23:40:47,111 [main] INFO  Producer - Send to: {topic:[events], key:[Yunkai], value:[Alerie Hightower]}
+2024-06-02 23:40:47,616 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Edmure Tully]}
+2024-06-02 23:40:48,120 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Greenbeard]}
+2024-06-02 23:40:48,624 [main] INFO  Producer - Send to: {topic:[events], key:[Oros], value:[Pate of the Night's Watch]}
+2024-06-02 23:40:49,133 [main] INFO  Producer - Send to: {topic:[events], key:[Sar Meel], value:[Gyleno Dothare]}
+2024-06-02 23:40:49,642 [main] INFO  Producer - Send to: {topic:[events], key:[Qarth], value:[Lia Serry]}
+2024-06-02 23:40:50,151 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Richard Farrow]}
+2024-06-02 23:40:50,660 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Weese]}
+2024-06-02 23:40:51,164 [main] INFO  Producer - Send to: {topic:[events], key:[Qarth], value:[Pate of the Blue Fork]}
+2024-06-02 23:40:51,667 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Rhaelle Targaryen]}
+2024-06-02 23:40:52,170 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Ulf the White]}
+2024-06-02 23:40:52,679 [main] INFO  Producer - Send to: {topic:[events], key:[Bhorash], value:[Steely Pate]}
+2024-06-02 23:40:53,189 [main] INFO  Producer - Send to: {topic:[events], key:[Volantis], value:[Varys]}
+2024-06-02 23:40:53,700 [main] INFO  Producer - Send to: {topic:[events], key:[Elyria], value:[Toregg the Tall]}
+2024-06-02 23:40:54,209 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Quenten Banefort]}
+2024-06-02 23:40:54,718 [main] INFO  Producer - Send to: {topic:[events], key:[Old Valyria], value:[Sumner Crakehall]}
+2024-06-02 23:40:55,228 [main] INFO  Producer - Send to: {topic:[events], key:[Pentos], value:[Rosamund Lannister]}
+2024-06-02 23:40:55,737 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Waymar Royce]}
+2024-06-02 23:40:56,246 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Wyl]}
+2024-06-02 23:40:56,749 [main] INFO  Producer - Send to: {topic:[events], key:[Norvos], value:[Clement]}
+2024-06-02 23:40:57,258 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Fogo]}
+2024-06-02 23:40:57,767 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Tormund]}
+2024-06-02 23:40:58,271 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Lord Fell of Felwood]}
+2024-06-02 23:40:58,777 [main] INFO  Producer - Send to: {topic:[events], key:[Ar Noy], value:[Roelle]}
+2024-06-02 23:40:59,281 [main] INFO  Producer - Send to: {topic:[events], key:[Volantis], value:[Mellara Rivers]}
+2024-06-02 23:40:59,785 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Meralyn]}
+2024-06-02 23:41:00,290 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[TomToo]}
+2024-06-02 23:41:00,793 [main] INFO  Producer - Send to: {topic:[events], key:[Pentos], value:[Lothar]}
+2024-06-02 23:41:01,304 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Elaena Targaryen]}
+2024-06-02 23:41:01,812 [main] INFO  Producer - Send to: {topic:[events], key:[Volantis], value:[Damon]}
+2024-06-02 23:41:02,315 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Will]}
+2024-06-02 23:41:02,822 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Dywen]}
+2024-06-02 23:41:03,332 [main] INFO  Producer - Send to: {topic:[events], key:[Old Valyria], value:[Lord Staunton]}
+2024-06-02 23:41:03,835 [main] INFO  Producer - Send to: {topic:[events], key:[Bayasabhad], value:[Ramsay Snow]}
+2024-06-02 23:41:04,339 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Ragwyle]}
+2024-06-02 23:41:04,848 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Creighton Longbough]}
+2024-06-02 23:41:05,356 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Rickard Thorne]}
+2024-06-02 23:41:05,864 [main] INFO  Producer - Send to: {topic:[events], key:[Qarth], value:[Marillion]}
+2024-06-02 23:41:06,375 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Walder Frey]}
+2024-06-02 23:41:06,884 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Gerold Hightower]}
+2024-06-02 23:41:07,393 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Perriane Frey]}
+2024-06-02 23:41:07,903 [main] INFO  Producer - Send to: {topic:[events], key:[New Ghis], value:[Maron Botley]}
+2024-06-02 23:41:08,411 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Lomas Estermont]}
+2024-06-02 23:41:08,921 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Erena Glover]}
+2024-06-02 23:41:09,425 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Tristifer V Mudd]}
+2024-06-02 23:41:09,929 [main] INFO  Producer - Send to: {topic:[events], key:[Mantarys], value:[Josmyn Peckledon]}
+2024-06-02 23:41:10,439 [main] INFO  Producer - Send to: {topic:[events], key:[Oldtown], value:[Melly]}
+2024-06-02 23:41:10,949 [main] INFO  Producer - Send to: {topic:[events], key:[Pentos], value:[Cuger]}
+2024-06-02 23:41:11,458 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Peter Plumm]}
+2024-06-02 23:41:11,967 [main] INFO  Producer - Send to: {topic:[events], key:[Yunkai], value:[Mandon Moore]}
+2024-06-02 23:41:12,476 [main] INFO  Producer - Send to: {topic:[events], key:[Qarth], value:[Humfrey Beesbury]}
+2024-06-02 23:41:12,985 [main] INFO  Producer - Send to: {topic:[events], key:[White Harbor], value:[Gwynesse Harlaw]}
+2024-06-02 23:41:13,493 [main] INFO  Producer - Send to: {topic:[events], key:[Sunspear], value:[Daella Targaryen]}
+2024-06-02 23:41:14,003 [main] INFO  Producer - Send to: {topic:[events], key:[Braavos], value:[Theobald]}
+2024-06-02 23:41:14,506 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Eon Hunter]}
+2024-06-02 23:41:15,009 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Rickard Karstark]}
+2024-06-02 23:41:15,513 [main] INFO  Producer - Send to: {topic:[events], key:[Old Valyria], value:[Sigfry Stonetree]}
+2024-06-02 23:41:16,018 [main] INFO  Producer - Send to: {topic:[events], key:[Oros], value:[Damion Lannister]}
+2024-06-02 23:41:16,527 [main] INFO  Producer - Send to: {topic:[events], key:[Old Valyria], value:[Rycherd Crane]}
+2024-06-02 23:41:17,029 [main] INFO  Producer - Send to: {topic:[events], key:[Asshai], value:[Ellaria Sand]}
+2024-06-02 23:41:17,533 [main] INFO  Producer - Send to: {topic:[events], key:[New Ghis], value:[Edwyn Osgrey]}
+2024-06-02 23:41:18,042 [main] INFO  Producer - Send to: {topic:[events], key:[Bayasabhad], value:[Waymar Royce]}
+2024-06-02 23:41:18,551 [main] INFO  Producer - Send to: {topic:[events], key:[Ar Noy], value:[Robb Stark]}
+2024-06-02 23:41:19,059 [main] INFO  Producer - Send to: {topic:[events], key:[Myr], value:[Lia Serry]}
+2024-06-02 23:41:19,563 [main] INFO  Producer - Send to: {topic:[events], key:[Lannisport], value:[Uller]}
+2024-06-02 23:41:20,067 [main] INFO  Producer - Send to: {topic:[events], key:[Sar Meel], value:[Meryn Trant]}
+2024-06-02 23:41:20,570 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Jeyne Beesbury]}
+2024-06-02 23:41:21,079 [main] INFO  Producer - Send to: {topic:[events], key:[Mantarys], value:[Jorquen]}
+2024-06-02 23:41:21,589 [main] INFO  Producer - Send to: {topic:[events], key:[Mantarys], value:[Visenya Targaryen]}
+2024-06-02 23:41:22,098 [main] INFO  Producer - Send to: {topic:[events], key:[Volantis], value:[Jon Arryn]}
+2024-06-02 23:41:22,606 [main] INFO  Producer - Send to: {topic:[events], key:[Oldtown], value:[Robert Flowers]}
+2024-06-02 23:41:23,109 [main] INFO  Producer - Send to: {topic:[events], key:[Oros], value:[Rafford]}
+2024-06-02 23:41:23,618 [main] INFO  Producer - Send to: {topic:[events], key:[Gulltown], value:[Ronald Connington]}
+2024-06-02 23:41:24,127 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Glendon Hewett]}
+2024-06-02 23:41:24,636 [main] INFO  Producer - Send to: {topic:[events], key:[Bhorash], value:[Jeyne Beesbury]}
+2024-06-02 23:41:25,143 [main] INFO  Producer - Send to: {topic:[events], key:[Tolos], value:[Tysane Frey]}
+2024-06-02 23:41:25,652 [main] INFO  Producer - Send to: {topic:[events], key:[Lannisport], value:[Penny Jenny]}
+2024-06-02 23:41:26,161 [main] INFO  Producer - Send to: {topic:[events], key:[Samyrian], value:[Bonifer Hasty]}
+2024-06-02 23:41:26,665 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Sefton]}
+2024-06-02 23:41:27,173 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Weasel]}
+2024-06-02 23:41:27,683 [main] INFO  Producer - Send to: {topic:[events], key:[Bayasabhad], value:[Squirrel]}
+2024-06-02 23:41:28,193 [main] INFO  Producer - Send to: {topic:[events], key:[Astapor], value:[Styr]}
+2024-06-02 23:41:28,703 [main] INFO  Producer - Send to: {topic:[events], key:[Yunkai], value:[Mullin]}
+2024-06-02 23:41:29,211 [main] INFO  Producer - Send to: {topic:[events], key:[Sar Meel], value:[Tyland Lannister]}
+2024-06-02 23:41:29,719 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Drennan]}
+2024-06-02 23:41:30,228 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Morton Waynwood]}
+2024-06-02 23:41:30,736 [main] INFO  Producer - Send to: {topic:[events], key:[Tyria], value:[Gyldayn]}
+2024-06-02 23:41:31,244 [main] INFO  Producer - Send to: {topic:[events], key:[Lannisport], value:[Holger]}
+2024-06-02 23:41:31,753 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Cedric Payne]}
+2024-06-02 23:41:32,261 [main] INFO  Producer - Send to: {topic:[events], key:[Tolos], value:[Ysilla]}
+2024-06-02 23:41:32,770 [main] INFO  Producer - Send to: {topic:[events], key:[Bhorash], value:[Orland of Oldtown]}
+2024-06-02 23:41:33,279 [main] INFO  Producer - Send to: {topic:[events], key:[Pentos], value:[Jaehaera Targaryen]}
+2024-06-02 23:41:33,788 [main] INFO  Producer - Send to: {topic:[events], key:[Pentos], value:[Bryan Frey]}
+2024-06-02 23:41:34,296 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Hibald]}
+2024-06-02 23:41:34,805 [main] INFO  Producer - Send to: {topic:[events], key:[Mantarys], value:[Saera Targaryen]}
+2024-06-02 23:41:35,322 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Spotted Cat]}
+2024-06-02 23:41:35,831 [main] INFO  Producer - Send to: {topic:[events], key:[Sar Meel], value:[Scarb]}
+2024-06-02 23:41:36,335 [main] INFO  Producer - Send to: {topic:[events], key:[Lys], value:[Stalwart Shield]}
+2024-06-02 23:41:36,839 [main] INFO  Producer - Send to: {topic:[events], key:[Vaes Dothrak], value:[Lucantine Woodwright]}
+2024-06-02 23:41:37,347 [main] INFO  Producer - Send to: {topic:[events], key:[Oldtown], value:[Old Tattersalt]}
+2024-06-02 23:41:37,855 [main] INFO  Producer - Send to: {topic:[events], key:[Oros], value:[Colemon]}
+2024-06-02 23:41:38,363 [main] INFO  Producer - Send to: {topic:[events], key:[New Ghis], value:[Qarl Shepherd]}
+2024-06-02 23:41:38,872 [main] INFO  Producer - Send to: {topic:[events], key:[Sunspear], value:[Hugor of the Hill]}
+2024-06-02 23:41:39,381 [main] INFO  Producer - Send to: {topic:[events], key:[Pentos], value:[Wilbert Osgrey]}
+2024-06-02 23:41:39,889 [main] INFO  Producer - Send to: {topic:[events], key:[Ny Sar], value:[Byron]}
+2024-06-02 23:41:40,398 [main] INFO  Producer - Send to: {topic:[events], key:[Tolos], value:[Olenna Redwyne]}
+2024-06-02 23:41:40,907 [main] INFO  Producer - Send to: {topic:[events], key:[Norvos], value:[Yandry]}
+2024-06-02 23:41:41,416 [main] INFO  Producer - Send to: {topic:[events], key:[Ar Noy], value:[Becca the Baker]}
+2024-06-02 23:41:41,924 [main] INFO  Producer - Send to: {topic:[events], key:[Norvos], value:[Symon Stripeback]}
+2024-06-02 23:41:42,433 [main] INFO  Producer - Send to: {topic:[events], key:[Yunkai], value:[Hot Pie]}
+2024-06-02 23:41:42,941 [main] INFO  Producer - Send to: {topic:[events], key:[Chroyane], value:[Tristimun]}
+2024-06-02 23:41:43,450 [main] INFO  Producer - Send to: {topic:[events], key:[Qohor], value:[Dale Drumm]}
+2024-06-02 23:41:43,959 [main] INFO  Producer - Send to: {topic:[events], key:[Ar Noy], value:[Minisa Whent]}
+2024-06-02 23:41:44,467 [main] INFO  Producer - Send to: {topic:[events], key:[Tyrosh], value:[Vickon Greyjoy]}
+2024-06-02 23:41:44,977 [main] INFO  Producer - Send to: {topic:[events], key:[Myr], value:[Murch]}

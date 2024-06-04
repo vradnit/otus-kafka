@@ -1,0 +1,21 @@
+{
+    "name": "postgres-otus-source",
+    "config": {
+        "connector.class": "io.debezium.connector.postgresql.PostgresConnector",
+        "database.dbname" : "otus",
+        "database.hostname": "postgres",
+        "database.port": "5432",
+        "database.user": "postgres",
+        "database.password": "postgres",
+        "plugin.name": "pgoutput",
+        "table.include.list": "public.customers",
+        "tasks.max": "1",
+        "topic.prefix": "postgres",
+        "topic.creation.enable": "true",
+        "topic.creation.default.replication.factor": "3",
+        "topic.creation.default.partitions": "1",
+        "topic.creation.default.cleanup.policy": "delete",
+        "topic.creation.default.retention.ms": "604800000",
+        "slot.name" : "debezium"
+    }
+}

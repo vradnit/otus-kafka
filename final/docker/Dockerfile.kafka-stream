@@ -1,0 +1,14 @@
+FROM maven:3-openjdk-17 as build
+WORKDIR /build
+COPY ./kafka-stream-fraud-detector /build/kafka-stream-fraud-detector
+RUN cd /build/kafka-stream-fraud-detector && mvn clean package
+
+FROM openjdk:23-ea-17-slim
+WORKDIR /app
+RUN mkdir /app/target && mkdir -p /app/src/main 
+COPY --from=build /build/kafka-stream-fraud-detector/target/KafkaStream-1.0-SNAPSHOT-jar-with-dependencies.jar /app/target/KafkaStream-1.0-SNAPSHOT-jar-with-dependencies.jar
+COPY ./kafka-stream-fraud-detector/src/main/resources /app/src/main/resources 
+
+USER nobody
+
+ENTRYPOINT ["java", "-cp", "/app/target/KafkaStream-1.0-SNAPSHOT-jar-with-dependencies.jar", "otus.StreamApp"]

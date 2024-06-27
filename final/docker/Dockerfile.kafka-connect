@@ -1,0 +1,5 @@
+ARG KC_VERSION
+FROM confluentinc/cp-kafka-connect-base:${KC_VERSION}
+ARG KC_ELASTICSEARCH_VERSION
+
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-elasticsearch:${KC_ELASTICSEARCH_VERSION}

@@ -177,3 +177,7 @@ services:
       - ksqldb
     entrypoint: /bin/sh
     tty: true
+
+networks:
+  default:
+    name: kafka-otus-final_default
